@@ -7,8 +7,9 @@ draft: true
 - [Hiragana](hiragana)
 - [Katakana](katakana)
 ### Nouns
-- [numbers](numbers)
-- [colors](colors)
-- [animals](animals)
-- [date and time](date_and_time)
+- [Numbers](numbers)
+- [Colors](colors)
+- [Animals](animals)
+- [Date and Time](date_and_time)
+- [Body Parts](body_parts)
 ### [Verbs](verbs)

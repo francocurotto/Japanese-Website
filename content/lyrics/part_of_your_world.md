@@ -26,7 +26,7 @@ draft: true
 | ヒレじゃ遠くへ行けない                 | Hire ja tooku e ikenai                              | With fins you can't go very far                        |
 | 足がいるわ踊ったり散歩したり           | Ashi ga iru wa odottari sanpo shitari               | With legs you can dance or take a walk                 |
 | どこを歩くだっけ？道                   | Doko wo aruku dakke? Michi                          | Where do they walk? Street                             |
-| 歩いて、走って、日の光あびながら       | Aruite, hashitte, hi no hikaru abi nagara           | To walk, to run, while basking in the light of the sun |
+| 歩いて、走って、日の光あびながら       | Aruite, hashitte, hi no hikari abi nagara           | To walk, to run, while basking in the light of the sun |
 | 自由に人間の世界で                     | Jiyuu ni ningen no sekai de                         | Free, in the world of  humans                          |
 |                                        |                                                     |                                                        |
 | なんでもあげるわここを出て             | Nandemo ageru wa koko wo dete                       | I would do anything to get out of this place           |
