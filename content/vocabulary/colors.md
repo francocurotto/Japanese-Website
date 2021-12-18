@@ -3,8 +3,8 @@ title: "Colors"
 date: 2021-12-08T18:43:11-03:00
 draft: true
 ---
-| Icon                            | English | Kana         | Kanji       |
-|---------------------------------|---------|--------------|-------------|
+| Icon                             | English | Kana         | Kanji       |
+|----------------------------------|---------|--------------|-------------|
 | {{<color red   >}}██{{</color>}} | red     | あか         | 赤         |
 | {{<color orange>}}██{{</color>}} | orange  | オランジいろ | オランジ色 |
 | {{<color yellow>}}██{{</color>}} | yellow  | きいろ       | 黄色       |

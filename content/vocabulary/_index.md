@@ -13,3 +13,5 @@ draft: true
 - [Date and Time](date_and_time)
 - [Body Parts](body_parts)
 ### [Verbs](verbs)
+### [Greetings](greetings)
+### [Demostratives](demostratives)

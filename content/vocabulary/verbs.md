@@ -20,6 +20,7 @@ draft: true
 | say     | いう           | 言う       |
 | walk    | あるく         | 歩く       |
 | stroll  | さんぽする     | 散歩する   |
+| run     | はしる         | 走る       |
 | buy     | かう           | 買う       |
 | wait    | まつ           | 待つ       |
 | play    | あそぶ         | 遊ぶ       |
@@ -36,4 +37,8 @@ draft: true
 | leave   | でる           | 出る       |
 | bring   | もってくる     | 持って来る |
 | study   | べんきょうする | 勉強する   |
-
+| start   | はじまる       | 始まる     |
+| finish  | おわる         | 終わる     |
+| cook    | りょうる       | 料る       |
+| make    | つくる         | 作る       |
+| wear    | きる           | 着る       |
