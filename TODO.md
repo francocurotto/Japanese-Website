@@ -1,0 +1,12 @@
+- Vocabulary:
+    - Countries
+    - Adjectives
+    - Food
+    - Astronomy
+    - Weather
+
+- Vocabulary from source:
+    - Marugoto books
+    - infinite japanese
+    - easy japanese
+    - iwadare-sensei memos
