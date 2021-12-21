@@ -6,6 +6,7 @@ draft: true
 
 | English          | Kana         | Kanji  |
 |------------------|--------------|--------|
+| profession       | しごと       | 仕事   |
 | teacher          | きょうし     | 教師   |
 | student          | がくせい     | 学生   |
 | office worker    | かいしゃいん | 会社員 |

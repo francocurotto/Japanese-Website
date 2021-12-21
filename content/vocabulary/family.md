@@ -6,6 +6,7 @@ draft: true
 ### Non-formal
 | English         | Kana       | Kanji  |
 |-----------------|------------|--------|
+| family          | かぞく     | 家族   |
 | I               | わたし     | 私     |
 | mother          | はは       | 母     |
 | father          | ちち       | 父     |
