@@ -23,7 +23,7 @@ draft: true
 | そして歩く。。。なんて言った？         | Soshite aruku... Nante itta?                        | And walking... What's it called?                       |
 | あ。。。足                             | Ah... Ashi                                          | Ah... feet                                             |
 |                                        |                                                     |                                                        |
-| ヒレじゃ遠くへ行けない                 | Hire ja tooku e ikenai                              | With fins you can't go very far                        |
+| ヒレじゃ遠くへ行けない                 | Hire ja tooku e yukenai                             | With fins you can't go very far                        |
 | 足がいるわ踊ったり散歩したり           | Ashi ga iru wa odottari sanpo shitari               | With legs you can dance or take a walk                 |
 | どこを歩くだっけ？道                   | Doko wo aruku dakke? Michi                          | Where do they walk? Street                             |
 | 歩いて、走って、日の光あびながら       | Aruite, hashitte, hi no hikari abi nagara           | To walk, to run, while basking in the light of the sun |

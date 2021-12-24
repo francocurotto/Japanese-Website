@@ -1,6 +1,5 @@
 - Vocabulary:
     - Adjectives
-    - Food
     - Astronomy
     - Weather
 

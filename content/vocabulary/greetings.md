@@ -15,3 +15,5 @@ draft: true
 | pardon for leaving first  | おさきにしつれいします | お先に失礼します |
 | good work                 | おつかれさまでした     | お疲れ様でした   |
 | best regards              | どうぞよろしく         | どうぞ夜露死苦   |
+| let's eat!                | いただきます           | 頂きます         |
+| thank you for the meal    | ごちそうさま           | ご馳走様         |
