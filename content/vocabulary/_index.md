@@ -16,6 +16,8 @@ draft: true
 - [Body Parts](body_parts)
 - [Date and Time](date_and_time)
 - [Countries and Places](countries_and_places)
+- [Home](home)
 ### [Verbs](verbs)
+### [Adjectives](adjectives)
 ### [Greetings](greetings)
 ### [Demostratives](demostratives)
