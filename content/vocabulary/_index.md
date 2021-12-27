@@ -15,7 +15,7 @@ draft: true
 - [Professions](professions)
 - [Body Parts](body_parts)
 - [Date and Time](date_and_time)
-- [Countries and Places](countries_and_places)
+- [Countries, Cities, Continents](countries_cities_continents)
 - [Home](home)
 ### [Verbs](verbs)
 ### [Adjectives](adjectives)

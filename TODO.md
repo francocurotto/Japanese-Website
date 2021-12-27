@@ -1,5 +1,4 @@
 - Vocabulary:
-    - Adjectives
     - Astronomy
     - Weather
 

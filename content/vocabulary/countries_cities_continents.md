@@ -1,9 +1,9 @@
 ---
-title: "Countries and Places"
+title: "Countries, Cities, Continents"
 date: 2021-12-21T17:44:07-03:00
 draft: true
 ---
-# Countries
+### Countries
 | Icon | English     | Kana           | Kanji |
 |------|-------------|----------------|-------|
 |      | country     | くに           | 国    |
@@ -18,14 +18,14 @@ draft: true
 | 🇪🇬 | Egipt       | エジプト       |       |
 | 🇦🇺 | Australia   | アーストラリア |       |
 
-# Cities
+### Cities
 | English | Kana       | Kanji |
 |---------|------------|-------|
 | Tokyo   | とうきょう | 東京  |
 | Kyoto   | きょうと   | 京都  |
 | Osaka   | おおさか   | 大阪  |
 
-# Continents
+### Continents
 | English   | Kana               | Kanji    |
 |-----------|--------------------|----------|
 | Asia      | アジア             |          |
