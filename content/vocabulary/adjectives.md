@@ -19,12 +19,25 @@ draft: true
 | English   | Kana     | Kanji    |
 |-----------|----------|----------|
 | delicious | おいしい | 美味しい |
+| sweet     | あまい   | 甘い     |
 
-### Money
-| English   | Kana   | Kanji |
-|-----------|--------|-------|
-| cheap     | やすい | 安い  |
-| expensive | たかい | 高い  |
+### Preference
+| English  | Kana   | Kanji  |
+|----------|--------|--------|
+| liked    | すき   | 好き   |
+| disliked | きらい | 嫌い   |
+| wanted   | ほしい | 欲しい |
+
+### Evaluation
+| English  | Kana     | Kanji |
+|----------|----------|-------|
+| excelent | ばつぐん | 抜群  |
+| most     | さいこう | 最高  |
+
+### Health
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| healthy | げんき | 元気  |
 
 ## Appareance
 | English  | Kana       | Kanji  |
@@ -35,6 +48,14 @@ draft: true
 | old      | ふるい     | 古い   |
 | well-lit | あかるい   | 明るい |
 | dark     | くらい     | 暗い   |
+| clean    | せいけつ   | 清潔   |
+| dirty    | きたない   | 汚い   |
+
+### Money
+| English   | Kana   | Kanji |
+|-----------|--------|-------|
+| cheap     | やすい | 安い  |
+| expensive | たかい | 高い  |
 
 ### Time
 | English | Kana   | Kanji |
