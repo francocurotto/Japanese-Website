@@ -12,7 +12,7 @@ draft: true
 |                      |        |
 | that [+ is]          | それ   |
 | there                | そこ   |
-| that                 | その   |
+| that [+ noun]        | その   |
 | that way             | そちら |
 |                      |        |
 | that (far) [+ is]    | あれ   |

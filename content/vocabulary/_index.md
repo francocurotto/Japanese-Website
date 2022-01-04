@@ -6,6 +6,7 @@ draft: true
 ### Kanas
 - [Hiragana](hiragana)
 - [Katakana](katakana)
+### [Particles](particles)
 ### Nouns
 - [Numbers](numbers)
 - [Colors](colors)

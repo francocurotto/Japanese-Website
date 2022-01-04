@@ -1,7 +1,4 @@
 - Vocabulary:
-    - Astronomy
-    - Weather
-    - particles
     - counters
 
 - Vocabulary from source:
