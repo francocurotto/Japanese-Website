@@ -30,7 +30,7 @@ draft: true
 | 自由に人間の世界で                     | Jiyuu ni ningen no sekai de                         | Free, in the world of  humans                          |
 |                                        |                                                     |                                                        |
 | なんでもあげるわここを出て             | Nandemo ageru wa koko wo dete                       | I would do anything to get out of this place           |
-| 温かい砂の上で眠れたた                 | Atatakai suna no ue de nemuretara                   | To be able to sleep on the warm sand                   |
+| 温かい砂の上で眠れたら                 | Atatakai suna no ue de nemuretara                   | To be able to sleep on the warm sand                   |
 | 陸ねはいないわあんあわからずやは       | Riku ni wa inai wa anna wakarazuya wa               | On the shore, stubborn people are unheard of           |
 | 私は子供じゃないのよ                   | Watashi wa kodomo janai no yo                       | I'm not a child!                                       |
 |                                        |                                                     |                                                        |
