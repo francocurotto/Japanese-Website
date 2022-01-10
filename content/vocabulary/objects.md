@@ -4,10 +4,11 @@ date: 2021-12-27T09:25:03-03:00
 draft: true
 ---
 ### Resting Place
-| English | Kana     | Kanji |
-|---------|----------|-------|
-| bed     | ベッド   |       |
-| sofa    | ソファ   |       |
+| Icon | English | Kana     | Kanji |
+|------|---------|----------|-------|
+| 🛏️   | bed     | ベッド   |       |
+| 🛋️   | sofa    | ソファ   |       |
+| 🪑   | chair   | いそ     | 椅子  |
 
 ### Kitchen and Dining Room
 | English        | Kana         | Kanji      |
@@ -15,45 +16,57 @@ draft: true
 | refrigerator   | れいぞうこ   | 冷蔵庫     |
 | microwave oven | でんしレンジ | 電子レンジ |
 | table          | テーブル     |            |
-| chair          | いそ         | 椅子       |
+
+### Bathroom and Hygiene
+| Icon | English | Kana     | Kanji |
+|------|---------|----------|-------|
+| 🚽   | toilet  | トイレ   |       |      
+| 🚿   | shower  | シャワー |       |
 
 ### Electronics
-| English    | Kana     | Kanji |
-|------------|----------|-------|
-| telephone  | でんわ   | 電話  |
-| television | テレビ   |       |
-| AC         | エアコン |       |
+| Icon | English    | Kana     | Kanji |
+|------|------------|----------|-------|
+| ☎️    | telephone  | でんわ   | 電話  |
+| 📺   | television | テレビ   |       |
+| 📷   | camera     | カメラ   |       |
+|      | AC         | エアコン |       |
+| ⏰   | clock      | とてい   | 時計  |
 
 ### Clothes
-| English | Kana | Kanji |
-|---------|------|-------|
-| clothes | ふく | 服    |
+| Icon | English | Kana   | Kanji |
+|------|---------|--------|-------|
+|      | clothes | ふく   | 服    |
+| 👕   | shirt   | シャツ |       |
 
 ### Office and Stationery
-| English | Kana     | Kanji |
-|---------|----------|-------|
-| pencil  | えんぴつ | 鉛筆  |
-| pen     | ペン     |       |
-| book    | ほん     | 本    |
+| Icon | English    | Kana     | Kanji |
+|------|------------|----------|-------|
+| ✏️    | pencil     | えんぴつ | 鉛筆  |
+| 🖊️   | pen        | ペン     |       |
+| 📕   | book       | ほん     | 本    |
+|      | magazine   | ざっし   | 雑誌  |
+|      | dictionary | じしょ   | 辞書  |
+|      | desk       | つくえ   | 机    |
 
 ### Containers
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| bag     | かばん | 鞄    |
-| box     | はこ   | 箱    |
+| Icon | English | Kana   | Kanji |
+|------|---------|--------|-------|
+| 💰   | bag     | かばん | 鞄    |
+| 📦   | box     | はこ   | 箱    |
 
 ### Travel
-| English  | Kana     | Kanji  |
-|----------|----------|--------|
-| ticket   | きっぷ   | 切符   |
-| souvenir | おみやげ | お土産 |
+| Icon | English  | Kana     | Kanji  |
+|------|----------|----------|--------|
+| 🎫   | ticket   | きっぷ   | 切符   |
+|      | souvenir | おみやげ | お土産 |
+| 🗺️   | map      | ちず     | 地図   |
 
 ### Arts and Entretainment
 | English | Kana   | Kanji |
 |---------|--------|-------|
 | manga   | マンガ | 漫画  |
 
-### Geography
-| English | Kana | Kanji |
-|---------|------|-------|
-| map     | ちず | 地図  |
+### Instruments
+| Icon | English | Kana   | Kanji |
+|------|---------|--------|-------|
+| 🎹   | piano   | ピアノ |       |

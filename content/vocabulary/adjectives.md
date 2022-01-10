@@ -19,6 +19,7 @@ draft: true
 | English   | Kana     | Kanji    |
 |-----------|----------|----------|
 | delicious | おいしい | 美味しい |
+| bad taste | ますい   | 不味い   |
 | sweet     | あまい   | 甘い     |
 
 ### Preference

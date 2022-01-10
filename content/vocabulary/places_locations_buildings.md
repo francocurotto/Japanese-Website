@@ -4,17 +4,21 @@ date: 2021-12-26T14:50:11-03:00
 draft: true
 ---
 ### City Places
-| Icon | English           | Kana       | Kanji  |
-|------|-------------------| -----------|--------|
-| 🏠   | house             | いえ       | 家     |
-| 🏫   | school            | がっこう   | 学校   |
-| 🏥   | hospital          | びょういん | 病院   |
-| 🏦   | bank              | ぎんこう   | 銀行   |
-| 🚉   | train station     | えき       | 駅     |
-| 🏨   | hotel             | ホテル     |        |
-|      | restaurant        | レストラン |        |
-| 🏬   | store             | みせ       | 店     |
-| 🏪   | convenience store | コンビニ   |        |
+| Icon | English           | Kana       | Kanji    |
+|------|-------------------| -----------|----------|
+| 🏠   | house             | いえ       | 家       |
+|      | apartment         | デパート   |          |
+|      | detached house    | いっこだて | 一戸建て |
+| 🏫   | school            | がっこう   | 学校     |
+| 🏥   | hospital          | びょういん | 病院     |
+| 🏦   | bank              | ぎんこう   | 銀行     |
+| 🚉   | train station     | えき       | 駅       |
+| 🏨   | hotel             | ホテル     |          |
+|      | restaurant        | レストラン |          |
+| 🏬   | store             | みせ       | 店       |
+| 🏪   | convenience store | コンビニ   |          |
+|      | karaoke           | カラオケ   |          |
+|      | park              | こうえん   | 公園     |
 
 ### House Rooms
 | English  | Kana       | Kanji  |
