@@ -3,19 +3,21 @@ title: "Objects"
 date: 2021-12-27T09:25:03-03:00
 draft: true
 ---
-### Resting Place
+### Living Room and Personal Room
 | Icon | English | Kana     | Kanji |
 |------|---------|----------|-------|
 | 🛏️   | bed     | ベッド   |       |
 | 🛋️   | sofa    | ソファ   |       |
 | 🪑   | chair   | いそ     | 椅子  |
+|      | shelf   | たな     | 棚    |
 
 ### Kitchen and Dining Room
-| English        | Kana         | Kanji      |
-|----------------|--------------|------------|
-| refrigerator   | れいぞうこ   | 冷蔵庫     |
-| microwave oven | でんしレンジ | 電子レンジ |
-| table          | テーブル     |            |
+| Icon | English        | Kana         | Kanji      |
+|------|----------------|--------------|------------|
+|      | refrigerator   | れいぞうこ   | 冷蔵庫     |
+|      | microwave oven | でんしレンジ | 電子レンジ |
+|      | table          | テーブル     |            |
+| 🥤   | cup            | カップ       |            |
 
 ### Bathroom and Hygiene
 | Icon | English | Kana     | Kanji |
@@ -28,6 +30,7 @@ draft: true
 |------|------------|----------|-------|
 | ☎️    | telephone  | でんわ   | 電話  |
 | 📺   | television | テレビ   |       |
+| 📻   | radio      | ラジオ   |       |
 | 📷   | camera     | カメラ   |       |
 |      | AC         | エアコン |       |
 | ⏰   | clock      | とてい   | 時計  |
@@ -48,6 +51,18 @@ draft: true
 |      | dictionary | じしょ   | 辞書  |
 |      | desk       | つくえ   | 机    |
 
+### Decoration
+| Icon | English | Kana     | Kanji |
+|------|---------|----------|-------|
+| 🖼️   | picture | しゃしん | 写真  |
+| 
+
+### Arts and Entertainment
+| English | Kana       | Kanji |
+|---------|------------|-------|
+| doll    | にんぎょう | 人形  |
+| manga   | マンガ     | 漫画  |
+
 ### Containers
 | Icon | English | Kana   | Kanji |
 |------|---------|--------|-------|
@@ -60,11 +75,6 @@ draft: true
 | 🎫   | ticket   | きっぷ   | 切符   |
 |      | souvenir | おみやげ | お土産 |
 | 🗺️   | map      | ちず     | 地図   |
-
-### Arts and Entretainment
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| manga   | マンガ | 漫画  |
 
 ### Instruments
 | Icon | English | Kana   | Kanji |

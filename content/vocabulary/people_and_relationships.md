@@ -1,9 +1,16 @@
 ---
-title: "Family"
+title: "People and Relationships"
 date: 2021-12-21T18:34:08-03:00
 draft: true
 ---
-### Non-formal
+### General People
+| English  | Kana   | Kanji |
+|----------|--------|-------|
+| I        | わたし | 私    |
+| I (male) | ぼく   | 僕    |
+| person   | ひと   | 人    |
+
+### Family Non-Formal
 | English         | Kana       | Kanji  |
 |-----------------|------------|--------|
 | family          | かぞく     | 家族   |
@@ -25,7 +32,7 @@ draft: true
 | cousin (female) | いとこ     | 従姉妹 |
 | cousin (male)   | いとこ     | 従兄弟 |
 
-### Formal
+### Family Formal
 | English         | Kana         | Kanji      |
 |-----------------|--------------|------------|
 | mother          | おかあさん   | お母さん   |
@@ -41,3 +48,8 @@ draft: true
 | grandfather     | おじいさん   | お祖父さん |
 | aunt            | おばさん     | 叔母さん   |
 | uncle           | おじさん     | 伯父さん   |
+
+### Non-Family Relations
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| friend  | ともだち | 友達  |

@@ -13,9 +13,12 @@ draft: true
 - [Party Maker](party_maker)
 - [DISPLAY](display)
 - [Miracle Worker](miracle_worker)
+- [Hamigaki Jouzu Kana](hamigaki_jouzu_kana)
+- [Computer Obaachan](computer_obaachan)
 
 ### Anime
 - [Hacking to the Gate - Steins;Gate](hacking_to_the_gate)
+- [Stay Alive - Re:Zero](stay_alive)
 
 ### Disney
 - [Part of your World - The Little Mermaid](part_of_your_world)

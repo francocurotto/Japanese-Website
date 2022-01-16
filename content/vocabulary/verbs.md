@@ -23,31 +23,35 @@ draft: true
 | write   | かく   | 書く  |
 
 ### Food and Drinks
-| English | Kana     | Kanji  |
-|---------|----------|--------|
-| eat     | たべる   | 食べる |
-| drink   | のむ     | 飲む   |
-| cook    | たく     | 炊く   |
-| cook    | りょうる | 料る   |
+| English     | Kana           | Kanji          |
+|-------------|----------------|----------------|
+| eat         | たべる         | 食べる         |
+| have a meal | しょくじをする | しょくじをする |
+| drink       | のむ           | 飲む           |
+| cook        | たく           | 炊く           |
+| cook        | りょうる       | 料る           |
 
 ### Daily Life
-| English | Kana    | Kanji  |
-|---------|---------|--------|
-| get up  | おきる  | 起きる |
-| shower  | あびる  | 浴びる |
-| work    | はたらく| 働く   |
-| buy     | かう    | 買う   |
-| sleep   | ねる    | 寝る   |
+| English     | Kana           | Kanji        |
+|-------------|----------------|--------------|
+| get up      | おきる         | 起きる       |
+| shower      | あびる         | 浴びる       |
+| work        | はたらく       | 働く         |
+| do work     | しごとをする   | 仕事をする   |
+| buy         | かう           | 買う         |
+| go shopping | かいものをする | 買い物をする |
+| sleep       | ねる           | 寝る         |
 
 ### Physical Activity
-| English | Kana       | Kanji    |
-|---------|------------|----------|
-| walk    | あるく     | 歩く     |
-| run     | はしる     | 走る     |
-| stroll  | さんぽする | 散歩する |
-| play    | あそぶ     | 遊ぶ     |
-| dance   | おどる     | 踊る     |
-| swim    | およぐ     | 泳ぐ     |
+| English      | Kana           | Kanji      |
+|--------------|----------------|------------|
+| walk         | あるく         | 歩く       |
+| run          | はしる         | 走る       |
+| stroll       | さんぽをする   | 散歩をする |
+| play         | あそぶ         | 遊ぶ       |
+| dance        | おどる         | 踊る       |
+| swim         | およぐ         | 泳ぐ       |
+| do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
 | English | Kana           | Kanji    |
