@@ -8,6 +8,7 @@ draft: true
 |----------|--------|-------|
 | I        | わたし | 私    |
 | I (male) | ぼく   | 僕    |
+| you      | あなた |       |
 | person   | ひと   | 人    |
 
 ### Family Non-Formal

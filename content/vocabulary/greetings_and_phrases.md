@@ -15,9 +15,13 @@ draft: true
 | I'm sorry                 | ごめんなさい           | ご免なさい           |
 | excuse me                 | すみません             | 済みません           |
 | please/by all means       | どうぞ                 |                      |
+| yes                       | はい                   |                      |
+| no                        | いいえ                 |                      |
 | how do you do?            | はじめまして           | 初めまして           |
 | nice to meet you          | よろしくおねがいします | よろしくお願いします |
 | it is I who should say so | こちらこそ             |                      |
+| I'm home                  | ただいま               |                      |
+| welcome back              | おかえりなさい         | お帰りなさい         |
 | pardon for leaving first  | おさきにしつれいします | お先に失礼します     |
 | good work                 | おつかれさまでした     | お疲れ様でした       |
 | best regards              | どうぞよろしく         | どうぞ夜露死苦       |

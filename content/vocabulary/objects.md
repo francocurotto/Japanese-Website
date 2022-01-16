@@ -55,7 +55,6 @@ draft: true
 | Icon | English | Kana     | Kanji |
 |------|---------|----------|-------|
 | 🖼️   | picture | しゃしん | 写真  |
-| 
 
 ### Arts and Entertainment
 | English | Kana       | Kanji |
@@ -80,3 +79,11 @@ draft: true
 | Icon | English | Kana   | Kanji |
 |------|---------|--------|-------|
 | 🎹   | piano   | ピアノ |       |
+
+### Money
+| Icon | English  | Kana       | Kanji |
+|------|----------|------------|-------|
+| 💵   | money    | かね       | 金    |
+| 🪙    | gold     | こがね     | 黄金  |
+|      | treasure | たからもの | 宝物  |
+

@@ -14,7 +14,12 @@ draft: true
 | to the back | うしろ | 後ろ  |
 | inner part  | おく   | 奥    |
 
-### Time Related
+### Time
 | English | Kana | Kanji |
 |---------|------|-------|
 | soon    | すぐ | 直ぐ  |
+
+### Quantity
+| English | Kana   | Kanji |
+|---------|--------|-------|
+|  all    | ざんぶ | 全部  |
