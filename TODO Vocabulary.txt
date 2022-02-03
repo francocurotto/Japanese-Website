@@ -1,0 +1,9 @@
+# Uncategorized
+| English         | Romaji     | Kana       |　Kanji |
+|-----------------|------------|------------|--------|
+| world           | sekai      | せかい     | 世界   |
+| emoji           | emoji      | えもじ     | 絵文字 |
+| person          | hito       | ひと       | 人     |
+| person's origin | shusshin   | しゅっしん | 出身   |
+| name            | namae      | なまえ     | 名前   |
+| love            | ai         | あい       | 愛     |

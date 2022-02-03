@@ -4,12 +4,14 @@ date: 2021-12-21T18:34:08-03:00
 draft: true
 ---
 ### General People
-| English  | Kana   | Kanji |
-|----------|--------|-------|
-| I        | わたし | 私    |
-| I (male) | ぼく   | 僕    |
-| you      | あなた |       |
-| person   | ひと   | 人    |
+| English     | Kana   | Kanji |
+|-------------|--------|-------|
+| I           | わたし | 私    |
+| I (male)    | ぼく   | 僕    |
+| you         | あなた |       |
+| person      | ひと   | 人    |
+| everyone    | みな   | 皆    |
+| all members | ぜにん | 全員  |
 
 ### Family Non-Formal
 | English         | Kana       | Kanji  |

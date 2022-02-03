@@ -15,11 +15,18 @@ draft: true
 | inner part  | おく   | 奥    |
 
 ### Time
-| English | Kana | Kanji |
-|---------|------|-------|
-| soon    | すぐ | 直ぐ  |
+| English    | Kana | Kanji |
+|------------|------|-------|
+| soon       | すぐ | 直ぐ  |
+| frequently | よく | 良く  |
 
 ### Quantity
-| English | Kana   | Kanji |
-|---------|--------|-------|
-|  all    | ざんぶ | 全部  |
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| all     | ざんぶ   | 全部  |
+| full    | いっぱい | 一杯  |
+
+### Quality
+| English  | Kana | Kanji |
+|----------|------|-------|
+| properly | よく | 良く  |

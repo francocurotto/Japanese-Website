@@ -54,34 +54,49 @@ draft: true
 | do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
-| English | Kana           | Kanji    |
-|---------|----------------|----------|
-| teach   | おしえる       | 教える   |
-| study   | べんきょうする | 勉強する |
+| English  | Kana           | Kanji    |
+|----------|----------------|----------|
+| teach    | おしえる       | 教える   |
+| study    | べんきょうする | 勉強する |
+| memorize | おぼえる       | 覚える   |
+
+### Work
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| measure | はかる | 計る  |
 
 ### Passive
 | English       | Kana   | Kanji  |
 |---------------|--------|--------|
+| be/exist      | いる   | 居る   |
 | wait          | まつ   | 待つ   |
 | wear          | きる   | 着る   |
 | die           | しぬ   | 死ぬ   |
 | reside        | すむ   | 住む   |
 | be able to do | できる | 出来る |
 
+### Time Related
+| English | Kana     | Kanji  |
+|---------|----------|--------|
+| hurry   | いそぐ   | 急ぐ   |
+| be late | おくれる | 遅れる |
+
 ### By/On Objects
-| English          | Kana       | Kanji      |
-|------------------|------------|------------|
-| use              | つかう     | 使う       |
-| make             | つくる     | 作る       |
-| hold             | もつ       | 持つ       |
-| bring            | もってくる | 持って来る |
-| put in           | いれる     | 入れる     |
-| turn on          | つける     | 点ける     |
-| open (by itself) | あく       | 開く       |
-| open (force)     | あける     | 開ける     |
-| close            | しめる     | 閉める     |
-| be needed        | いる       | 要る       |
-| surround         | かこむ     | 囲む       |
+| English             | Kana       | Kanji      |
+|---------------------|------------|------------|
+| be/exist            | ある       | 有る       |
+| use                 | つかう     | 使う       |
+| make                | つくる     | 作る       |
+| hold                | もつ       | 持つ       |
+| bring               | もってくる | 持って来る |
+| put in              | いれる     | 入れる     |
+| turn on             | つける     | 点ける     |
+| open (intransitive) | あく       | 開く       |
+| open (transitive)   | あける     | 開ける     |
+| close               | しめる     | 閉める     |
+| be needed           | いる       | 要る       |
+| surround            | かこむ     | 囲む       |
+| gather              | あつまる   | 集まる     |
 
 ### Auxiliary
 | English | Kana     | Kanji  |

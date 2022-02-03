@@ -51,6 +51,11 @@ draft: true
 |      | dictionary | じしょ   | 辞書  |
 |      | desk       | つくえ   | 机    |
 
+### School
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| exam    | しけん | 試験  |
+
 ### Decoration
 | Icon | English | Kana     | Kanji |
 |------|---------|----------|-------|
@@ -86,4 +91,3 @@ draft: true
 | 💵   | money    | かね       | 金    |
 | 🪙    | gold     | こがね     | 黄金  |
 |      | treasure | たからもの | 宝物  |
-

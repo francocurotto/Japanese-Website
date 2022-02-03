@@ -39,6 +39,7 @@ draft: true
 | 🍟   | fried potatoes | フライドポテト |        |
 | 🍕   | pizza          | ピザ           |        |
 | 🥗   | salad          | サラダ         |        |
+| 🎂   | cake           | ケーキ         |        |
 
 
 ### Drinks

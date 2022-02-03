@@ -8,6 +8,7 @@ draft: true
 |------------------|--------------|--------|
 | profession       | しごと       | 仕事   |
 | teacher          | きょうし     | 教師   |
+| professor        | きょじゅ     | 教授   |
 | student          | がくせい     | 学生   |
 | office worker    | かいしゃいん | 会社員 |
 | goverment worker | こうむいん   | 公務員 |

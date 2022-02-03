@@ -29,6 +29,11 @@ draft: true
 | disliked | きらい | 嫌い   |
 | wanted   | ほしい | 欲しい |
 
+### Quantity
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| full    | いっぱい | 一杯  |
+
 ### Evaluation
 | English  | Kana     | Kanji |
 |----------|----------|-------|
