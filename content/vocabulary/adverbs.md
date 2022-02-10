@@ -10,6 +10,7 @@ draft: true
 | below       | した   | 下    |
 | inside      | なか   | 中    |
 | to the side | よこ   | 横    |
+| next to     | となり | 隣    |
 | in front    | まえ   | 前　　|
 | to the back | うしろ | 後ろ  |
 | inner part  | おく   | 奥    |

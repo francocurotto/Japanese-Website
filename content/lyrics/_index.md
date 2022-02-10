@@ -13,6 +13,7 @@ draft: true
 - [Party Maker](party_maker)
 - [DISPLAY](display)
 - [Miracle Worker](miracle_worker)
+- [Next Stage with YOU](next_stage_with_you)
 - [Hamigaki Jouzu Kana](hamigaki_jouzu_kana)
 - [Computer Obaachan](computer_obaachan)
 
