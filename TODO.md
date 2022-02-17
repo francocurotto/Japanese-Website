@@ -8,6 +8,3 @@
     - easy japanese
     - iwadare-sensei memos
     - Emojis
-
-- Songs:
-    - Computer Obachan

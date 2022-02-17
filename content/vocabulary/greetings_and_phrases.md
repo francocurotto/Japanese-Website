@@ -6,9 +6,9 @@ draft: true
 | English                   | Kana                     | Kanji                |
 |---------------------------|--------------------------|----------------------|
 | good morning              | おはよう                 | お早う               |
-| good day                  | こんいちは               | 今日は               |
+| good day                  | こんにちは               | 今日は               |
 | good evening              | こんばんは               | 今晩は               |
-| goodbye                   | さよなら                 |                      |
+| goodbye                   | さようなら               |                      |
 | good night                | おやすみ                 | お休み               |
 | thank you                 | ありがとうございました   | 有難うございます     |
 | you are welcome           | どういたしまして         |                      |

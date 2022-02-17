@@ -42,14 +42,15 @@ draft: true
 | 👕   | shirt   | シャツ |       |
 
 ### Office and Stationery
-| Icon | English    | Kana     | Kanji |
-|------|------------|----------|-------|
-| ✏️    | pencil     | えんぴつ | 鉛筆  |
-| 🖊️   | pen        | ペン     |       |
-| 📕   | book       | ほん     | 本    |
-|      | magazine   | ざっし   | 雑誌  |
-|      | dictionary | じしょ   | 辞書  |
-|      | desk       | つくえ   | 机    |
+| Icon | English       | Kana     | Kanji |
+|------|---------------|----------|-------|
+| ✏️    | pencil        | えんぴつ | 鉛筆  |
+| 🖊️   | pen           | ペン     |       |
+| 📕   | book          | ほん     | 本    |
+|      | magazine      | ざっし   | 雑誌  |
+|      | dictionary    | じしょ   | 辞書  |
+|      | desk          | つくえ   | 机    |
+|      | businnes card | めいし   | 名刺  | 
 
 ### School
 | English | Kana   | Kanji |

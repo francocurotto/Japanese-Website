@@ -54,11 +54,13 @@ draft: true
 | do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
-| English  | Kana           | Kanji    |
-|----------|----------------|----------|
-| teach    | おしえる       | 教える   |
-| study    | べんきょうする | 勉強する |
-| memorize | おぼえる       | 覚える   |
+| English    | Kana           | Kanji    |
+|------------|----------------|----------|
+| understand | わかる         | 分かる   |
+| teach      | おしえる       | 教える   |
+| study      | べんきょうする | 勉強する |
+| memorize   | おぼえる       | 覚える   |
+| 
 
 ### Work
 | English | Kana   | Kanji |
@@ -74,6 +76,9 @@ draft: true
 | die           | しぬ   | 死ぬ   |
 | reside        | すむ   | 住む   |
 | be able to do | できる | 出来る |
+| be abstent    | やすむ | 休む   |
+| take day off  | やすむ | 休む   |
+| be called     | もうす | 申す   |
 
 ### Time Related
 | English | Kana     | Kanji  |
