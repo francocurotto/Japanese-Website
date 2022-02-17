@@ -8,3 +8,6 @@
     - easy japanese
     - iwadare-sensei memos
     - Emojis
+
+add icons:
+    - countries
