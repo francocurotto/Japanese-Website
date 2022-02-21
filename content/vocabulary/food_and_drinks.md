@@ -40,7 +40,8 @@ draft: true
 | 🍕   | pizza          | ピザ           |        |
 | 🥗   | salad          | サラダ         |        |
 | 🎂   | cake           | ケーキ         |        |
-
+|      | cream puff     | シュークリーム |        |
+| 🍦   | ice cream      | アイスクリーム |        |
 
 ### Drinks
 | Icon | English   | Kana         | Kanji  |

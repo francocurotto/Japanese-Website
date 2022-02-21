@@ -60,7 +60,6 @@ draft: true
 | teach      | おしえる       | 教える   |
 | study      | べんきょうする | 勉強する |
 | memorize   | おぼえる       | 覚える   |
-| 
 
 ### Work
 | English | Kana   | Kanji |

@@ -33,3 +33,6 @@ draft: true
 | by the way                | ところで                 |                      |
 | once more, please         | もういちどおねがいします | もう一度お願いします |
 | firstly                   | はじめに                 | 始めに               |
+| let me see                | ええと                   |                      |
+| then                      | じゃあ                   |                      |
+| well then                 | それでは                 | 其れでは             |
