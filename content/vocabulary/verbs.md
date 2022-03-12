@@ -97,6 +97,8 @@ draft: true
 | turn on             | つける     | 点ける     |
 | open (intransitive) | あく       | 開く       |
 | open (transitive)   | あける     | 開ける     |
+| open (3D)           | ひらく     | 開く       |
+| open (figurative)   | ひらける   | 開ける     |
 | close               | しめる     | 閉める     |
 | be needed           | いる       | 要る       |
 | surround            | かこむ     | 囲む       |

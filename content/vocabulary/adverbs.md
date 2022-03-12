@@ -16,11 +16,14 @@ draft: true
 | inner part  | おく   | 奥    |
 
 ### Time
-| English    | Kana     | Kanji |
-|------------|----------|-------|
-| soon       | すぐ     | 直ぐ  |
-| frequently | よく     | 良く  |
-| slowly     | ゆっくり |       | 
+| English         | Kana     | Kanji |
+|-----------------|----------|-------|
+| soon            | すぐ     | 直ぐ  |
+| frequently      | よく     | 良く  |
+| slowly          | ゆっくり |       | 
+| this time, now  | こんど   | 今度  |
+| next time, soon | こんど   | 今度  |
+| recently        | こんど   | 今度  | 
 
 ### Quantity
 | English | Kana     | Kanji |
@@ -33,3 +36,8 @@ draft: true
 | English  | Kana | Kanji |
 |----------|------|-------|
 | properly | よく | 良く  |
+
+### Certainty
+| English    | Kana | Kanji |
+|------------|------|-------|
+| certaintly | ぜひ | 是非  |
