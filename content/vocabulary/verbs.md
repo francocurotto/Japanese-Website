@@ -4,13 +4,15 @@ date: 2021-12-12T11:50:02-03:00
 draft: true
 ---
 ### Movement
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| go      | いく   | 行く  |
-| come    | くる   | 来る  |
-| return  | かえる | 帰る  |
-| enter   | はいる | 入る  |
-| leave   | でる   | 出る  |
+| English | Kana   | Kanji  |
+|---------|--------|--------|
+| go      | いく   | 行く   |
+| come    | くる   | 来る   |
+| return  | かえる | 帰る   |
+| enter   | はいる | 入る   |
+| leave   | でる   | 出る   |
+| get off | おりる | 降りる |
+| get on  | のる   | 乗る   |
 
 ### Senses and Communication
 | English | Kana   | Kanji |
