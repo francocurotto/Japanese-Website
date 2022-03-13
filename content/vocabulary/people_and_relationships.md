@@ -6,9 +6,6 @@ draft: true
 ### General People
 | English     | Kana     | Kanji |
 |-------------|----------|-------|
-| I           | わたし   | 私    |
-| I (male)    | ぼく     | 僕    |
-| you         | あなた   |       |
 | person      | ひと     | 人    |
 | everyone    | みな     | 皆    |
 | all members | ぜんいん | 全員  |
@@ -17,7 +14,6 @@ draft: true
 | English         | Kana       | Kanji  |
 |-----------------|------------|--------|
 | family          | かぞく     | 家族   |
-| I               | わたし     | 私     |
 | mother          | はは       | 母     |
 | father          | ちち       | 父     |
 | big sister      | あね       | 姉     |

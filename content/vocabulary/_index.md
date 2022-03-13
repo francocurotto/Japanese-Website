@@ -11,7 +11,7 @@ draft: true
 ### [Adjectives](adjectives)
 ### [Adverbs](adverbs)
 ### [Greetings and Phrases](greetings_and_phrases)
-### [Demostratives](demostratives)
+### [Pronouns](pronouns)
 ### [Honorifics](honorifics)
 ### Nouns
 - [Numbers](numbers)
