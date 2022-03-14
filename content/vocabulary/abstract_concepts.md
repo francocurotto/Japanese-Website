@@ -3,11 +3,12 @@ title: "Abstract Concepts"
 date: 2022-01-16T21:19:09+09:00
 draft: true
 ---
-### Feelings
+### Feelings and Congnitive
 | English  | Kana       | Kanji |
 |----------|------------|-------|
 | wish     | ねがい     | 願い  |
 | love     | あい       | 愛    |
+| thought  | おもい     | 思い  |
 
 ### Linguistics
 | English | Kana   | Kanji |
@@ -21,13 +22,14 @@ draft: true
 | person's origin | しゅっしん | 出身  |
 | world           | せかい     | 世界  |
 
-### Maths
+### Maths and Quantities
 | English          | Kana     | Kanji |
 |------------------|----------|-------|
 | number           | ごう     | 号    |
 | amount           | かず     | 数    |
 | series of digits | ばんごう | 番号  |
 | half             | はん     | 半    |
+| everyrhing       | すべて   | 全て  |
 
 ### Physics
 | English | Kana       | Kanji |

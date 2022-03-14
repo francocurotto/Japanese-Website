@@ -19,3 +19,4 @@ draft: true
 | まで     | indicates a limit on time, space or quantity               |
 | よ       | at the end of a sentence indicates strong a conviction     |
 | ね       | at the end of a sentence to soften a request or suggestion |
+| かも     | indicates uncertainty in sentence (may, maybe)             |

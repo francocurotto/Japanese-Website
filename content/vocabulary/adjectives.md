@@ -37,6 +37,7 @@ draft: true
 ### Evaluation
 | English  | Kana     | Kanji |
 |----------|----------|-------|
+| good     | いい     |       |
 | excelent | ばつぐん | 抜群  |
 | most     | さいこう | 最高  |
 | amazing  | すごい   | 凄い  |
@@ -69,3 +70,8 @@ draft: true
 |---------|--------|-------|
 | fast    | はやい | 早い  |
 | slow    | おそい | 遅い  |
+
+### Knowledge
+| English | Kana     | Kanji    |
+|---------|----------|----------|
+| unknown | しらない | 知らない |

@@ -8,8 +8,9 @@ draft: true
 |------|---------|----------|-------|
 | 🛏️   | bed     | ベッド   |       |
 | 🛋️   | sofa    | ソファ   |       |
-| 🪑   | chair   | いそ     | 椅子  |
+| 🪑   | chair   | いす     | 椅子  |
 |      | shelf   | たな     | 棚    |
+| 🚪   | door    | とびら   | 扉    |
 
 ### Kitchen and Dining Room
 | Icon | English        | Kana         | Kanji      |

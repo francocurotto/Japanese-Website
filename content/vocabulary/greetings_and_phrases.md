@@ -36,3 +36,4 @@ draft: true
 | let me see                | ええと                   |                      |
 | then                      | じゃあ                   |                      |
 | well then                 | それでは                 | 其れでは             |
+| look!                     | ほら                     |                      |

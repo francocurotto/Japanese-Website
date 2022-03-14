@@ -15,14 +15,16 @@ draft: true
 | get on  | のる   | 乗る   |
 
 ### Senses and Communication
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| see     | みる   | 見る  |
-| listen  | きく   | 聞く  |
-| say     | いう   | 言う  |
-| talk    | はなす | 話す  |
-| read    | よむ   | 読む  |
-| write   | かく   | 書く  |
+| English          | Kana         | Kanji      |
+|------------------|--------------|------------|
+| see              | みる         | 見る       |
+| listen           | きく         | 聞く       |
+| say              | いう         | 言う       |
+| talk             | はなす       | 話す       |
+| read             | よむ         | 読む       |
+| write            | かく         | 書く       |
+| listen carefully | みみおすます | 耳を澄ます |
+| be seen          | みえる       | 見える     |
 
 ### Food and Drinks
 | English     | Kana           | Kanji          |
@@ -56,12 +58,13 @@ draft: true
 | do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
-| English    | Kana           | Kanji    |
-|------------|----------------|----------|
-| understand | わかる         | 分かる   |
-| teach      | おしえる       | 教える   |
-| study      | べんきょうする | 勉強する |
-| memorize   | おぼえる       | 覚える   |
+| English     | Kana           | Kanji    |
+|-------------|----------------|----------|
+| understand  | わかる         | 分かる   |
+| teach       | おしえる       | 教える   |
+| study       | べんきょうする | 勉強する |
+| memorize    | おぼえる       | 覚える   |
+| concentrate | こらす         | 凝らす   |
 
 ### Work
 | English | Kana   | Kanji |
