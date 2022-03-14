@@ -1,33 +1,43 @@
 ---
-title: "Greetings and Phrases"
+title: "Expressions, Interjections, Conjunctions"
 date: 2021-12-17T00:16:31-03:00
 draft: true
 ---
+
+### Interjections
 | English                   | Kana                     | Kanji                |
 |---------------------------|--------------------------|----------------------|
 | good morning              | おはよう                 | お早う               |
 | good day                  | こんにちは               | 今日は               |
 | good evening              | こんばんは               | 今晩は               |
 | goodbye                   | さようなら               |                      |
-| good night                | おやすみ                 | お休み               |
-| thank you                 | ありがとうございました   | 有難うございます     |
+| thank you                 | ありがとう               | 有難う               |
 | you are welcome           | どういたしまして         |                      |
-| I'm sorry                 | ごめんなさい             | ご免なさい           |
-| excuse me                 | すみません               | 済みません           |
-| please/by all means       | どうぞ                   |                      |
 | yes                       | はい                     |                      |
 | no                        | いいえ                   |                      |
+| I'm home                  | ただいま                 |                      |
+| welcome back              | おかえりなさい           | お帰りなさい         |
+
+### Expressions
+| English                   | Kana                     | Kanji                |
+|---------------------------|--------------------------|----------------------|
+| good night                | おやすみなさい           | お休みなさい         |
+| I'm sorry                 | ごめんなさい             | ご免なさい           |
+| excuse me                 | すみません               | 済みません           |
 | how do you do?            | はじめまして             | 初めまして           |
 | nice to meet you          | よろしくおねがいします   | よろしくお願いします |
 | it is I who should say so | こちらこそ               |                      |
-| I'm home                  | ただいま                 |                      |
-| welcome back              | おかえりなさい           | お帰りなさい         |
 | pardon for leaving first  | おさきにしつれいします   | お先に失礼します     |
 | good work                 | おつかれさまでした       | お疲れ様でした       |
 | best regards              | どうぞよろしく           | どうぞ夜露死苦       |
 | let's eat!                | いただきます             | 頂きます             |
 | thank you for the meal    | ごちそうさま             | ご馳走様             |
 | may I come in?            | ごめんください           | ご免ください         |
+
+
+| English                   | Kana                     | Kanji                |
+|---------------------------|--------------------------|----------------------|
+| please/by all means       | どうぞ                   |                      |
 | welcome                   | いらっしゃい             |                      |
 | excuse me for distubing   | おじゃまします           | お邪魔します         |
 | by the way                | ところで                 |                      |

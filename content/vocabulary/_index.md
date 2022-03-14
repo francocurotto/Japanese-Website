@@ -10,9 +10,9 @@ draft: true
 ### [Verbs](verbs)
 ### [Adjectives](adjectives)
 ### [Adverbs](adverbs)
-### [Greetings and Phrases](greetings_and_phrases)
 ### [Pronouns](pronouns)
 ### [Honorifics](honorifics)
+### [Expressions, Interjections, Conjunctions](expressions_interjections_conjunctions)
 ### Nouns
 - [Numbers](numbers)
 - [Colors](colors)
