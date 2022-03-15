@@ -19,6 +19,7 @@ draft: true
 ### Time
 | English         | Kana     | Kanji |
 |-----------------|----------|-------|
+| yet             | もう     |       |
 | soon            | すぐ     | 直ぐ  |
 | frequently      | よく     | 良く  |
 | slowly          | ゆっくり |       | 

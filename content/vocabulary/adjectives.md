@@ -41,6 +41,7 @@ draft: true
 | excelent | ばつぐん | 抜群  |
 | most     | さいこう | 最高  |
 | amazing  | すごい   | 凄い  |
+| so-so    | まあまあ |       |
 
 ### Health
 | English | Kana   | Kanji |

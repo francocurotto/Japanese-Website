@@ -21,6 +21,7 @@ draft: true
 | English         | Kana       | Kanji |
 |-----------------|------------|-------|
 | person's origin | しゅっしん | 出身  |
+| life/living     | せいかつ   | 生活  |
 | world           | せかい     | 世界  |
 
 ### Maths and Quantities

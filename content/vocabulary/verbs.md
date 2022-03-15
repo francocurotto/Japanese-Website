@@ -91,6 +91,7 @@ draft: true
 | be abstent    | やすむ | 休む   |
 | take day off  | やすむ | 休む   |
 | be called     | もうす | 申す   |
+| get used to   | なれる | 慣れる |
 
 ### Time Related
 | English | Kana     | Kanji  |

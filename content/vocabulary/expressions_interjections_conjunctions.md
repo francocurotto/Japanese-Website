@@ -21,6 +21,7 @@ draft: true
 | welcome             | いらっしゃい     |              |
 | let me see          | ええと           |              |
 | look!               | ほら             |              |
+| that is right       | ええ             |              |
 
 ### Expressions
 | English                   | Kana                     | Kanji                |
