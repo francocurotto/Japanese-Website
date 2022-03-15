@@ -4,11 +4,12 @@ date: 2022-01-16T21:19:09+09:00
 draft: true
 ---
 ### Feelings and Congnitive
-| English  | Kana       | Kanji |
-|----------|------------|-------|
-| wish     | ねがい     | 願い  |
-| love     | あい       | 愛    |
-| thought  | おもい     | 思い  |
+| English   | Kana       | Kanji  |
+|-----------|------------|--------|
+| wish      | ねがい     | 願い   |
+| love      | あい       | 愛     |
+| thought   | おもい     | 思い   |
+| curiosity | こうきしん | 好奇心 |
 
 ### Linguistics
 | English | Kana   | Kanji |
@@ -29,12 +30,15 @@ draft: true
 | amount           | かず     | 数    |
 | series of digits | ばんごう | 番号  |
 | half             | はん     | 半    |
-| everyrhing       | すべて   | 全て  |
+| everything       | すべて   | 全て  |
+| extent           | ほど     | 程    |
+| same             | おなじ   | 同じ  |
 
 ### Physics
-| English | Kana       | Kanji |
-|---------|------------|-------|
-| time    | じかん     | 時間  |
+| English  | Kana       | Kanji |
+|----------|------------|-------|
+| time     | じかん     | 時間  |
+| distance | きょり     | 距離  |
 
 ### Medicine
 | English       | Kana       | Kanji |
@@ -48,3 +52,9 @@ draft: true
 | English | Kana       | Kanji |
 |---------|------------|-------|
 | lesson  | じゅぎょう | 授業  |
+
+### Digital
+| Icon | English  | Kana           | Kanji  |
+|------|----------|----------------|--------|
+| 🌐   | Internet | インターネット |        |
+| 😀   | emoji    | えもじ         | 絵文字 |

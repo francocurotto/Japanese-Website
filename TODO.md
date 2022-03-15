@@ -3,11 +3,14 @@
 
 - Vocabulary from source:
     - Marugoto books
-    - Japanese notes
     - infinite japanese
     - easy japanese
     - iwadare-sensei memos
     - Emojis
 
-add icons:
+- add icons:
     - countries
+
+- scripts:
+    - practice english -> japanese, japanese -> english
+    - count kanjis

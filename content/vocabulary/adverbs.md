@@ -11,9 +11,10 @@ draft: true
 | inside      | なか   | 中    |
 | to the side | よこ   | 横    |
 | next to     | となり | 隣    |
-| in front    | まえ   | 前　　|
+| in front    | まえ   | 前    |
 | to the back | うしろ | 後ろ  |
 | inner part  | おく   | 奥    |
+| far away    | とおく | 遠く  |
 
 ### Time
 | English         | Kana     | Kanji |
@@ -24,6 +25,7 @@ draft: true
 | this time, now  | こんど   | 今度  |
 | next time, soon | こんど   | 今度  |
 | recently        | こんど   | 今度  | 
+| beyond          | いじょう | 以上  |
 
 ### Quantity
 | English | Kana     | Kanji |
@@ -38,6 +40,7 @@ draft: true
 | properly | よく | 良く  |
 
 ### Certainty
-| English    | Kana | Kanji |
-|------------|------|-------|
-| certaintly | ぜひ | 是非  |
+| English    | Kana   | Kanji |
+|------------|--------|-------|
+| certaintly | ぜひ   | 是非  |
+| something  | なにか | 何か  |

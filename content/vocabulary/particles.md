@@ -13,7 +13,7 @@ draft: true
 | へ       | indicates direction                                        |
 | を       | indicates direct object of a verb                          |
 | と       | used to connect and list up multiple items                 |
-| も　　　 | states the previous statement also holds for current topic |            
+| も       | states the previous statement also holds for current topic |            
 | で       | indicates the location of an action                        |
 | から     | indicates a starting point in time or place                |
 | まで     | indicates a limit on time, space or quantity               |

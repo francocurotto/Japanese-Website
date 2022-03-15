@@ -72,6 +72,7 @@ draft: true
 | slow    | おそい | 遅い  |
 
 ### Knowledge
-| English | Kana     | Kanji    |
-|---------|----------|----------|
-| unknown | しらない | 知らない |
+| English    | Kana           | Kanji        |
+|------------|----------------|--------------|
+| unknown    | しらない       | 知らない     |
+| unexpected | おもいがけない | 思いがけない |

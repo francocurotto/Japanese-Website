@@ -57,3 +57,8 @@ draft: true
 | 🍺   | beer      | ビール       |        |
 | 🍶   | sake      | さけ         | 酒     |
 |      | miso soup | みそしる     | 味噌汁 |
+
+### Condiments
+| English | Kana     |
+|---------|----------|
+| spice   | スパイス |

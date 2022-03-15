@@ -4,15 +4,16 @@ date: 2021-12-12T11:50:02-03:00
 draft: true
 ---
 ### Movement
-| English | Kana   | Kanji  |
-|---------|--------|--------|
-| go      | いく   | 行く   |
-| come    | くる   | 来る   |
-| return  | かえる | 帰る   |
-| enter   | はいる | 入る   |
-| leave   | でる   | 出る   |
-| get off | おりる | 降りる |
-| get on  | のる   | 乗る   |
+| English   | Kana   | Kanji  |
+|-----------|--------|--------|
+| go        | いく   | 行く   |
+| come      | くる   | 来る   |
+| return    | かえる | 帰る   |
+| enter     | はいる | 入る   |
+| leave     | でる   | 出る   |
+| get off   | おりる | 降りる |
+| get on    | のる   | 乗る   |
+| go around | めぐる | めぐる |
 
 ### Senses and Communication
 | English          | Kana         | Kanji      |
@@ -23,6 +24,7 @@ draft: true
 | talk             | はなす       | 話す       |
 | read             | よむ         | 読む       |
 | write            | かく         | 書く       |
+| touch            | ふれる       | 触れる     |
 | listen carefully | みみおすます | 耳を澄ます |
 | be seen          | みえる       | 見える     |
 
@@ -65,6 +67,12 @@ draft: true
 | study       | べんきょうする | 勉強する |
 | memorize    | おぼえる       | 覚える   |
 | concentrate | こらす         | 凝らす   |
+| feel        | かんじる       | 感じる   |
+
+### Feelings
+| English      | Kana     | Kanji  |
+|--------------|----------|--------|
+| fall in love | こいする | 恋する |
 
 ### Work
 | English | Kana   | Kanji |
@@ -108,6 +116,7 @@ draft: true
 | be needed           | いる       | 要る       |
 | surround            | かこむ     | 囲む       |
 | gather              | あつまる   | 集まる     |
+| raise               | おこす     | 起こす     | 
 
 ### Auxiliary
 | English | Kana     | Kanji  |
