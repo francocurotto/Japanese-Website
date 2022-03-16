@@ -34,6 +34,18 @@ draft: true
 | extent           | ほど     | 程    |
 | same             | おなじ   | 同じ  |
 
+### Shapes and Figures
+| English  | Kana     | Kanji  |
+|----------|----------|--------|
+| circle   | まる     | ○     |
+| triangle | さんかく | 三角   |
+| square   | しかくい | 四角い |
+
+### Spatial
+| English       | Kana   | Kanji |
+|---------------|--------|-------|
+| circumference | まわり | 周り  |
+
 ### Physics
 | English  | Kana       | Kanji |
 |----------|------------|-------|
