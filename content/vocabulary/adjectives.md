@@ -30,18 +30,20 @@ draft: true
 | wanted   | ほしい | 欲しい |
 
 ### Quantity
-| English | Kana     | Kanji |
-|---------|----------|-------|
-| full    | いっぱい | 一杯  |
-
-### Evaluation
 | English  | Kana     | Kanji |
 |----------|----------|-------|
-| good     | いい     |       |
-| excelent | ばつぐん | 抜群  |
-| most     | さいこう | 最高  |
-| amazing  | すごい   | 凄い  |
-| so-so    | まあまあ |       |
+| full     | いっぱい | 一杯  |
+| complete | かんぺき | 完璧  |
+
+### Evaluation
+| English   | Kana     | Kanji |
+|-----------|----------|-------|
+| good      | いい     |       |
+| excelent  | ばつぐん | 抜群  |
+| most      | さいこう | 最高  |
+| amazing   | すごい   | 凄い  |
+| wonderful | すてき   | 素敵  |
+| so-so     | まあまあ |       |
 
 ### Health
 | English | Kana   | Kanji |

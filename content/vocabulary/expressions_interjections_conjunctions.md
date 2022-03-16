@@ -42,6 +42,7 @@ draft: true
 | once more, please         | もういちどおねがいします | もう一度お願いします |
 | firstly                   | はじめに                 | 始めに               |
 | well then                 | それでは                 | 其れでは             |
+| anything                  | なんでも                 ┃ 何でも               ┃
 
 ### Conjunctions
 | English    | Kana     |
