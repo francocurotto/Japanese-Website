@@ -19,6 +19,7 @@ draft: true
 ### Time
 | English         | Kana     | Kanji |
 |-----------------|----------|-------|
+| yet             | もう     |       |
 | soon            | すぐ     | 直ぐ  |
 | frequently      | よく     | 良く  |
 | slowly          | ゆっくり |       | 
@@ -33,6 +34,7 @@ draft: true
 | all     | ざんぶ   | 全部  |
 | full    | いっぱい | 一杯  |
 | little  | すこし   | 少し  |
+| more    | もっと   |       |
 
 ### Quality
 | English  | Kana | Kanji |

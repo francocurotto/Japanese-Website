@@ -14,3 +14,5 @@
 - scripts:
     - practice english -> japanese, japanese -> english
     - count kanjis
+
+- remove long spaces
