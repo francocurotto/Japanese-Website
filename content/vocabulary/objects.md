@@ -3,6 +3,11 @@ title: "Objects"
 date: 2021-12-27T09:25:03-03:00
 draft: true
 ---
+### General
+| English | Kana | Kanji |
+|---------|------|-------|
+| thing   | もの | 物    |
+
 ### Living Room and Personal Room
 | Icon | English | Kana     | Kanji |
 |------|---------|----------|-------|

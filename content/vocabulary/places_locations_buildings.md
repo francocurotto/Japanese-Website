@@ -39,3 +39,9 @@ draft: true
 | classroom | きょうしつ | 居室   | 
 | library   | としょかん | 図書館 |
 | dormitory | りょう     | 寮     |
+
+### Nature
+┃ Icon | English  | Kana | Kanji |
+|------|----------|------|-------|
+| 🗻   | mountain | やま ┃ 山    ┃
+|      | shore    | りく ┃ 陸    ┃
