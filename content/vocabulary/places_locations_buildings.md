@@ -27,7 +27,7 @@ draft: true
 |----------|------------|--------|
 | room     | へや       | 部屋   |
 | entrance | げんかん   | 玄関   |
-| kichen   | だいどころ | 台所   |
+| kitchen  | だいどころ | 台所   |
 | WC room  | トイレ     |        |
 | bathroom | おふろ     | お風呂 |
 | garden   | にわ       | 庭     |
