@@ -43,7 +43,7 @@ draft: true
 | firstly                   | はじめに                 | 始めに               |
 | well then                 | それでは                 | 其れでは             |
 | anything                  | なんでも                 | 何でも               |
-| ...was it?                | だっけ                   |                      |
+| what's that?              | なんて                   | 何て                 |
 
 ### Conjunctions
 | English    | Kana     |

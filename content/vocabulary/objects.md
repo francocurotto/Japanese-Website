@@ -7,6 +7,7 @@ draft: true
 | English | Kana | Kanji |
 |---------|------|-------|
 | thing   | こと | 事    |
+| object  | もの | 物    |
 
 ### Living Room and Personal Room
 | Icon | English | Kana     | Kanji |

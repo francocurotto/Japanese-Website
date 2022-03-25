@@ -38,11 +38,12 @@ draft: true
 | wanted   | ほしい | 欲しい |
 
 ### Quantity
-| English  | Kana     | Kanji |
-|----------|----------|-------|
-| full     | いっぱい | 一杯  |
-| complete | かんぺき | 完璧  |
-| a lot    | たくさん | 沢山  |
+| English      | Kana     | Kanji    |
+|--------------|----------|----------|
+| full         | いっぱい | 一杯     |
+| complete     | かんぺき | 完璧     |
+| a lot        | たくさん | 沢山     |
+| insufficient | たりない ┃ 足りない |
 
 ### Evaluation
 | English   | Kana     | Kanji |
