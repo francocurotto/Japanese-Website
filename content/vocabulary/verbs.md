@@ -47,6 +47,8 @@ draft: true
 | buy         | かう           | 買う         |
 | go shopping | かいものをする | 買い物をする |
 | sleep       | ねる           | 寝る         |
+| fall asleep | ねむる         | 眠る         |
+| wake up     | めざめる       | 目覚める     |
 
 ### Physical Activity
 | English      | Kana           | Kanji      |
@@ -118,6 +120,7 @@ draft: true
 | surround            | かこむ     | 囲む       |
 | gather              | あつまる   | 集まる     |
 | raise               | おこす     | 起こす     | 
+| elevate             | あげる     | 上げる     |
 
 ### Auxiliary
 | English | Kana     | Kanji  |

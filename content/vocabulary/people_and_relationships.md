@@ -52,3 +52,8 @@ draft: true
 | English | Kana     | Kanji |
 |---------|----------|-------|
 | friend  | ともだち | 友達  |
+
+### Person Description
+| English          | Kana       | Kanji      |
+|------------------|------------|------------|
+| obstinate person | わからずや | 分からず屋 |

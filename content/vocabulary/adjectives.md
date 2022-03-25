@@ -22,6 +22,14 @@ draft: true
 | bad taste | ますい   | 不味い   |
 | sweet     | あまい   | 甘い     |
 
+### Temperature
+| English | Kana       | Kanji  |
+|---------|------------|--------|
+| hot     | あつい     | 暑い   |
+| cold    | さむい     | 寒い   |
+| warm    | あたたかい | 暖かい |
+| cool    | すずしい   | 涼しい |
+
 ### Preference
 | English  | Kana   | Kanji  |
 |----------|--------|--------|
@@ -34,6 +42,7 @@ draft: true
 |----------|----------|-------|
 | full     | いっぱい | 一杯  |
 | complete | かんぺき | 完璧  |
+| a lot    | たくさん | 沢山  |
 
 ### Evaluation
 | English   | Kana     | Kanji |
@@ -79,3 +88,8 @@ draft: true
 |------------|----------------|--------------|
 | unknown    | しらない       | 知らない     |
 | unexpected | おもいがけない | 思いがけない |
+
+### Existence
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| is not  | じゃない |       |

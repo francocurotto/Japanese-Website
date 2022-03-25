@@ -21,6 +21,8 @@ draft: true
 |      | karaoke           | カラオケ     |          |
 |      | park              | こうえん     | 公園     |
 |      | art museum        | びじゅつかん | 美術館   |
+|      | road              | みち         | 道       |
+|      | street            | とおり       | 通り     |
 
 ### House Rooms
 | English  | Kana       | Kanji  |

@@ -5,23 +5,23 @@ draft: true
 ---
 ### Body
 
-| English  | Kana   | Kanji | 
-|----------|--------|-------|
-| head     | あたま | 頭    |
-| face     | かお   | 顔    |
-| hand     | て     | 手    |
-| arm      | うで   | 腕    |
-| shoulder | かた   | 肩    |
-| elbow    | ひじ   | 肘    |
-| leg      | あし   | 脚    |
-| foot     | あし   | 足    |
-| knee     | ひざ   | 膝    |
-| heel     | かかと | 踵    |
-| abdomen  | はら   | 腹    |
-| chest    | むね   | 胸    |
-| belly    | おなか | お腹  |
-| back     | せなか | 背中  |
-| body     | からだ | 体    |
+| English  | Kana     | Kanji | 
+|----------|----------|-------|
+| head     | あたま   | 頭    |
+| face     | かお     | 顔    |
+| hand     | て       | 手    |
+| arm      | うで     | 腕    |
+| shoulder | かた     | 肩    |
+| elbow    | ひじ     | 肘    |
+| foot     | あし     | 足    |
+| leg      | きゃくぶ | 脚部  |
+| knee     | ひざ     | 膝    |
+| heel     | かかと   | 踵    |
+| abdomen  | はら     | 腹    |
+| chest    | むね     | 胸    |
+| belly    | おなか   | お腹  |
+| back     | せなか   | 背中  |
+| body     | からだ   | 体    |
 
 ### Head
 | Icon | English | Kana | Kanji | 

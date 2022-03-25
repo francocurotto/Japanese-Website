@@ -10,6 +10,7 @@
 
 - add icons:
     - countries
+    - street
 
 - scripts:
     - practice english -> japanese, japanese -> english

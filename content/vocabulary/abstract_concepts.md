@@ -23,6 +23,8 @@ draft: true
 | person's origin | しゅっしん | 出身  |
 | life/living     | せいかつ   | 生活  |
 | world           | せかい     | 世界  |
+| mankind         | にんげん   | 人間  |
+| freedom         | じゆう     | 自由  |
 
 ### Maths and Quantities
 | English          | Kana     | Kanji |
@@ -52,6 +54,7 @@ draft: true
 |----------|------------|-------|
 | time     | じかん     | 時間  |
 | distance | きょり     | 距離  |
+| light    | ひかり     | 光    |
 
 ### Medicine
 | English       | Kana       | Kanji |

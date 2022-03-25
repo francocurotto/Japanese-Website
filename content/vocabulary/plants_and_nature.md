@@ -8,6 +8,7 @@ draft: true
 |------|----------|------|-------|
 | ⛰️    | mountain | やま | 山    |
 | 🌊   | sea      | うみ | 海    |
+|      | land     | りく | 陸    |
 
 ### Famous Nature Places
 | Icon | English  | Kana     | Kanji  |
