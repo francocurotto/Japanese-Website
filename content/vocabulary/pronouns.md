@@ -35,7 +35,7 @@ draft: true
 | that (far)  [+ noun] | あの   |
 | that way (far)       | あちら |
 
-### Question Pronouns
+### Interrogative Pronouns
 | English    | Kana   | Kanji |
 |------------|--------|-------|
 | what?      | なん   | 何    |
@@ -44,3 +44,4 @@ draft: true
 | where?     | どこ   |       |
 | which one? | どの   |       |
 | which way? | どちら |       |
+| why?       | なぜ   | 何故  |

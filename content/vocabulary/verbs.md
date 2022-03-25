@@ -121,6 +121,7 @@ draft: true
 | gather              | あつまる   | 集まる     |
 | raise               | おこす     | 起こす     | 
 | elevate             | あげる     | 上げる     |
+| burn                | もえる     | 燃える     |
 
 ### Auxiliary
 | English | Kana     | Kanji  |

@@ -10,6 +10,11 @@ draft: true
 | 🌊   | sea      | うみ | 海    |
 |      | land     | りく | 陸    |
 
+### Phenomenon
+| Icon | English | Kana | Kanji |
+|------|---------|------|-------|
+|      | fire    | ひ   | 火    |
+
 ### Famous Nature Places
 | Icon | English  | Kana     | Kanji  |
 |------|----------|----------|--------|

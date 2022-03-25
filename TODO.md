@@ -11,6 +11,7 @@
 - add icons:
     - countries
     - street
+    - fire
 
 - scripts:
     - practice english -> japanese, japanese -> english

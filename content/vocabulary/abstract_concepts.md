@@ -47,6 +47,7 @@ draft: true
 ### Spatial
 | English       | Kana   | Kanji |
 |---------------|--------|-------|
+| end           | はて   | 果て  |
 | circumference | まわり | 周り  |
 
 ### Physics
