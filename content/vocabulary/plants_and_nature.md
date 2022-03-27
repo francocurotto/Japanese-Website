@@ -11,9 +11,11 @@ draft: true
 |      | land     | りく | 陸    |
 
 ### Phenomenon
-| Icon | English | Kana | Kanji |
-|------|---------|------|-------|
-|      | fire    | ひ   | 火    |
+| Icon  | English | Kana   | Kanji |
+|-------|---------|--------|-------|
+|       | fire    | ひ     | 火    |
+|       | light   | ひかり | 光    |
+
 
 ### Famous Nature Places
 | Icon | English  | Kana     | Kanji  |

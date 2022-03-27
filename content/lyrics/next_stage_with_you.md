@@ -9,7 +9,7 @@ draft: true
 |------------------------------|--------------------------------|---------------------------------|
 | チャンスをいつもつかみたいの | CHANSU wo itsumo tsukamitai no | I always want to grab chances   |
 | Next stage with you          | Next stage with you            | Next Stage with You             |
-| タイミング次第　でもきっと   | TAIMINGU shidai demo kitto     | It depends on timing but surely |
+| タイミング次第でもきっと     | TAIMINGU shidai demo kitto     | It depends on timing but surely |
 | Next stage with you          | Next stage with you            | Next Stage with YOU             |
 | 違う風景を見るとき           | Chigau fuukei wo miru toki     | When I see a different scene    |
 | Next stage with you          | Next stage with you            | Next Stage with YOU             |
@@ -21,7 +21,7 @@ draft: true
 |                              |                                |                                 |
 | チャンスをいつもつかみたいの | CHANSU wo itsumo tsukamitai no | I always want to grab chances   |
 | Next stage with you          | Next stage with you            | Next Stage with You             |
-| タイミング次第　でもきっと   | TAIMINGU shidai demo kitto     | It depends on timing but surely |
+| タイミング次第でもきっと     | TAIMINGU shidai demo kitto     | It depends on timing but surely |
 | Next stage with you          | Next stage with you            | Next Stage with YOU             |
 | 違う風景を見るとき           | Chigau fuukei wo miru toki     | When I see a different scene    |
 | Next stage with you          | Next stage with you            | Next Stage with YOU             |
