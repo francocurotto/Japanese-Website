@@ -39,24 +39,24 @@ draft: true
 | same             | おなじ   | 同じ  |
 
 ### Shapes and Figures
-| English  | Kana     | Kanji  |
-|----------|----------|--------|
-| circle   | まる     | ○     |
-| triangle | さんかく | 三角   |
-| square   | しかくい | 四角い |
+| English       | Kana     | Kanji  |
+|---------------|----------|--------|
+| circle        | まる     | ○     |
+| circumference | まわり   | 周り   |
+| triangle      | さんかく | 三角   |
+| square        | しかくい | 四角い |
 
 ### Spatial
 | English       | Kana   | Kanji |
 |---------------|--------|-------|
 | end           | はて   | 果て  |
-| circumference | まわり | 周り  |
+| distance      | きょり | 距離  |
 
-### Physics
-| English  | Kana       | Kanji |
-|----------|------------|-------|
-| time     | じかん     | 時間  |
-| distance | きょり     | 距離  |
-| light    | ひかり     | 光    |
+### Temporal
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| time    | じかん | 時間  |
+| moment  | とき   | 時    |
 
 ### Medicine
 | English       | Kana       | Kanji |
@@ -70,6 +70,16 @@ draft: true
 | English | Kana       | Kanji |
 |---------|------------|-------|
 | lesson  | じゅぎょう | 授業  |
+
+### Visual Concepts
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| scenery | ふうけい | 風景  | 
+
+### Preffixing and Suffixing
+| English      | Kana   | Kanji |
+|--------------|--------|-------|
+| depending on | しだい | 次第  |
 
 ### Digital
 | Icon | English  | Kana           | Kanji  |

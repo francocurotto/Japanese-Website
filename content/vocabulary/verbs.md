@@ -94,6 +94,7 @@ draft: true
 | take day off  | やすむ | 休む   |
 | be called     | もうす | 申す   |
 | get used to   | なれる | 慣れる |
+| differ        | ちがう | 違う   |
 
 ### Time Related
 | English | Kana     | Kanji  |
@@ -122,6 +123,7 @@ draft: true
 | raise               | おこす     | 起こす     | 
 | elevate             | あげる     | 上げる     |
 | burn                | もえる     | 燃える     |
+| seize               | つかむ     | 掴む       |
 
 ### Auxiliary
 | English | Kana     | Kanji  |
