@@ -26,6 +26,7 @@ draft: true
 | world           | せかい     | 世界  |
 | mankind         | にんげん   | 人間  |
 | freedom         | じゆう     | 自由  |
+| history         | れきし     | 歴史  |
 
 ### Maths and Quantities
 | English          | Kana     | Kanji |
@@ -70,6 +71,11 @@ draft: true
 | English | Kana       | Kanji |
 |---------|------------|-------|
 | lesson  | じゅぎょう | 授業  |
+
+### Activities
+| English       | Kana     | Kanji |
+|---------------|----------|-------|
+| reading books | どくしょ | 読書  |
 
 ### Visual Concepts
 | English | Kana     | Kanji |

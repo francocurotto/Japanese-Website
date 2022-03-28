@@ -46,5 +46,10 @@ draft: true
 | English    | Kana   | Kanji |
 |------------|--------|-------|
 | certaintly | ぜひ   | 是非  |
-| something  | なにか | 何か  |
 | surely     | きっと | 屹度  |
+| something  | なにか | 何か  |
+
+### Emphasis
+| English      | Kana   | Kanji |
+|--------------|--------|-------|
+| particularly | とくに | 特に  |
