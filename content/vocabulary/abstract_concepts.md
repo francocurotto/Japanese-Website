@@ -10,6 +10,7 @@ draft: true
 | love      | あい       | 愛     |
 | thought   | おもい     | 思い   |
 | curiosity | こうきしん | 好奇心 |
+| hobby     | しゅみ     | 趣味   |
 
 ### Linguistics
 | English | Kana   | Kanji |
