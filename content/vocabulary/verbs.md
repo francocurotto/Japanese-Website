@@ -90,6 +90,7 @@ draft: true
 | die           | しぬ   | 死ぬ   |
 | reside        | すむ   | 住む   |
 | be able to do | できる | 出来る |
+| be made/built | できる | 出来る |
 | be abstent    | やすむ | 休む   |
 | take day off  | やすむ | 休む   |
 | be called     | もうす | 申す   |

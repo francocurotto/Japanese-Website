@@ -29,6 +29,11 @@ draft: true
 | Kyoto   | きょうと   | 京都  |
 | Osaka   | おおさか   | 大阪  |
 
+### Wards
+| English  | Kana       | Kanji |
+|----------|------------|-------|
+| Shinjuku | しんじゅく | 新宿  |
+
 ### Continents
 | English   | Kana               | Kanji    |
 |-----------|--------------------|----------|

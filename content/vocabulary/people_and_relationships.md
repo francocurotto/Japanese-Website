@@ -7,7 +7,7 @@ draft: true
 | English     | Kana     | Kanji |
 |-------------|----------|-------|
 | person      | ひと     | 人    |
-| everyone    | みな     | 皆    |
+| everyone    | みんな   | 皆    |
 | all members | ぜんいん | 全員  |
 
 ### Family Non-Formal

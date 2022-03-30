@@ -54,6 +54,7 @@ draft: true
 | amazing   | すごい   | 凄い  |
 | wonderful | すてき   | 素敵  |
 | so-so     | まあまあ |       |
+| good at   | とくい   | 得意  |
 
 ### Health
 | English | Kana   | Kanji |
@@ -89,6 +90,7 @@ draft: true
 |------------|----------------|--------------|
 | unknown    | しらない       | 知らない     |
 | unexpected | おもいがけない | 思いがけない |
+| famous     | ゆうめい       | 有名         |
 
 ### Existence
 | English | Kana     | Kanji |

@@ -23,6 +23,7 @@ draft: true
 |      | art museum        | びじゅつかん | 美術館   |
 |      | road              | みち         | 道       |
 |      | street            | とおり       | 通り     |
+|      | book store        | ほんや       | 本屋     |
 
 ### House Rooms
 | English  | Kana       | Kanji  |
