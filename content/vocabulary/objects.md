@@ -64,7 +64,6 @@ draft: true
 |      | dictionary | じしょ     | 辞書  |
 |      | novel      | しょうせつ | 小説  |
 
-
 ### School
 | English | Kana   | Kanji |
 |---------|--------|-------|
@@ -74,6 +73,14 @@ draft: true
 | Icon | English | Kana     | Kanji |
 |------|---------|----------|-------|
 | 🖼️   | picture | しゃしん | 写真  |
+
+### Trash and Recyclables
+| English               | Kana         | Kanji        |
+|-----------------------|--------------|--------------|
+| trash                 | ごみ         |              |
+| burnable trash        | もえるごみ   | 燃えるごみ   |
+| non-burnable trash    | もえないごみ | 燃えないごみ |
+| recyclables resources | しげん       | 資源         |
 
 ### Arts and Entertainment
 | English | Kana       | Kanji |
@@ -86,6 +93,8 @@ draft: true
 |------|---------|--------|-------|
 | 💰   | bag     | かばん | 鞄    |
 | 📦   | box     | はこ   | 箱    |
+|      | can     | かん   | 缶    |
+|      | bag     | ふくろ | 袋    |
 
 ### Travel
 | Icon | English  | Kana     | Kanji  |

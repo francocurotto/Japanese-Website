@@ -35,7 +35,7 @@ draft: true
 | English         | Kana         | Kanji      |
 |-----------------|--------------|------------|
 | mother          | おかあさん   | お母さん   |
-| father          | おとおさん   | お父さん   |
+| father          | おとうさん   | お父さん   |
 | big sister      | おねえさん   | お姉さん   |
 | big brother     | おにいさん   | お兄さん   |
 | little sister   | いもうとさん | 妹さ       |

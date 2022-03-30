@@ -12,6 +12,7 @@
     - countries
     - street
     - fire
+    - can
 
 - scripts:
     - practice english -> japanese, japanese -> english

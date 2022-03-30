@@ -125,6 +125,7 @@ draft: true
 | elevate             | あげる     | 上げる     |
 | burn                | もえる     | 燃える     |
 | seize               | つかむ     | 掴む       |
+| throw away          | すてる     | 捨てる     |
 
 ### Auxiliary
 | English | Kana     | Kanji  |

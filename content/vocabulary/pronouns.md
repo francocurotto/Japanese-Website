@@ -5,7 +5,7 @@ draft: true
 ---
 ### Subject Pronouns
 | English           | Kana       | Kanji  |
-|--------------     |------------|------- |
+|-------------------|------------|--------|
 | I                 | わたし     | 私     |
 | I (male)          | ぼく       | 僕     |
 | you               | あなた     |        |
@@ -24,12 +24,10 @@ draft: true
 | here                 | ここ   |
 | this [+ noun]        | この   |
 | this way             | こちら |
-|                      |        |
 | that [+ is]          | それ   |
 | there                | そこ   |
 | that [+ noun]        | その   |
 | that way             | そちら |
-|                      |        |
 | that (far) [+ is]    | あれ   |
 | there (far)          | あそこ |
 | that (far)  [+ noun] | あの   |

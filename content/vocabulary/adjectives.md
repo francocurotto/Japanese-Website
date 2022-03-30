@@ -43,7 +43,7 @@ draft: true
 | full         | いっぱい | 一杯     |
 | complete     | かんぺき | 完璧     |
 | a lot        | たくさん | 沢山     |
-| insufficient | たりない ┃ 足りない |
+| insufficient | たりない | 足りない |
 
 ### Evaluation
 | English   | Kana     | Kanji |
@@ -96,3 +96,8 @@ draft: true
 | English | Kana     | Kanji |
 |---------|----------|-------|
 | is not  | じゃない |       |
+
+### Distinction
+| English   | Kana | Kanji |
+|-----------|------|-------|
+| different | べつ | 別    |

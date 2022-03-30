@@ -45,6 +45,7 @@ draft: true
 | well then                 | それでは                 | 其れでは             |
 | anything                  | なんでも                 | 何でも               |
 | what's that?              | なんて                   | 何て                 |
+| Oh well                   | そうねえ                 |                      |
 
 ### Conjunctions
 | English    | Kana     |
