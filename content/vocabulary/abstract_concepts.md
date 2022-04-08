@@ -48,10 +48,11 @@ draft: true
 | square        | しかくい | 四角い |
 
 ### Spatial
-| English       | Kana   | Kanji |
-|---------------|--------|-------|
-| end           | はて   | 果て  |
-| distance      | きょり | 距離  |
+| English  | Kana   | Kanji |
+|----------|--------|-------|
+| end      | はて   | 果て  |
+| distance | きょり | 距離  |
+| next     | つぎ   | 次    |
 
 ### Temporal
 | English | Kana   | Kanji |

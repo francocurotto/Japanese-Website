@@ -55,3 +55,4 @@ draft: true
 | then       | じゃあ   |
 | however    | だけど   |
 | by the way | ところで |
+| come now   | さあ     |

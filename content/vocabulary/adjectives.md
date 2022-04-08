@@ -37,6 +37,11 @@ draft: true
 | disliked | きらい | 嫌い   |
 | wanted   | ほしい | 欲しい |
 
+### Emotions
+| Icon | English | Kana     | Kanji  |
+|------|---------|----------|--------|
+|      | happy   | うれしい | 嬉しい |
+
 ### Quantity
 | English      | Kana     | Kanji    |
 |--------------|----------|----------|
@@ -46,20 +51,16 @@ draft: true
 | insufficient | たりない | 足りない |
 
 ### Evaluation
-| English   | Kana     | Kanji |
-|-----------|----------|-------|
-| good      | いい     |       |
-| excelent  | ばつぐん | 抜群  |
-| most      | さいこう | 最高  |
-| amazing   | すごい   | 凄い  |
-| wonderful | すてき   | 素敵  |
-| so-so     | まあまあ |       |
-| good at   | とくい   | 得意  |
-
-### Health
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| healthy | げんき | 元気  |
+| English   | Kana         | Kanji  |
+|-----------|--------------|--------|
+| good      | いい         |        |
+| excelent  | ばつぐん     | 抜群   |
+| most      | さいこう     | 最高   |
+| amazing   | すごい       | 凄い   |
+| wonderful | すてき       | 素敵   |
+| so-so     | まあまあ     |        |
+| good at   | とくい       | 得意   |
+| all right | だいじょうぶ | 大丈夫 |
 
 ## Appareance
 | English  | Kana       | Kanji  |
@@ -72,6 +73,23 @@ draft: true
 | dark     | くらい     | 暗い   |
 | clean    | せいけつ   | 清潔   |
 | dirty    | きたない   | 汚い   |
+| cute     | かわいい   | 可愛い |
+
+### Congnitive
+| English     | Kana       | Kanji  |
+|-------------|------------|--------|
+| interesting | おもしろい | 面白い |
+
+### Health
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| healthy | げんき | 元気  |
+
+### Work and Activities
+| English  | Kana       | Kanji  |
+|----------|------------|--------|
+| busy     | いそがしい | 忙しい |
+| skillful | じょうず   | 上手   |
 
 ### Money
 | English   | Kana   | Kanji |

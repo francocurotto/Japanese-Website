@@ -13,6 +13,7 @@
     - street
     - fire
     - can
+    - happy
 
 - scripts:
     - practice english -> japanese, japanese -> english
