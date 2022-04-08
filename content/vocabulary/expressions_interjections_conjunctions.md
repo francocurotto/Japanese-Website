@@ -23,6 +23,7 @@ draft: true
 | look!               | ほら             |              |
 | that is right       | ええ             |              |
 | really?             | へえ             |              |
+| huh?                | あれ             |              |
 
 ### Expressions
 | English                   | Kana                     | Kanji                |
