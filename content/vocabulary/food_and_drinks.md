@@ -3,6 +3,21 @@ title: "Food and Drinks"
 date: 2021-12-23T20:47:30-03:00
 draft: true
 ---
+### General
+| English       | Kana       | Kanji  |
+|---------------|------------|--------|
+| food          | たべもの   | 食べ物 |
+| food products | しょくひん | 食品   |
+| meal          | しょくじ   | 食事   |
+| cooking       | りょうり   | 料理   |
+
+### Meal Times
+| English   | Kana       | Kanji  |
+|-----------|------------|--------|
+| breakfast | あさごはん | 朝御飯 |
+| lunch     | ひるごはん | 昼御飯 |
+| dinner    | ばんごはん | 晩御飯 |
+
 ### Animal
 | Icon | English | Kana   | Kanji |
 |------|---------|--------|-------|
