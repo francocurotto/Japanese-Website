@@ -35,6 +35,7 @@ draft: true
 | bathroom | おふろ     | お風呂 |
 | garden   | にわ       | 庭     |
 | outside  | そと       | 外     |
+| floor    | かい       | 階     |
 
 ### School Rooms
 | English   | Kana       | Kanji  |
@@ -42,3 +43,8 @@ draft: true
 | classroom | きょうしつ | 居室   | 
 | library   | としょかん | 図書館 |
 | dormitory | りょう     | 寮     |
+
+### Store Rooms
+| English         | Kana   | Kanji  |
+|-----------------|--------|--------|
+| store's section | うりば | 売り場 |
