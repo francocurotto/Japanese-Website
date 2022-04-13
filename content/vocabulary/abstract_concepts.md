@@ -53,6 +53,8 @@ draft: true
 | end      | はて   | 果て  |
 | distance | きょり | 距離  |
 | next     | つぎ   | 次    |
+| right    | みぎ   | 右    |
+| left     | ひだり | 左    |
 
 ### Temporal
 | English | Kana   | Kanji |

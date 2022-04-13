@@ -14,6 +14,7 @@ draft: true
 | get off   | おりる | 降りる |
 | get on    | のる   | 乗る   |
 | go around | めぐる | めぐる |
+| go up     | あがる | 上がる |
 
 ### Senses and Communication
 | English          | Kana         | Kanji      |
