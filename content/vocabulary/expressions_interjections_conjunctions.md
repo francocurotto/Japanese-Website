@@ -25,6 +25,7 @@ draft: true
 | really?             | へえ             |              |
 | huh?                | あれ             |              |
 | um...               | あのう           |              |
+| hey                 | なあ             |              |
 
 ### Expressions
 | English                   | Kana                     | Kanji                |
@@ -49,6 +50,7 @@ draft: true
 | what's that?              | なんて                   | 何て                 |
 | Oh well                   | そうねえ                 |                      |
 | welcome to the shop       | いらっしゃいます         |                      |
+| how about                 | どう                     |                      |
 
 ### Conjunctions
 | English    | Kana     |

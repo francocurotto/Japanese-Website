@@ -85,10 +85,20 @@ draft: true
 |---------|----------|-------|
 | scenery | ふうけい | 風景  | 
 
+### Preferences
+| English        | Kana     | Kanji  |
+|----------------|----------|--------|
+| recommendation | おすすめ | お勧め |
+
 ### Preffixing and Suffixing
 | English      | Kana   | Kanji |
 |--------------|--------|-------|
 | depending on | しだい | 次第  |
+
+### Movies/Books Genres
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| horror  | ホラー |       |
 
 ### Digital
 | Icon | English  | Kana           | Kanji  |

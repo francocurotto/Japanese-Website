@@ -30,17 +30,18 @@ draft: true
 | always          | いたうも | 何時も |
 
 ### Quantity
-| English | Kana     | Kanji |
-|---------|----------|-------|
-| all     | ざんぶ   | 全部  |
-| full    | いっぱい | 一杯  |
-| little  | すこし   | 少し  |
-| more    | もっと   |       |
+| English  | Kana     | Kanji |
+|----------|----------|-------|
+| all      | ざんぶ   | 全部  |
+| full     | いっぱい | 一杯  |
+| little   | すこし   | 少し  |
+| more     | もっと   |       |
+| a little | ちょっと | 一寸  |
 
 ### Quality
-| English  | Kana | Kanji |
-|----------|------|-------|
-| properly | よく | 良く  |
+| English   | Kana | Kanji |
+|-----------|------|-------|
+| properly  | よく | 良く  |
 
 ### Certainty
 | English    | Kana   | Kanji |

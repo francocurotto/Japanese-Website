@@ -89,6 +89,7 @@ draft: true
 | English  | Kana       | Kanji  |
 |----------|------------|--------|
 | busy     | いそがしい | 忙しい |
+| free     | ひま       | 暇     |
 | skillful | じょうず   | 上手   |
 
 ### Money
