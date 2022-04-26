@@ -55,12 +55,14 @@ draft: true
 | next     | つぎ   | 次    |
 | right    | みぎ   | 右    |
 | left     | ひだり | 左    |
+| way      | みち   | 道    |
 
 ### Temporal
 | English | Kana   | Kanji |
 |---------|--------|-------|
 | time    | じかん | 時間  |
 | moment  | とき   | 時    |
+| now     | いま   | 今    |
 
 ### Medicine
 | English       | Kana       | Kanji |

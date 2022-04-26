@@ -26,6 +26,7 @@ draft: true
 | huh?                | あれ             |              |
 | um...               | あのう           |              |
 | hey                 | なあ             |              |
+| hello (on phone)    | もしもし         |              |
 
 ### Expressions
 | English                   | Kana                     | Kanji                |

@@ -82,6 +82,11 @@ draft: true
 |---------|--------|-------|
 | measure | はかる | 計る  |
 
+### Colaborative
+| English | Kana     | Kanji  |
+|---------|----------|--------|
+| help    | たすける | 助ける |
+
 ### Passive
 | English       | Kana   | Kanji  |
 |---------------|--------|--------|
@@ -97,6 +102,13 @@ draft: true
 | be called     | もうす | 申す   |
 | get used to   | なれる | 慣れる |
 | differ        | ちがう | 違う   |
+
+### Accidents
+| English        | Kana       | Kanji    |
+|----------------|------------|----------|
+| get lost       | まよう     | 迷う     |
+| make a mistake | まちがえる | 間違える |
+| break          | わる       | 割る     |
 
 ### Time Related
 | English | Kana     | Kanji  |

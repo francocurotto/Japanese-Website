@@ -12,7 +12,7 @@ draft: true
 | to the side | よこ   | 横    |
 | next to     | となり | 隣    |
 | in front    | まえ   | 前    |
-| to the back | うしろ | 後ろ  |
+| behind      | うしろ | 後ろ  |
 | inner part  | おく   | 奥    |
 | far away    | とおく | 遠く  |
 
