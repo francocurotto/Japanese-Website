@@ -37,12 +37,12 @@ def gen_dict(tltlang, syllab):
     itemlist = genlist()
     tltkey, anskey = get_keys(tltlang, syllab)
     quizdict = {}
-    for vocitem in itemlist:
-        if tltkey in vocitem and anskey in vocitem:
+    for item in itemlist:
+        if tltkey in item and anskey in item:
             if not tltkey in quizdict:
-                quizdict[tltkey] = [anskey]
+                quizdict[item[tltkey]] = [item[anskey]]
             else:
-                quizdict[tltkey].append(anskey)
+                quizdict[item[tltkey]].append(item[anskey])
     return quizdict
 
 def get_keys(tltlang, syllab):
