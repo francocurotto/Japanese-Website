@@ -92,9 +92,9 @@ draft: true
 | Icon | English | Kana   | Kanji |
 |------|---------|--------|-------|
 | 💰   | bag     | かばん | 鞄    |
+| 💰   | bag     | ふくろ | 袋    |
 | 📦   | box     | はこ   | 箱    |
-|      | can     | かん   | 缶    |
-|      | bag     | ふくろ | 袋    |
+| 🥫   | can     | かん   | 缶    |
 
 ### Travel
 | Icon | English  | Kana     | Kanji  |

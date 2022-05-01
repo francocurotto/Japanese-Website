@@ -40,7 +40,7 @@ draft: true
 ### Emotions
 | Icon | English | Kana     | Kanji  |
 |------|---------|----------|--------|
-|      | happy   | うれしい | 嬉しい |
+| 🙂   | happy   | うれしい | 嬉しい |
 
 ### Quantity
 | English      | Kana     | Kanji    |

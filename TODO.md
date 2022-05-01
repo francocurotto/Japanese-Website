@@ -8,13 +8,6 @@
     - iwadare-sensei memos
     - Emojis
 
-- add icons:
-    - countries
-    - street
-    - fire
-    - can
-    - happy
-
 - scripts:
     - practice english -> japanese, japanese -> english
     - count kanjis

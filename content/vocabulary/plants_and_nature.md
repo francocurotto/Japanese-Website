@@ -13,7 +13,7 @@ draft: true
 ### Phenomenon
 | Icon  | English | Kana   | Kanji |
 |-------|---------|--------|-------|
-|       | fire    | ひ     | 火    |
+| 🔥    | fire    | ひ     | 火    |
 |       | light   | ひかり | 光    |
 
 
