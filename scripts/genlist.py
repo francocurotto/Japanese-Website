@@ -2,6 +2,7 @@ import os
 
 vocdir = "../content/vocabulary/"
 filelist = os.listdir(vocdir)
+filelist
 
 def genlist():
     tablelist = get_tables()
@@ -20,6 +21,10 @@ def get_tables():
                 elif c == "|": # if in table
                     # add line to last table
                     tablelist[-1].append(line)
+            # remove non-table files like _index.md
+            if tablelist[-1] == []:
+                del(tablelist[-1])
+
     return tablelist
 
 def get_voclist(tablelist):
