@@ -9,7 +9,7 @@ draft: true
 | big     | おおきい | 大きい |
 | small   | ちいさい | 小さい |
 | tall    | たかい   | 高い   |
-| short   | ひくい   | ひくい |
+| short   | ひくい   | 低い   |
 | wide    | ひろい   | 広い   |
 | narrow  | せまい   | 狭い   |
 | far     | とおい   | 遠い   |
@@ -59,8 +59,9 @@ draft: true
 | amazing   | すごい       | 凄い   |
 | wonderful | すてき       | 素敵   |
 | so-so     | まあまあ     |        |
-| good at   | とくい       | 得意   |
 | all right | だいじょうぶ | 大丈夫 |
+| good at   | とくい       | 得意   |
+| bad at    | にがて       | 苦手   |
 
 ## Appareance
 | English  | Kana       | Kanji  |
@@ -91,6 +92,11 @@ draft: true
 | busy     | いそがしい | 忙しい |
 | free     | ひま       | 暇     |
 | skillful | じょうず   | 上手   |
+
+### Difficulty
+| English | Kana      | Kanji |
+|---------|-----------|-------|
+| convenient | べんり | 便利  |
 
 ### Money
 | English   | Kana   | Kanji |

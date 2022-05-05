@@ -10,7 +10,7 @@ draft: true
 | love      | あい       | 愛     |
 | thought   | おもい     | 思い   |
 | curiosity | こうきしん | 好奇心 |
-| hobby     | しゅみ     | 趣味   |
+| worry     | しんぱい   | 心配   |
 
 ### Linguistics
 | English | Kana   | Kanji |
@@ -80,6 +80,7 @@ draft: true
 ### Activities
 | English       | Kana     | Kanji |
 |---------------|----------|-------|
+| hobby         | しゅみ   | 趣味  |
 | reading books | どくしょ | 読書  |
 
 ### Visual Concepts
@@ -92,14 +93,18 @@ draft: true
 |----------------|----------|--------|
 | recommendation | おすすめ | お勧め |
 
-### Preffixing and Suffixing
-| English      | Kana   | Kanji |
-|--------------|--------|-------|
-| depending on | しだい | 次第  |
+### Music
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| music   | おんがく | 音楽  |
+| song    | うた     | 歌    |
+| tune    | きょく   | 曲    |
 
-### Movies/Books Genres
+### Movies and Animation
 | English | Kana   | Kanji |
 |---------|--------|-------|
+| movie   | えいが | 映画  |
+| anime   | アニメ |       |
 | horror  | ホラー |       |
 
 ### Digital
@@ -107,3 +112,8 @@ draft: true
 |------|----------|----------------|--------|
 | 🌐   | Internet | インターネット |        |
 | 😀   | emoji    | えもじ         | 絵文字 |
+
+### Preffixing and Suffixing
+| English      | Kana   | Kanji |
+|--------------|--------|-------|
+| depending on | しだい | 次第  |

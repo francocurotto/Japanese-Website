@@ -34,12 +34,13 @@ draft: true
 | that way (far)       | あちら |
 
 ### Interrogative Pronouns
-| English    | Kana   | Kanji |
-|------------|--------|-------|
-| what?      | なん   | 何    |
-| when?      | いつ   | 何時  |
-| which one? | どれ   |       |
-| where?     | どこ   |       |
-| which one? | どの   |       |
-| which way? | どちら |       |
-| why?       | なぜ   | 何故  |
+| English       | Kana   | Kanji |
+|------------   |--------|-------|
+| what?         | なん   | 何    |
+| when?         | いつ   | 何時  |
+| which one?    | どれ   |       |
+| where?        | どこ   |       |
+| which one?    | どの   |       |
+| which way?    | どちら |       |
+| why?          | なぜ   | 何故  |
+| what kind of? | どんな |       |

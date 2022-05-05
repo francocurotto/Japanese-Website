@@ -28,6 +28,7 @@ draft: true
 | recently        | こんど   | 今度   | 
 | beyond          | いじょう | 以上   |
 | always          | いたうも | 何時も |
+| just now        | つい     |        |
 
 ### Quantity
 | English  | Kana     | Kanji |

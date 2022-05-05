@@ -17,6 +17,7 @@ draft: true
 | で       | indicates the location of an action                        |
 | から     | indicates a starting point in time or place                |
 | まで     | indicates a limit on time, space or quantity               |
+| ので     | indicates the reason for something                         |
 | よ       | at the end of a sentence indicates strong a conviction     |
 | ね       | at the end of a sentence to soften a request or suggestion |
 | かも     | indicates uncertainty in sentence (may, maybe)             |

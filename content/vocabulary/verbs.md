@@ -72,6 +72,11 @@ draft: true
 | concentrate | こらす         | 凝らす   |
 | feel        | かんじる       | 感じる   |
 
+### Artistic
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| sing    | うたう | 歌う  |
+
 ### Feelings
 | English      | Kana     | Kanji  |
 |--------------|----------|--------|
@@ -134,7 +139,7 @@ draft: true
 | be needed           | いる       | 要る       |
 | surround            | かこむ     | 囲む       |
 | gather              | あつまる   | 集まる     |
-| raise               | おこす     | 起こす     | 
+| raise               | おこす     | 起こす     |
 | elevate             | あげる     | 上げる     |
 | burn                | もえる     | 燃える     |
 | seize               | つかむ     | 掴む       |
