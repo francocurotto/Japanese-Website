@@ -170,7 +170,7 @@ def handle_wrong_answer():
     ntry += 1
     set_triesinfo()
     set_restext_incorrect()
-    if ntry > ntries:
+    if ntries > 0 and ntry > ntries:
         goto_next()
 
 def add_hint():
