@@ -1,17 +1,28 @@
+"""
+TODO: make score be character-based
+TODO: implement correct/incorrect text
+TODO: show statistics at the end of game
+TODO: implement finite number of tries
+TODO: add sounds
+TODO: test different cmdargs
+TODO: jap->eng dictionary fixes
+TODO: implement leaderboard
+"""
 from argparse import ArgumentParser, ArgumentTypeError
 from random import sample
 from urwid import *
 from genlist import genlist
 
 global tltlang, anslang, nitems, ntries, quizdict, totscore
-global tltitem, ansitem, hintitem
+global tlttext, ansedit, hinttext, loop
 global triesinfo, itemsinfo, scoreinfo
-global ntry, score
+global quizitem, ntry, score, nhints
 score = 0
-totscore = 10
+totscore = 1
+nhints = 0
 
 def main():
-    global quizdict, nitems
+    global quizdict, nitems, loop
     args = get_cmd_args()
     quizdict = gen_dict()
     nitems = get_nitems(args.nitems)
@@ -68,48 +79,50 @@ def shuffle_dict():
     return quizdict
 
 def init_interface(args, quizdict):
-    global tltitem, ansitem, hintitem
+    global tlttext, ansedit, hinttext
     global triesinfo, itemsinfo, scoreinfo
     # quiz elements
     div = Divider()
     tltbanner = Text("Translate to " + anslang + ":",
         align="center")
-    tltitem = Text("", align="center")
-    #ansbanner = Text("Answer:", align="center")
-    #ansitem = Text("", align="center")
-    ansitem = Edit(u"Answer:\n", align="center")
+    tlttext = Text("", align="center")
+    ansedit = Edit(u"Answer:\n", align="center")
     hintbanner = Text("Hints:", align="center")
-    hintitem = Text("", align="center")
+    hinttext = Text("", align="center")
     
     # info elements
-    hintctrl = Text("CTRL+h:hint")
+    hintctrl = Text("TAB: hint")
     triesbanner = Text("tries:", align="right")
     triesinfo = Text("", align="right")
     infocol1 = Columns([hintctrl, triesbanner,(8, triesinfo)])
-    nextctrl = Text("CTRL+n:next")
+    nextctrl = Text("→:  next")
     itemsbanner = Text("items:", align="right")
     itemsinfo = Text("", align="right")
     infocol2 = Columns([nextctrl, itemsbanner, (8, itemsinfo)])
-    quitctrl = Text("CTRL+q:quit")
+    quitctrl = Text("ESC: quit")
     scorebanner = Text("score:", align="right")
     scoreinfo = Text("", align="right")
     infocol3 = Columns([quitctrl, scorebanner, (8, scoreinfo)])
     set_newitem()
 
     # main elements
-    itemlist = [div, tltbanner, tltitem, div, ansitem, div,
-        hintbanner, hintitem, div, infocol1, infocol2, infocol3]
+    itemlist = [div, tltbanner, tlttext, div, ansedit, div,
+        hintbanner, hinttext, div, infocol1, infocol2,
+        infocol3]
     pile = Pile(itemlist)
     linebox = LineBox(pile, "JQuiz")
     filler = Filler(linebox, valign="top")
-    loop = MainLoop(filler)
+    loop = MainLoop(filler, unhandled_input=handle_input)
     return loop
 
 def set_newitem():
     # get the new item
-    global quizdict, tltitem, ntry
-    item = quizdict.popitem()
-    tltitem.set_text(item[0])
+    global quizdict, tlttext, quizitem, ntry, nhints
+    quizitem = quizdict.popitem()
+    tlttext.set_text(quizitem[0])
+    ansedit.edit_text = ""
+    nhints = 0
+    hinttext.set_text("")
     ntry = 1; set_triesinfo()
     set_itemsinfo()
     set_scoreinfo()
@@ -122,8 +135,42 @@ def set_itemsinfo():
     itemsinfo.set_text(str(nitem) + "/" + str(nitems))
 
 def set_scoreinfo():
+    totscore = nitems - len(quizdict)
     scoreinfo.set_text(str(score) + "/" + str(totscore))
 
+def handle_input(key):
+    keydict = {
+        "enter" : check_answer,
+        "tab"   : add_hint,
+        "right" : set_newitem,
+        "esc"   : exitquiz}
+    if key in keydict:
+        keydict[key]()
+
+def check_answer():
+    global score, ntry
+    answer = ansedit.edit_text
+    if answer in quizitem[1]: # right answer
+        score += 1
+        set_newitem()
+    else: # wrong answer
+        ntry += 1
+        set_triesinfo()
+
+def add_hint():
+    global nhints
+    nhints += 1
+    hintlist = [ans[:nhints] for ans in quizitem[1]]
+    hintstr = ", ".join(hintlist)
+    hinttext.set_text(hintstr)
+    # limit nhints grow
+    if nhints > len(max(quizitem[1], key=len)):
+        nhints = len(max(quizitem[1], key=len))
+    
+def exitquiz():
+    loop.stop()
+    print("saDFSDFASFS")
+    exit()
 
 if __name__ == "__main__":
     main()
