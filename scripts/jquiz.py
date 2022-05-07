@@ -1,9 +1,5 @@
 """
-TODO: make score be character-based
-TODO: implement correct/incorrect text
-TODO: show statistics at the end of game
-TODO: implement finite number of tries
-TODO: add sounds
+TODO: more elegant exit
 TODO: test different cmdargs
 TODO: jap->eng dictionary fixes
 TODO: implement leaderboard
@@ -13,13 +9,18 @@ from random import sample
 from urwid import *
 from genlist import genlist
 
-global tltlang, anslang, nitems, ntries, quizdict, totscore
-global tlttext, ansedit, hinttext, loop
+global tltlang, anslang, nitems, ntries
+global tlttext, ansedit, hinttext, restext, loop
 global triesinfo, itemsinfo, scoreinfo
-global quizitem, ntry, score, nhints
+global quizdict, quizitem
+global totscore, score, ntry, nhints, ncorrect
+totscore = 0
 score = 0
-totscore = 1
 nhints = 0
+ncorrect = 0
+
+pallete = [("correct",   "dark blue", "black"),
+           ("incorrect", "dark red",  "black")]
 
 def main():
     global quizdict, nitems, loop
@@ -79,7 +80,7 @@ def shuffle_dict():
     return quizdict
 
 def init_interface(args, quizdict):
-    global tlttext, ansedit, hinttext
+    global tlttext, ansedit, hinttext, restext
     global triesinfo, itemsinfo, scoreinfo
     # quiz elements
     div = Divider()
@@ -91,11 +92,12 @@ def init_interface(args, quizdict):
     hinttext = Text("", align="center")
     
     # info elements
+    restext = Text("", align="center")
     hintctrl = Text("TAB: hint")
     triesbanner = Text("tries:", align="right")
     triesinfo = Text("", align="right")
     infocol1 = Columns([hintctrl, triesbanner,(8, triesinfo)])
-    nextctrl = Text("→:  next")
+    nextctrl = Text("➡ : next")
     itemsbanner = Text("items:", align="right")
     itemsinfo = Text("", align="right")
     infocol2 = Columns([nextctrl, itemsbanner, (8, itemsinfo)])
@@ -107,17 +109,19 @@ def init_interface(args, quizdict):
 
     # main elements
     itemlist = [div, tltbanner, tlttext, div, ansedit, div,
-        hintbanner, hinttext, div, infocol1, infocol2,
+        hintbanner, hinttext, div, restext, infocol1, infocol2,
         infocol3]
     pile = Pile(itemlist)
     linebox = LineBox(pile, "JQuiz")
     filler = Filler(linebox, valign="top")
-    loop = MainLoop(filler, unhandled_input=handle_input)
+    loop = MainLoop(filler, pallete,
+        unhandled_input=handle_input)
     return loop
 
 def set_newitem():
     # get the new item
     global quizdict, tlttext, quizitem, ntry, nhints
+    if len(quizdict) == 0: finishquiz()
     quizitem = quizdict.popitem()
     tlttext.set_text(quizitem[0])
     ansedit.edit_text = ""
@@ -135,27 +139,39 @@ def set_itemsinfo():
     itemsinfo.set_text(str(nitem) + "/" + str(nitems))
 
 def set_scoreinfo():
-    totscore = nitems - len(quizdict)
     scoreinfo.set_text(str(score) + "/" + str(totscore))
 
 def handle_input(key):
     keydict = {
         "enter" : check_answer,
         "tab"   : add_hint,
-        "right" : set_newitem,
+        "right" : goto_next,
         "esc"   : exitquiz}
     if key in keydict:
         keydict[key]()
 
 def check_answer():
-    global score, ntry
     answer = ansedit.edit_text
-    if answer in quizitem[1]: # right answer
-        score += 1
-        set_newitem()
-    else: # wrong answer
-        ntry += 1
-        set_triesinfo()
+    if answer in quizitem[1]:
+        handle_right_answer(answer)
+    else:
+        handle_wrong_answer()
+
+def handle_right_answer(answer):
+    global totscore, score, ncorrect
+    totscore += len(answer)
+    score += len(answer) - nhints
+    ncorrect += 1
+    set_restext_correct()
+    set_newitem()
+
+def handle_wrong_answer():
+    global ntry
+    ntry += 1
+    set_triesinfo()
+    set_restext_incorrect()
+    if ntry > ntries:
+        goto_next()
 
 def add_hint():
     global nhints
@@ -164,12 +180,35 @@ def add_hint():
     hintstr = ", ".join(hintlist)
     hinttext.set_text(hintstr)
     # limit nhints grow
-    if nhints > len(max(quizitem[1], key=len)):
-        nhints = len(max(quizitem[1], key=len))
+    nhints = min(nhints, len(max(quizitem[1], key=len)))
+
+def goto_next():
+    global totscore
+    totscore += len(min(quizitem[1], key=len))
+    set_restext_next()
+    set_newitem()
     
+def set_restext_correct():
+    restext.set_text(("correct", "CORRECT!"))
+
+def set_restext_incorrect():
+    restext.set_text(("incorrect", "INCORRECT :("))
+
+def set_restext_next():
+    string = quizitem[0] + ": " + ", ".join(quizitem[1])
+    restext.set_text(("incorrect", string))
+
+def finishquiz():
+    loop.stop()
+    print("\nQuiz Resulsts:")
+    print("Correct items: " + str(ncorrect) + "/" +
+        str(nitems) + "(" + str(ncorrect*100//nitems) + "%)")
+    print("Score:         " + str(score) + "/" +
+        str(totscore) + "(" + str(score*100//totscore) + "%)")
+    exit()
+
 def exitquiz():
     loop.stop()
-    print("saDFSDFASFS")
     exit()
 
 if __name__ == "__main__":
