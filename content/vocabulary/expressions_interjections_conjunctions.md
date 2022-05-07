@@ -53,6 +53,7 @@ draft: true
 | Oh well                   | そうねえ                 |                      |
 | welcome to the shop       | いらっしゃいます         |                      |
 | how about                 | どう                     |                      |
+| not really                | それほどでも             |                      |
 
 ### Conjunctions
 | English    | Kana     |

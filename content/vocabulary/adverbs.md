@@ -14,21 +14,21 @@ draft: true
 | in front    | まえ   | 前    |
 | behind      | うしろ | 後ろ  |
 | inner part  | おく   | 奥    |
-| far away    | とおく | 遠く  |
 
 ### Time
-| English         | Kana     | Kanji  |
-|-----------------|----------|--------|
-| yet             | もう     |        |
-| soon            | すぐ     | 直ぐ   |
-| frequently      | よく     | 良く   |
-| slowly          | ゆっくり |        | 
-| this time, now  | こんど   | 今度   |
-| next time, soon | こんど   | 今度   |
-| recently        | こんど   | 今度   | 
-| beyond          | いじょう | 以上   |
-| always          | いたうも | 何時も |
-| just now        | つい     |        |
+| English    | Kana     | Kanji  |
+|------------|----------|--------|
+| yet        | もう     |        |
+| still      | まだ     | 未だ   |
+| now        | こんど   | 今度   |
+| soon       | すぐ     | 直ぐ   |
+| soon       | こんど   | 今度   |
+| frequently | よく     | 良く   |
+| slowly     | ゆっくり |        | 
+| recently   | こんど   | 今度   | 
+| beyond     | いじょう | 以上   |
+| always     | いたうも | 何時も |
+| just now   | つい     |        |
 
 ### Quantity
 | English  | Kana     | Kanji |

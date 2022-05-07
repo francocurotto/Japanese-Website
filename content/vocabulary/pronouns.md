@@ -24,14 +24,17 @@ draft: true
 | here                 | ここ   |
 | this [+ noun]        | この   |
 | this way             | こちら |
+| this kind of         | こんな |
 | that [+ is]          | それ   |
 | there                | そこ   |
 | that [+ noun]        | その   |
 | that way             | そちら |
+| that kind of         | そんな |
 | that (far) [+ is]    | あれ   |
 | there (far)          | あそこ |
 | that (far)  [+ noun] | あの   |
 | that way (far)       | あちら |
+| that kind of (far)   | あんな |
 
 ### Interrogative Pronouns
 | English       | Kana   | Kanji |

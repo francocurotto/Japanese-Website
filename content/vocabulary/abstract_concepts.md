@@ -58,11 +58,13 @@ draft: true
 | way      | みち   | 道    |
 
 ### Temporal
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| time    | じかん | 時間  |
-| moment  | とき   | 時    |
-| now     | いま   | 今    |
+| English  | Kana     | Kanji |
+|----------|----------|-------|
+| time     | じかん   | 時間  |
+| moment   | とき     | 時    |
+| now      | いま     | 今    |
+| curfew   | もんげん | 門限  |
+| lateness | ちこく   | 遅刻  |
 
 ### Medicine
 | English       | Kana       | Kanji |

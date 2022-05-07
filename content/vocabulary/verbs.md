@@ -107,6 +107,7 @@ draft: true
 | be called     | もうす | 申す   |
 | get used to   | なれる | 慣れる |
 | differ        | ちがう | 違う   |
+| become        | なる   | 成る   |
 
 ### Accidents
 | English        | Kana       | Kanji    |
@@ -116,10 +117,11 @@ draft: true
 | break          | わる       | 割る     |
 
 ### Time Related
-| English | Kana     | Kanji  |
-|---------|----------|--------|
-| hurry   | いそぐ   | 急ぐ   |
-| be late | おくれる | 遅れる |
+| English    | Kana     | Kanji    |
+|------------|----------|----------|
+| hurry      | いそぐ   | 急ぐ     |
+| be late    | おくれる | 遅れる   |
+| be in time | まにあう | 間に合う |
 
 ### By/On Objects
 | English             | Kana       | Kanji      |

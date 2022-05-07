@@ -51,17 +51,18 @@ draft: true
 | insufficient | たりない | 足りない |
 
 ### Evaluation
-| English   | Kana         | Kanji  |
-|-----------|--------------|--------|
-| good      | いい         |        |
-| excelent  | ばつぐん     | 抜群   |
-| most      | さいこう     | 最高   |
-| amazing   | すごい       | 凄い   |
-| wonderful | すてき       | 素敵   |
-| so-so     | まあまあ     |        |
-| all right | だいじょうぶ | 大丈夫 |
-| good at   | とくい       | 得意   |
-| bad at    | にがて       | 苦手   |
+| English      | Kana         | Kanji  |
+|--------------|--------------|--------|
+| good         | いい         |        |
+| excelent     | ばつぐん     | 抜群   |
+| most         | さいこう     | 最高   |
+| amazing      | すごい       | 凄い   |
+| wonderful    | すてき       | 素敵   |
+| so-so        | まあまあ     |        |
+| all right    | だいじょうぶ | 大丈夫 |
+| good at      | とくい       | 得意   |
+| bad at       | にがて       | 苦手   |
+| unbelievable | たいへん     | 大変   |
 
 ## Appareance
 | English  | Kana       | Kanji  |
@@ -87,11 +88,12 @@ draft: true
 | healthy | げんき | 元気  |
 
 ### Work and Activities
-| English  | Kana       | Kanji  |
-|----------|------------|--------|
-| busy     | いそがしい | 忙しい |
-| free     | ひま       | 暇     |
-| skillful | じょうず   | 上手   |
+| English    | Kana       | Kanji  |
+|----------  |------------|--------|
+| busy       | いそがしい | 忙しい |
+| free       | ひま       | 暇     |
+| skillful   | じょうず   | 上手   |
+| unskillful | へた       | 下手   |
 
 ### Difficulty
 | English | Kana      | Kanji |
@@ -108,7 +110,9 @@ draft: true
 | English | Kana   | Kanji |
 |---------|--------|-------|
 | fast    | はやい | 早い  |
+| early   | はやい | 早い  |
 | slow    | おそい | 遅い  |
+| late    | おそい | 遅い  |
 
 ### Knowledge
 | English    | Kana           | Kanji        |
