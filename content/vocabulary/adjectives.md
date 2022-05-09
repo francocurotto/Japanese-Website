@@ -89,16 +89,16 @@ draft: true
 
 ### Work and Activities
 | English    | Kana       | Kanji  |
-|----------  |------------|--------|
+|------------|------------|--------|
 | busy       | いそがしい | 忙しい |
 | free       | ひま       | 暇     |
 | skillful   | じょうず   | 上手   |
 | unskillful | へた       | 下手   |
 
 ### Difficulty
-| English | Kana      | Kanji |
-|---------|-----------|-------|
-| convenient | べんり | 便利  |
+| English    | Kana      | Kanji |
+|------------|-----------|-------|
+| convenient | べんり    | 便利  |
 
 ### Money
 | English   | Kana   | Kanji |

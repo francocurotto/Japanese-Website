@@ -1,5 +1,6 @@
 """
 TODO: more elegant exit
+TODO: add categoy/subcategory to hints
 TODO: test different cmdargs
 TODO: jap->eng dictionary fixes
 TODO: implement leaderboard

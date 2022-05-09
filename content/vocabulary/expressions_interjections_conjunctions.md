@@ -54,6 +54,7 @@ draft: true
 | welcome to the shop       | いらっしゃいます         |                      |
 | how about                 | どう                     |                      |
 | not really                | それほどでも             |                      |
+| must not do               | いけません               | 行けません           |
 
 ### Conjunctions
 | English    | Kana     |

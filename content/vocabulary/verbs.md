@@ -63,14 +63,15 @@ draft: true
 | do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
-| English     | Kana           | Kanji    |
-|-------------|----------------|----------|
-| understand  | わかる         | 分かる   |
-| teach       | おしえる       | 教える   |
-| study       | べんきょうする | 勉強する |
-| memorize    | おぼえる       | 覚える   |
-| concentrate | こらす         | 凝らす   |
-| feel        | かんじる       | 感じる   |
+| English     | Kana           | Kanji      |
+|-------------|----------------|------------|
+| understand  | わかる         | 分かる     |
+| teach       | おしえる       | 教える     |
+| study       | べんきょうする | 勉強する   |
+| memorize    | おぼえる       | 覚える     |
+| concentrate | こらす         | 凝らす     |
+| feel        | かんじる       | 感じる     |
+| be careful  | きをつける     | 気をつける |
 
 ### Artistic
 | English | Kana   | Kanji |
@@ -115,6 +116,7 @@ draft: true
 | get lost       | まよう     | 迷う     |
 | make a mistake | まちがえる | 間違える |
 | break          | わる       | 割る     |
+| break          | やぶる     | 破る     |
 
 ### Time Related
 | English    | Kana     | Kanji    |

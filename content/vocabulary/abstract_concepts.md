@@ -11,6 +11,7 @@ draft: true
 | thought   | おもい     | 思い   |
 | curiosity | こうきしん | 好奇心 |
 | worry     | しんぱい   | 心配   |
+| promise   | やくそく   | 約束   |
 
 ### Linguistics
 | English | Kana   | Kanji |
