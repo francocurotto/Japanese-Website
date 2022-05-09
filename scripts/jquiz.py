@@ -1,8 +1,7 @@
 """
-TODO: more elegant exit
 TODO: add categoy/subcategory to hints
-TODO: test different cmdargs
 TODO: jap->eng dictionary fixes
+TODO: test different cmdargs
 TODO: implement leaderboard
 """
 from argparse import ArgumentParser, ArgumentTypeError
@@ -15,6 +14,7 @@ global tlttext, ansedit, hinttext, restext, loop
 global triesinfo, itemsinfo, scoreinfo
 global quizdict, quizitem
 global totscore, score, ntry, nhints, ncorrect
+global keydict
 totscore = 0
 score = 0
 nhints = 0
@@ -24,7 +24,12 @@ pallete = [("correct",   "dark blue", "black"),
            ("incorrect", "dark red",  "black")]
 
 def main():
-    global quizdict, nitems, loop
+    global keydict, quizdict, nitems, loop
+    keydict = {
+        "enter" : check_answer,
+        "tab"   : add_hint,
+        "right" : goto_next,
+        "esc"   : exitquiz}
     args = get_cmd_args()
     quizdict = gen_dict()
     nitems = get_nitems(args.nitems)
@@ -98,7 +103,7 @@ def init_interface(args, quizdict):
     triesbanner = Text("tries:", align="right")
     triesinfo = Text("", align="right")
     infocol1 = Columns([hintctrl, triesbanner,(8, triesinfo)])
-    nextctrl = Text("➡ : next")
+    nextctrl = Text("➡ :  next")
     itemsbanner = Text("items:", align="right")
     itemsinfo = Text("", align="right")
     infocol2 = Columns([nextctrl, itemsbanner, (8, itemsinfo)])
@@ -122,7 +127,9 @@ def init_interface(args, quizdict):
 def set_newitem():
     # get the new item
     global quizdict, tlttext, quizitem, ntry, nhints
-    if len(quizdict) == 0: finishquiz()
+    if len(quizdict) == 0: 
+        finishquiz()
+        return
     quizitem = quizdict.popitem()
     tlttext.set_text(quizitem[0])
     ansedit.edit_text = ""
@@ -143,11 +150,6 @@ def set_scoreinfo():
     scoreinfo.set_text(str(score) + "/" + str(totscore))
 
 def handle_input(key):
-    keydict = {
-        "enter" : check_answer,
-        "tab"   : add_hint,
-        "right" : goto_next,
-        "esc"   : exitquiz}
     if key in keydict:
         keydict[key]()
 
@@ -200,16 +202,19 @@ def set_restext_next():
     restext.set_text(("incorrect", string))
 
 def finishquiz():
+    global keydict
+    keydict = {"esc" : exitquiz}
+    tlttext.set_text(("correct", "QUIZ FINISHED! PRESS ESC TO EXIT"))
+
+def exitquiz():
+    global totscore
     loop.stop()
+    if totscore == 0: totscore = 1 # avoid division by 0
     print("\nQuiz Resulsts:")
     print("Correct items: " + str(ncorrect) + "/" +
         str(nitems) + "(" + str(ncorrect*100//nitems) + "%)")
     print("Score:         " + str(score) + "/" +
         str(totscore) + "(" + str(score*100//totscore) + "%)")
-    exit()
-
-def exitquiz():
-    loop.stop()
     exit()
 
 if __name__ == "__main__":
