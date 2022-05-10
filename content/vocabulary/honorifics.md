@@ -5,8 +5,8 @@ draft: true
 ---
 | Kana     | Kanji | English     | Usage                   |
 |----------|-------|-------------|-------------------------|
-| さん     |       | Mr. / Ms.   | adults of equal status  |
-| さま     | 様    | Sir / Ma'am | people of higher status |
+| さん     |       | Mr./Ms.     | adults of equal status  |
+| さま     | 様    | Sir/Ma'am   | people of higher status |
 | くん     | 君    | boy         | young boy               |
 | ちゃん   |       | little      | young girl              |
 | たん     |       | widdle      | babies                  |

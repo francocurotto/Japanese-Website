@@ -24,7 +24,7 @@ draft: true
 | that is right       | ええ             |              |
 | really?             | へえ             |              |
 | huh?                | あれ             |              |
-| um...               | あのう           |              |
+| um                  | あのう           |              |
 | hey                 | なあ             |              |
 | hello (on phone)    | もしもし         |              |
 | hey!                | おい             |              |

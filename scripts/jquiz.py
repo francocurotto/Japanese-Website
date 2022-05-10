@@ -1,12 +1,12 @@
 """
 TODO: add categoy/subcategory to hints
-TODO: jap->eng dictionary fixes
 TODO: test different cmdargs
 TODO: implement leaderboard
 """
 from argparse import ArgumentParser, ArgumentTypeError
 from random import sample
 from urwid import *
+from re import sub
 from genlist import genlist
 
 global tltlang, anslang, nitems, ntries
@@ -155,7 +155,8 @@ def handle_input(key):
 
 def check_answer():
     answer = ansedit.edit_text
-    if answer in quizitem[1]:
+    al = [sub(r"\([^)]*\)","",a).strip() for a in quizitem[1]]
+    if answer in al:
         handle_right_answer(answer)
     else:
         handle_wrong_answer()
@@ -204,7 +205,8 @@ def set_restext_next():
 def finishquiz():
     global keydict
     keydict = {"esc" : exitquiz}
-    tlttext.set_text(("correct", "QUIZ FINISHED! PRESS ESC TO EXIT"))
+    tlttext.set_text(("correct", 
+        "QUIZ FINISHED! PRESS ESC TO EXIT"))
 
 def exitquiz():
     global totscore

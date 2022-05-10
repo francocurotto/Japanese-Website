@@ -96,13 +96,14 @@ draft: true
 ### Passive
 | English       | Kana   | Kanji  |
 |---------------|--------|--------|
-| be/exist      | いる   | 居る   |
+| be            | いる   | 居る   |
+| exist         | いる   | 居る   |
 | wait          | まつ   | 待つ   |
 | wear          | きる   | 着る   |
 | die           | しぬ   | 死ぬ   |
 | reside        | すむ   | 住む   |
 | be able to do | できる | 出来る |
-| be made/built | できる | 出来る |
+| be made       | できる | 出来る |
 | be abstent    | やすむ | 休む   |
 | take day off  | やすむ | 休む   |
 | be called     | もうす | 申す   |
@@ -128,7 +129,8 @@ draft: true
 ### By/On Objects
 | English             | Kana       | Kanji      |
 |---------------------|------------|------------|
-| be/exist            | ある       | 有る       |
+| be                  | ある       | 有る       |
+| exist               | ある       | 有る       |
 | use                 | つかう     | 使う       |
 | make                | つくる     | 作る       |
 | hold                | もつ       | 持つ       |

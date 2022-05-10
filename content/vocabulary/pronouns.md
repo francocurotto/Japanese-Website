@@ -18,27 +18,27 @@ draft: true
 | they              | かれら     | 彼ら   |
 
 ### Demostratives Pronouns
-| English              | Kana   |
-|----------------------|--------|
-| this [+ is]          | これ   |
-| here                 | ここ   |
-| this [+ noun]        | この   |
-| this way             | こちら |
-| this kind of         | こんな |
-| that [+ is]          | それ   |
-| there                | そこ   |
-| that [+ noun]        | その   |
-| that way             | そちら |
-| that kind of         | そんな |
-| that (far) [+ is]    | あれ   |
-| there (far)          | あそこ |
-| that (far)  [+ noun] | あの   |
-| that way (far)       | あちら |
-| that kind of (far)   | あんな |
+| English               | Kana   |
+|-----------------------|--------|
+| this (pronoun)        | これ   |
+| here                  | ここ   |
+| this (adjective)      | この   |
+| this way              | こちら |
+| this kind of          | こんな |
+| that (pronoun)        | それ   |
+| there                 | そこ   |
+| that (adjective)      | その   |
+| that way              | そちら |
+| that kind of          | そんな |
+| that (far, pronoun)   | あれ   |
+| there (far)           | あそこ |
+| that (far, adjective) | あの   |
+| that way (far)        | あちら |
+| that kind of (far)    | あんな |
 
 ### Interrogative Pronouns
 | English       | Kana   | Kanji |
-|------------   |--------|-------|
+|---------------|--------|-------|
 | what?         | なん   | 何    |
 | when?         | いつ   | 何時  |
 | which one?    | どれ   |       |
