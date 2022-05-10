@@ -14,16 +14,14 @@ def get_tables():
     for filename in filelist:
         with open(vocdir+filename, "r") as vocfile:
             for line in vocfile:
-                c = line[0]
                 # if not in table and last table not empty
-                if c != "|" and tablelist[-1]:
+                if not line.startswith("|") and tablelist[-1]:
                     tablelist.append([]) # start new table
-                elif c == "|": # if in table
+                elif line.startswith("|"): # if in table
                     # add line to last table
                     tablelist[-1].append(line)
-            # remove non-table files like _index.md
-            if tablelist[-1] == []:
-                del(tablelist[-1])
+    # remove non-table files like _index.md
+    tablelist = [t for t in tablelist if t != []]
 
     return tablelist
 
