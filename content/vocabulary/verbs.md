@@ -3,6 +3,13 @@ title: "Verbs"
 date: 2021-12-12T11:50:02-03:00
 draft: true
 ---
+### Copula
+| English     | Kana   |
+|-------------|--------|
+| is          | だ     |
+| is (formal) | です   |
+| was         | だった |
+
 ### Movement
 | English   | Kana   | Kanji  |
 |-----------|--------|--------|
