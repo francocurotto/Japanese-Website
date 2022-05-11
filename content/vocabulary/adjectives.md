@@ -63,6 +63,7 @@ draft: true
 | good at      | とくい       | 得意   |
 | bad at       | にがて       | 苦手   |
 | unbelievable | たいへん     | 大変   |
+| cannot       | だめ         |        |
 
 ## Appareance
 | English  | Kana       | Kanji  |
