@@ -99,6 +99,7 @@ draft: true
 | English    | Kana      | Kanji |
 |------------|-----------|-------|
 | convenient | べんり    | 便利  |
+| difficult  | たいへん  | 大変  |
 
 ### Money
 | English   | Kana   | Kanji |

@@ -83,11 +83,6 @@ draft: true
 |--------------|----------|--------|
 | fall in love | こいする | 恋する |
 
-### Work
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| measure | はかる | 計る  |
-
 ### Colaborative
 | English | Kana     | Kanji  |
 |---------|----------|--------|
@@ -125,6 +120,12 @@ draft: true
 | hurry      | いそぐ   | 急ぐ     |
 | be late    | おくれる | 遅れる   |
 | be in time | まにあう | 間に合う |
+
+### Quantitative
+| English  | Kana   | Kanji  |
+|----------|--------|--------|
+| measure  | はかる | 計る   |
+| increase | ふえる | 増える |
 
 ### By/On Objects
 | English             | Kana       | Kanji      |
