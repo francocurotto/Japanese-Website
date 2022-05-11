@@ -21,7 +21,12 @@ draft: true
 | 1000    | せん   | 千    |
 | 10000   | まん   | 万    |
 
-### Object Counter (つ)
+### Counters
+| English            | Kana | Kanji |
+|--------------------|------|-------|
+| ocurrences counter | かい | 回    |
+
+### Object Counting
 | English    | Kana     |
 |------------|----------|
 | 1 object   | ひとつ   |
@@ -35,7 +40,7 @@ draft: true
 | 9 objects  | ここのつ |
 | 10 objects | とう     |
 
-### Minutes Counter
+### Minutes Counting
 | English    | Kana       |
 |------------|------------|
 | 1 minute   | いっぷん   |
