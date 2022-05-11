@@ -209,9 +209,9 @@ def finishquiz():
         "QUIZ FINISHED! PRESS ESC TO EXIT"))
 
 def exitquiz():
-    global totscore
     loop.stop()
-    if totscore == 0: totscore = 1 # avoid division by 0
+    if totscore == 0: # avoids division by 0
+        exit()
     print("\nQuiz Resulsts:")
     print("Correct items: " + str(ncorrect) + "/" +
         str(nitems) + "(" + str(ncorrect*100//nitems) + "%)")

@@ -1,15 +1,8 @@
-- Vocabulary:
-    - counters
-
 - Vocabulary from source:
+    - easy japanese
     - Marugoto books
     - infinite japanese
-    - easy japanese
     - iwadare-sensei memos
     - Emojis
-
-- scripts:
-    - practice english -> japanese, japanese -> english
-    - count kanjis
 
 - remove long spaces
