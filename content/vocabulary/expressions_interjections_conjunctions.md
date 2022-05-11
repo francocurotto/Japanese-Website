@@ -50,7 +50,7 @@ draft: true
 | well then                 | それでは                 | 其れでは             |
 | anything                  | なんでも                 | 何でも               |
 | what's that?              | なんて                   | 何て                 |
-| Oh well                   | そうねえ                 |                      |
+| oh well                   | そうねえ                 |                      |
 | welcome to the shop       | いらっしゃいます         |                      |
 | how about                 | どう                     |                      |
 | not really                | それほどでも             |                      |
@@ -65,3 +65,4 @@ draft: true
 | however    | だけど   |
 | by the way | ところで |
 | come now   | さあ     |
+| so         | それで   |
