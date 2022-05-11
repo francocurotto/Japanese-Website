@@ -85,6 +85,8 @@ draft: true
 |---------------|----------|-------|
 | hobby         | しゅみ   | 趣味  |
 | reading books | どくしょ | 読書  |
+| cleaning      | そうじ   | 掃除  |
+| duty          | とうばん | 当番  |
 
 ### Visual Concepts
 | English | Kana     | Kanji |

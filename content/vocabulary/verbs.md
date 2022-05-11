@@ -89,6 +89,7 @@ draft: true
 | English      | Kana     | Kanji  |
 |--------------|----------|--------|
 | fall in love | こいする | 恋する |
+| scold        | しかる   | 叱る   |
 
 ### Colaborative
 | English | Kana     | Kanji  |

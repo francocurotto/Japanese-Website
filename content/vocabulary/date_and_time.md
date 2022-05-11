@@ -22,6 +22,9 @@ draft: true
 | today                | きょう     | 今日   |
 | tomorrow             | あした     | 明日   |
 | yesterday            | きのう     | 昨日   |
+| day after tomorrow   | あさって   | 明後日 |
+| day before yesterday | おととい   | 一昨日 |
+| the other day        | このあいだ | この間 |
 | this week            | こんしゅう | 今週   |
 | next week            | らいしゅう | 来週   |
 | last week            | せんしゅう | 先週   |
@@ -31,8 +34,6 @@ draft: true
 | this year            | ことし     | 今年   |
 | next year            | らいねん   | 来年   |
 | last year            | きょねん   | 去年   |
-| day after tomorrow   | あさって   | 明後日 |
-| day before yesterday | おととい   | 一昨日 |
 
 ### Parts of Day
 | English | Kana   | Kanji |
