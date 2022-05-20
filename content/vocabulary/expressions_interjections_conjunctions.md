@@ -66,3 +66,8 @@ draft: true
 | by the way | ところで |
 | come now   | さあ     |
 | so         | それで   |
+
+### Auxiliary
+| English  | Kana   | Kanji |
+|----------|--------|-------|
+| it seems | ようだ | 様だ  |

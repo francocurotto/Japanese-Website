@@ -28,6 +28,7 @@ draft: true
 | mankind         | にんげん   | 人間  |
 | freedom         | じゆう     | 自由  |
 | history         | れきし     | 歴史  |
+| truth           | ほんと     | 本当  |
 
 ### Maths and Quantities
 | English          | Kana     | Kanji |
@@ -66,6 +67,11 @@ draft: true
 | now      | いま     | 今    |
 | curfew   | もんげん | 門限  |
 | lateness | ちこく   | 遅刻  |
+
+### Movement
+| English | Kana | Kanji |
+|---------|------|-------|
+| shaking | ゆれ | 揺れ  |
 
 ### Medicine
 | English       | Kana       | Kanji |

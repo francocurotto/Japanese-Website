@@ -22,6 +22,7 @@ draft: true
 | get on    | のる   | 乗る   |
 | go around | めぐる | めぐる |
 | go up     | あがる | 上がる |
+| run away  | にげる | 逃げる |
 
 ### Senses and Communication
 | English          | Kana         | Kanji      |
@@ -79,6 +80,7 @@ draft: true
 | concentrate | こらす         | 凝らす     |
 | feel        | かんじる       | 感じる     |
 | be careful  | きをつける     | 気をつける |
+| calm down   | おちつく       | 落ち着く   |
 
 ### Artistic
 | English | Kana   | Kanji |
@@ -97,22 +99,23 @@ draft: true
 | help    | たすける | 助ける |
 
 ### Passive
-| English       | Kana   | Kanji  |
-|---------------|--------|--------|
-| be            | いる   | 居る   |
-| exist         | いる   | 居る   |
-| wait          | まつ   | 待つ   |
-| wear          | きる   | 着る   |
-| die           | しぬ   | 死ぬ   |
-| reside        | すむ   | 住む   |
-| be able to do | できる | 出来る |
-| be made       | できる | 出来る |
-| be abstent    | やすむ | 休む   |
-| take day off  | やすむ | 休む   |
-| be called     | もうす | 申す   |
-| get used to   | なれる | 慣れる |
-| differ        | ちがう | 違う   |
-| become        | なる   | 成る   |
+| English       | Kana     | Kanji  |
+|---------------|----------|--------|
+| be            | いる     | 居る   |
+| exist         | いる     | 居る   |
+| wait          | まつ     | 待つ   |
+| wear          | きる     | 着る   |
+| die           | しぬ     | 死ぬ   |
+| reside        | すむ     | 住む   |
+| be able to do | できる   | 出来る |
+| be made       | できる   | 出来る |
+| be abstent    | やすむ   | 休む   |
+| take day off  | やすむ   | 休む   |
+| be called     | もうす   | 申す   |
+| get used to   | なれる   | 慣れる |
+| differ        | ちがう   | 違う   |
+| become        | なる     | 成る   |
+| settle down   | おさまる | 収まる |
 
 ### Accidents
 | English        | Kana       | Kanji    |
