@@ -16,6 +16,7 @@ draft: true
 - [Next Stage with YOU](next_stage_with_you)
 - [Hamigaki Jouzu Kana](hamigaki_jouzu_kana)
 - [Computer Obaachan](computer_obaachan)
+- [Macaroni](macaroni)
 
 ### Anime
 - [Hacking to the Gate - Steins;Gate](hacking_to_the_gate)
