@@ -14,6 +14,8 @@ draft: true
 | narrow  | せまい   | 狭い   |
 | far     | とおい   | 遠い   |
 | near    | ちかい   | 近い   |
+| long    | ながい   | 長い   |
+| short   | みじかい | 短い   |
 
 ### Food
 | English   | Kana     | Kanji    |
@@ -49,6 +51,8 @@ draft: true
 | complete     | かんぺき | 完璧     |
 | a lot        | たくさん | 沢山     |
 | insufficient | たりない | 足りない |
+| many         | おおい   | 多い     |
+| few          | すくない | 少ない   |
 
 ### Evaluation
 | English      | Kana         | Kanji  |
