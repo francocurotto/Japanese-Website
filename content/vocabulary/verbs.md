@@ -29,6 +29,7 @@ draft: true
 |------------------|--------------|------------|
 | see              | みる         | 見る       |
 | listen           | きく         | 聞く       |
+| ask              | きく         | 聞く       |
 | say              | いう         | 言う       |
 | talk             | はなす       | 話す       |
 | read             | よむ         | 読む       |
@@ -38,62 +39,51 @@ draft: true
 | be seen          | みえる       | 見える     |
 
 ### Food and Drinks
-| English     | Kana           | Kanji          |
-|-------------|----------------|----------------|
-| eat         | たべる         | 食べる         |
-| have a meal | しょくじをする | しょくじをする |
-| drink       | のむ           | 飲む           |
-| cook        | たく           | 炊く           |
-| cook        | りょうる       | 料る           |
+| English     | Kana     | Kanji  |
+|-------------|----------|--------|
+| eat         | たべる   | 食べる |
+| drink       | のむ     | 飲む   |
+| cook        | たく     | 炊く   |
+| cook        | りょうる | 料る   |
 
 ### Daily Life
-| English     | Kana           | Kanji        |
-|-------------|----------------|--------------|
-| get up      | おきる         | 起きる       |
-| shower      | あびる         | 浴びる       |
-| work        | はたらく       | 働く         |
-| do work     | しごとをする   | 仕事をする   |
-| buy         | かう           | 買う         |
-| go shopping | かいものをする | 買い物をする |
-| sleep       | ねる           | 寝る         |
-| fall asleep | ねむる         | 眠る         |
-| wake up     | めざめる       | 目覚める     |
+| English     | Kana     | Kanji    |
+|-------------|----------|----------|
+| get up      | おきる   | 起きる   |
+| shower      | あびる   | 浴びる   |
+| work        | はたらく | 働く     |
+| buy         | かう     | 買う     |
+| sleep       | ねる     | 寝る     |
+| fall asleep | ねむる   | 眠る     |
+| wake up     | めざめる | 目覚める |
 
 ### Physical Activity
 | English      | Kana           | Kanji      |
 |--------------|----------------|------------|
 | walk         | あるく         | 歩く       |
 | run          | はしる         | 走る       |
-| stroll       | さんぽをする   | 散歩をする |
 | play         | あそぶ         | 遊ぶ       |
 | dance        | おどる         | 踊る       |
 | swim         | およぐ         | 泳ぐ       |
-| do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
-| English       | Kana           | Kanji      |
-|---------------|----------------|------------|
-| understand    | わかる         | 分かる     |
-| teach         | おしえる       | 教える     |
-| study         | べんきょうする | 勉強する   |
-| memorize      | おぼえる       | 覚える     |
-| concentrate   | こらす         | 凝らす     |
-| feel          | かんじる       | 感じる     |
-| be careful    | きをつける     | 気をつける |
-| calm down     | おちつく       | 落ち着く   |
-| persevere     | がんばる       | 頑張る     |
-| do one's best | がんばる       | 頑張る     |
+| English       | Kana       | Kanji      |
+|---------------|------------|------------|
+| understand    | わかる     | 分かる     |
+| teach         | おしえる   | 教える     |
+| memorize      | おぼえる   | 覚える     |
+| concentrate   | こらす     | 凝らす     |
+| feel          | かんじる   | 感じる     |
+| be careful    | きをつける | 気をつける |
+| calm down     | おちつく   | 落ち着く   |
+| persevere     | がんばる   | 頑張る     |
+| do one's best | がんばる   | 頑張る     |
+| scold         | しかる     | 叱る       |
 
 ### Artistic
 | English | Kana   | Kanji |
 |---------|--------|-------|
 | sing    | うたう | 歌う  |
-
-### Feelings
-| English      | Kana     | Kanji  |
-|--------------|----------|--------|
-| fall in love | こいする | 恋する |
-| scold        | しかる   | 叱る   |
 
 ### Colaborative
 | English | Kana     | Kanji  |

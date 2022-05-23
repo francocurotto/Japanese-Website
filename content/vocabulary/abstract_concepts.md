@@ -8,6 +8,7 @@ draft: true
 |-----------|------------|--------|
 | wish      | ねがい     | 願い   |
 | love      | あい       | 愛     |
+| love      | こい       | 愛     |
 | thought   | おもい     | 思い   |
 | curiosity | こうきしん | 好奇心 |
 | worry     | しんぱい   | 心配   |
@@ -29,6 +30,7 @@ draft: true
 | freedom         | じゆう     | 自由  |
 | history         | れきし     | 歴史  |
 | truth           | ほんと     | 本当  |
+| marriage        | けっこん   | 結婚  |
 
 ### Maths and Quantities
 | English          | Kana     | Kanji |
@@ -86,6 +88,7 @@ draft: true
 |---------|------------|-------|
 | lesson  | じゅぎょう | 授業  |
 | mark    | てん       | 点    |
+| study   | べんきょう | 勉強  |
 
 ### Activities
 | English       | Kana     | Kanji |
@@ -94,6 +97,9 @@ draft: true
 | reading books | どくしょ | 読書  |
 | cleaning      | そうじ   | 掃除  |
 | duty          | とうばん | 当番  |
+| shopping      | かい     | 買い  |
+| stroll        | さんぽ   | 散歩  |
+| excercise     | うんどう | 運動  |
 
 ### Visual Concepts
 | English | Kana     | Kanji |

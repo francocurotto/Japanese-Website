@@ -28,6 +28,7 @@ draft: true
 | hey                 | なあ             |              |
 | hello (on phone)    | もしもし         |              |
 | hey!                | おい             |              |
+| welcome             | ようこそ         |              |
 
 ### Expressions
 | English                   | Kana                     | Kanji                |

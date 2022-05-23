@@ -121,11 +121,12 @@ draft: true
 | late    | おそい | 遅い  |
 
 ### Knowledge
-| English    | Kana           | Kanji        |
-|------------|----------------|--------------|
-| unknown    | しらない       | 知らない     |
-| unexpected | おもいがけない | 思いがけない |
-| famous     | ゆうめい       | 有名         |
+| English       | Kana           | Kanji        |
+|---------------|----------------|--------------|
+| unknown       | しらない       | 知らない     |
+| unexpected    | おもいがけない | 思いがけない |
+| famous        | ゆうめい       | 有名         |
+| knowledgeable | くわしい       | 詳しい       |
 
 ### Existence
 | English     | Kana     | Kanji |

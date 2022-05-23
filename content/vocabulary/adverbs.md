@@ -38,11 +38,17 @@ draft: true
 | little   | すこし   | 少し  |
 | more     | もっと   |       |
 | a little | ちょっと | 一寸  |
+| various  | いろいろ | 色々  |
 
 ### Quality
 | English   | Kana | Kanji |
 |-----------|------|-------|
 | properly  | よく | 良く  |
+
+### Grouping
+| English  | Kana     | Kanji |
+|----------|----------|-------|
+| together | いっしょ | 一緒  |
 
 ### Certainty
 | English    | Kana   | Kanji |
