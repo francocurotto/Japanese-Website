@@ -85,6 +85,7 @@ draft: true
 | English | Kana       | Kanji |
 |---------|------------|-------|
 | lesson  | じゅぎょう | 授業  |
+| mark    | てん       | 点    |
 
 ### Activities
 | English       | Kana     | Kanji |

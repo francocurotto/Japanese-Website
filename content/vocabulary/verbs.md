@@ -71,16 +71,18 @@ draft: true
 | do excercise | うんどうをする | 運動をする |
 
 ### Congnitive
-| English     | Kana           | Kanji      |
-|-------------|----------------|------------|
-| understand  | わかる         | 分かる     |
-| teach       | おしえる       | 教える     |
-| study       | べんきょうする | 勉強する   |
-| memorize    | おぼえる       | 覚える     |
-| concentrate | こらす         | 凝らす     |
-| feel        | かんじる       | 感じる     |
-| be careful  | きをつける     | 気をつける |
-| calm down   | おちつく       | 落ち着く   |
+| English       | Kana           | Kanji      |
+|---------------|----------------|------------|
+| understand    | わかる         | 分かる     |
+| teach         | おしえる       | 教える     |
+| study         | べんきょうする | 勉強する   |
+| memorize      | おぼえる       | 覚える     |
+| concentrate   | こらす         | 凝らす     |
+| feel          | かんじる       | 感じる     |
+| be careful    | きをつける     | 気をつける |
+| calm down     | おちつく       | 落ち着く   |
+| persevere     | がんばる       | 頑張る     |
+| do one's best | がんばる       | 頑張る     |
 
 ### Artistic
 | English | Kana   | Kanji |

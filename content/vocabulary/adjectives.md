@@ -128,9 +128,9 @@ draft: true
 | famous     | ゆうめい       | 有名         |
 
 ### Existence
-| English | Kana     | Kanji |
-|---------|----------|-------|
-| is not  | じゃない |       |
+| English     | Kana     | Kanji |
+|-------------|----------|-------|
+| is not      | じゃない |       |
 
 ### Distinction
 | English   | Kana | Kanji |
