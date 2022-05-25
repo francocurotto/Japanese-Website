@@ -17,6 +17,7 @@ draft: true
 - [Hamigaki Jouzu Kana](hamigaki_jouzu_kana)
 - [Computer Obaachan](computer_obaachan)
 - [Macaroni](macaroni)
+- [Magic of Love](magic_of_love)
 
 ### Anime
 - [Hacking to the Gate - Steins;Gate](hacking_to_the_gate)
