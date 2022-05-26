@@ -1,5 +1,5 @@
 ---
-title: "Magic_of_love"
+title: "Magic of Love"
 date: 2022-05-24T15:05:27-04:00
 draft: true
 ---
@@ -9,7 +9,7 @@ draft: true
 |-------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|
 | 甘い恋と愛を描いて                        | Amai koi to ai wo egaite                            | By drawing out a sweet romantic love                        |
 | キミのことトリコにするの                  | Kimi no koto toriko ni suru no                      | I'll make you all mine                                      |
-| Magic of Love そんな魔法が                | Magic of Love sono mahou ga                         | Magic of love - if I used that magic                        |
+| Magic of Love そんな魔法が                | Magic of Love sonna mahou ga                        | Magic of love - if I used that kind of magic                |
 | もし使えても ドキドキできるの?            | Moshi tsukaetemo dokidoki dekiru no?                | Would it make your heart race?                              |
 |                                           |                                                     |                                                             |
 | キミの心はバタフライ                      | Kimi no kokoro wa butterfly                         | Your heart is like a butterfly                              |
@@ -22,7 +22,7 @@ draft: true
 |                                           |                                                     |                                                             |
 | 甘い恋と愛を描いて                        | Amai koi to ai wo egaite                            | By drawing out a sweet romantic love                        |
 | キミのことトリコにするの                  | Kimi no koto toriko ni suru no                      | I'll make you all mine                                      |
-| Magic of Love そんな魔法が                | Magic of Love sono mahou ga                         | Magic of love - if I used that magic                        |
+| Magic of Love そんな魔法が                | Magic of Love sonna mahou ga                        | Magic of love - if I used that kind of magic                |
 | もし使えても ドキドキできるの?            | Moshi tsukaetemo dokidoki dekiru no?                | Would it make your heart race?                              |
 |                                           |                                                     |                                                             |
 | ひと粒の恋をかみしめて                    | Hitotsubu no koi wo kamishimete                     | If I chew just one drop of this love                        |
@@ -40,7 +40,7 @@ draft: true
 |                                           |                                                     |                                                             |
 | 甘い恋と愛を描いて                        | Amai koi to ai wo egaite                            | By drawing out a sweet romantic love                        |
 | キミのことトリコにするの                  | Kimi no koto toriko ni suru no                      | I'll make you all mine                                      |
-| Magic of Love そんな魔法が                | Magic of Love sono mahou ga                         | Magic of love - if I used that magic                        |
+| Magic of Love そんな魔法が                | Magic of Love sonna mahou ga                        | Magic of love - if I used that kind of magic                |
 | もし使えても ドキドキできるの?            | Moshi tsukaetemo dokidoki dekiru no?                | Would it make your heart race?                              |
 |                                           |                                                     |                                                             |
 | ひと粒の恋をかみしめて                    | Hitotsubu no koi wo kamishimete                     | If I chew just one drop of this love                        |
@@ -50,7 +50,7 @@ draft: true
 |                                           |                                                     |                                                             |
 | 甘い恋と愛を描いて                        | Amai koi to ai wo egaite                            | By drawing out a sweet romantic love                        |
 | キミのことトリコにするの                  | Kimi no koto toriko ni suru no                      | I'll make you all mine                                      |
-| Magic of Love そんな魔法が                | Magic of Love sono mahou ga                         | Magic of love - if I used that magic                        |
+| Magic of Love そんな魔法が                | Magic of Love sonna mahou ga                        | Magic of love - if I used that kind of magic                |
 | もし使えても ドキドキできるの?            | Moshi tsukaetemo dokidoki dekiru no?                | Would it make your heart race?                              |
 |                                           |                                                     |                                                             |
 | ひと粒の恋をかみしめて                    | Hitotsubu no koi wo kamishimete                     | If I chew just one drop of this love                        |
