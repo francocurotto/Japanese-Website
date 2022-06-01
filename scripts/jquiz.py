@@ -47,7 +47,7 @@ def get_cmd_args():
     parser.add_argument("-j", "--japanese-syllabary", 
         choices=["kana", "kanji"], default="kana",     
         dest="syllab", help="Use japanese in kana or kanji.")
-    parser.add_argument("-i", "--items", default=0, type=int,
+    parser.add_argument("-i", "--items", default=10, type=int,
         dest="nitems", help="Number of items in the quiz." +
             "Use <=0 for all items in vocabulary.")
     parser.add_argument("-t", "--tries", default=0, type=int,
@@ -212,7 +212,7 @@ def exitquiz():
     loop.stop()
     if totscore == 0: # avoids division by 0
         exit()
-    print("\nQuiz Resulsts:")
+    print("\nQuiz Results:")
     print("Correct items: " + str(ncorrect) + "/" +
         str(nitems) + "(" + str(ncorrect*100//nitems) + "%)")
     print("Score:         " + str(score) + "/" +
