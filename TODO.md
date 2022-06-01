@@ -4,5 +4,3 @@
     - infinite japanese
     - iwadare-sensei memos
     - Emojis
-
-- remove long spaces

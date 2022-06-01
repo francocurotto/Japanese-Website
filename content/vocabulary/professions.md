@@ -3,7 +3,6 @@ title: "Professions"
 date: 2021-12-21T18:23:45-03:00
 draft: true
 ---
-
 | English          | Kana         | Kanji  |
 |------------------|--------------|--------|
 | profession       | しごと       | 仕事   |
