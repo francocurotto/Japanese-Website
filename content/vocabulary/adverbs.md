@@ -61,8 +61,3 @@ draft: true
 | English      | Kana   | Kanji |
 |--------------|--------|-------|
 | particularly | とくに | 特に  |
-
-### Emotions
-| English      | Kana     | Kanji |
-|--------------|----------|-------|
-| be surprised | ぶっくり | 吃驚  |

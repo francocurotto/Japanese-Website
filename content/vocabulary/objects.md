@@ -56,23 +56,10 @@ draft: true
 |      | desk          | つくえ   | 机    |
 |      | businnes card | めいし   | 名刺  | 
 
-### Library
-| Icon | English    | Kana       | Kanji |
-|------|------------|------------|-------|
-| 📕   | book       | ほん       | 本    |
-|      | magazine   | ざっし     | 雑誌  |
-|      | dictionary | じしょ     | 辞書  |
-|      | novel      | しょうせつ | 小説  |
-
 ### School
 | English | Kana   | Kanji |
 |---------|--------|-------|
 | exam    | しけん | 試験  |
-
-### Decoration
-| Icon | English | Kana     | Kanji |
-|------|---------|----------|-------|
-| 🖼️   | picture | しゃしん | 写真  |
 
 ### Trash and Recyclables
 | English               | Kana         | Kanji        |
@@ -81,12 +68,6 @@ draft: true
 | burnable trash        | もえるごみ   | 燃えるごみ   |
 | non-burnable trash    | もえないごみ | 燃えないごみ |
 | recyclables resources | しげん       | 資源         |
-
-### Arts and Entertainment
-| English | Kana       | Kanji |
-|---------|------------|-------|
-| doll    | にんぎょう | 人形  |
-| manga   | マンガ     | 漫画  |
 
 ### Containers
 | Icon | English | Kana   | Kanji |
@@ -102,11 +83,6 @@ draft: true
 | 🎫   | ticket   | きっぷ   | 切符   |
 |      | souvenir | おみやげ | お土産 |
 | 🗺️   | map      | ちず     | 地図   |
-
-### Instruments
-| Icon | English | Kana   | Kanji |
-|------|---------|--------|-------|
-| 🎹   | piano   | ピアノ |       |
 
 ### Money
 | Icon | English  | Kana       | Kanji |

@@ -39,11 +39,6 @@ draft: true
 | disliked | きらい | 嫌い   |
 | wanted   | ほしい | 欲しい |
 
-### Emotions
-| Icon | English | Kana     | Kanji  |
-|------|---------|----------|--------|
-| 🙂   | happy   | うれしい | 嬉しい |
-
 ### Quantity
 | English      | Kana     | Kanji    |
 |--------------|----------|----------|
@@ -129,9 +124,9 @@ draft: true
 | knowledgeable | くわしい       | 詳しい       |
 
 ### Existence
-| English     | Kana     | Kanji |
-|-------------|----------|-------|
-| is not      | じゃない |       |
+| English | Kana     |
+|---------|----------|
+| is not  | じゃない |
 
 ### Distinction
 | English   | Kana | Kanji |
