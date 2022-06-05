@@ -1,9 +1,4 @@
-"""
-TODO: add categoy/subcategory to hints
-TODO: test different cmdargs
-TODO: implement leaderboard
-"""
-from argparse import ArgumentParser, ArgumentTypeError
+from argparse import ArgumentParser
 from random import sample
 from urwid import *
 from re import sub
