@@ -1,7 +1,6 @@
 import sys
 from urwid import *
 
-global songdict
 songdict = {"Japanese":[],"Romaji":[],"English":[]}
 palette = [("Japanese", "dark red",   "black"),
            ("Romaji",   "dark green", "black"),
@@ -50,9 +49,9 @@ def get_songlines(line):
 
 def init_interface(songname):
     walker = create_walker()
-    listbox = ListBox(walker)
+    listbox = MyListBox(walker)
     linebox = LineBox(listbox, " " + songname + " ")
-    loop = MainLoop(linebox, palette,unhandled_input=exit_loop)
+    loop = MainLoop(linebox,palette,unhandled_input=exit_loop)
     return loop
 
 def create_walker():
@@ -74,6 +73,14 @@ def create_walker():
 def exit_loop(key):
     if key == "esc":
         raise ExitMainLoop()
+
+class MyListBox(ListBox):
+    def mouse_event(self,size,event,button,col,row,focus):
+        super().mouse_event(size,event,button,col,row,focus)
+        if button == 4.0:
+            self.keypress(size, "up")
+        elif button == 5.0:
+            self.keypress(size, "down")
 
 if __name__ == "__main__":
     main()
