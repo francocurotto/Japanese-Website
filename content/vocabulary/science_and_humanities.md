@@ -35,6 +35,7 @@ draft: true
 ### Shapes and Figures
 | English       | Kana     | Kanji  |
 |---------------|----------|--------|
+| shape         | かたち   | 形     |
 | circle        | まる     | ○     |
 | circumference | まわり   | 周り   |
 | triangle      | さんかく | 三角   |
@@ -47,3 +48,4 @@ draft: true
 | diagnosis     | しんだん   | 診断  |
 | height (body) | しんちょう | 身長  |
 | weight (body) | たいじゅう | 体重  |
+| cold          | かぜ       | 風邪  |

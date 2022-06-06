@@ -49,3 +49,4 @@ draft: true
 | English      | Kana   | Kanji |
 |--------------|--------|-------|
 | depending on | しだい | 次第  |
+| like         | みたい |       |

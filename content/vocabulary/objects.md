@@ -47,6 +47,7 @@ draft: true
 |------|---------|--------|-------|
 |      | clothes | ふく   | 服    |
 | 👕   | shirt   | シャツ |       |
+| 🧢   | hat     | ぼうし | 帽子  |
 
 ### Office
 | Icon | English       | Kana     | Kanji |

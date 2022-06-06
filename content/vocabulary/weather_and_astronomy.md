@@ -4,18 +4,19 @@ date: 2021-12-27T12:38:07-03:00
 draft: true
 ---
 ### Weather Phenomenon
-| Icon | English   | Kana     | Kanji |
-|------|-----------|----------|-------|
-| ☁️    | cloud     | くも     | 雲    |
-| 🌧️   | rain      | あめ     | 雨    |
-| 🌨️   | snow      | ゆき     | 雪    |
-| 🌩️   | lightning | かみなり | 雷    |
+| Icon | English             | Kana     | Kanji |
+|------|---------------------|----------|-------|
+| ☁️    | cloud               | くも     | 雲    |
+| 🌧️   | rain                | あめ     | 雨    |
+| 🌨️   | snow                | ゆき     | 雪    |
+| 🌩️   | lightning           | かみなり | 雷    |
+|      | cloud over mountain | かさぐも | 風雲  |
 
 ### Weather States
-| English        | Kana   | Kanji |
-|----------------|--------|-------|
-| clear weather  | はれ   | 晴れ  |
-| cloudy weather | くもり | 曇り  |
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| sunny   | はれ   | 晴れ  |
+| cloudy  | くもり | 曇り  |
 
 ### Celestial Objects
 | Icon | English | Kana | Kanji |

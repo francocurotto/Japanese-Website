@@ -25,18 +25,17 @@ draft: true
 | run away  | にげる | 逃げる |
 
 ### Senses and Communication
-| English          | Kana         | Kanji      |
-|------------------|--------------|------------|
-| see              | みる         | 見る       |
-| listen           | きく         | 聞く       |
-| ask              | きく         | 聞く       |
-| say              | いう         | 言う       |
-| talk             | はなす       | 話す       |
-| read             | よむ         | 読む       |
-| write            | かく         | 書く       |
-| touch            | ふれる       | 触れる     |
-| listen carefully | みみおすます | 耳を澄ます |
-| be seen          | みえる       | 見える     |
+| English | Kana   | Kanji  |
+|---------|--------|--------|
+| see     | みる   | 見る   |
+| listen  | きく   | 聞く   |
+| ask     | きく   | 聞く   |
+| say     | いう   | 言う   |
+| talk    | はなす | 話す   |
+| read    | よむ   | 読む   |
+| write   | かく   | 書く   |
+| touch   | ふれる | 触れる |
+| be seen | みえる | 見える |
 
 ### Food and Drinks
 | English     | Kana     | Kanji  |
@@ -58,13 +57,13 @@ draft: true
 | wake up     | めざめる | 目覚める |
 
 ### Physical Activity
-| English      | Kana           | Kanji      |
-|--------------|----------------|------------|
-| walk         | あるく         | 歩く       |
-| run          | はしる         | 走る       |
-| play         | あそぶ         | 遊ぶ       |
-| dance        | おどる         | 踊る       |
-| swim         | およぐ         | 泳ぐ       |
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| walk    | あるく | 歩く  |
+| run     | はしる | 走る  |
+| play    | あそぶ | 遊ぶ  |
+| dance   | おどる | 踊る  |
+| swim    | およぐ | 泳ぐ  |
 
 ### Congnitive
 | English       | Kana       | Kanji      |
@@ -81,9 +80,10 @@ draft: true
 | scold         | しかる     | 叱る       |
 
 ### Artistic
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| sing    | うたう | 歌う  |
+| English        | Kana   | Kanji |
+|----------------|--------|-------|
+| sing           | うたう | 歌う  |
+| take a picture | とる   | 撮る  |
 
 ### Colaborative
 | English | Kana     | Kanji  |
@@ -108,6 +108,8 @@ draft: true
 | differ        | ちがう   | 違う   |
 | become        | なる     | 成る   |
 | settle down   | おさまる | 収まる |
+| get wet       | ぬれる   | 濡れる |
+| catch a cold  | ひく     | 引く   |
 
 ### Accidents
 | English        | Kana       | Kanji    |
@@ -154,6 +156,9 @@ draft: true
 | burn                | もえる     | 燃える     |
 | seize               | つかむ     | 掴む       |
 | throw away          | すてる     | 捨てる     |
+| rain                | ふる       | 降る       |
+| press               | おす       | 押す       |
+| be lit              | つく       | 点く       |
 
 ### Auxiliary
 | English | Kana     | Kanji  |
