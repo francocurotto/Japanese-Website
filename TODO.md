@@ -4,5 +4,3 @@
     - infinite japanese
     - iwadare-sensei memos
     - Emojis
-
-- add emojis to vocabulary links and titles
