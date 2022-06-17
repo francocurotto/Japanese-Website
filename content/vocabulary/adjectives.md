@@ -32,6 +32,11 @@ draft: true
 | warm    | あたたかい | 暖かい |
 | cool    | すずしい   | 涼しい |
 
+### Senses
+| English | Kana       | Kanji    |
+|---------|------------|----------|
+| soft    | やわらかい | 柔らかい |
+
 ### Preference
 | English  | Kana   | Kanji  |
 |----------|--------|--------|

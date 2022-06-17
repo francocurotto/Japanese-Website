@@ -25,6 +25,7 @@ draft: true
 | English            | Kana | Kanji |
 |--------------------|------|-------|
 | ocurrences counter | かい | 回    |
+| years-old counter  | さい | 歳    |
 
 ### Object Counting
 | English    | Kana     |

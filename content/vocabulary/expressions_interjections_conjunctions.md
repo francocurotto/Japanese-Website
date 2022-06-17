@@ -49,6 +49,7 @@ draft: true
 | once more, please         | もういちどおねがいします | もう一度お願いします |
 | firstly                   | はじめに                 | 始めに               |
 | well then                 | それでは                 | 其れでは             |
+| well then                 | それじゃ                 | 其れじゃ             |
 | anything                  | なんでも                 | 何でも               |
 | what's that?              | なんて                   | 何て                 |
 | oh well                   | そうねえ                 |                      |
