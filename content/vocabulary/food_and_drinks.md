@@ -19,11 +19,12 @@ draft: true
 | dinner    | ばんごはん | 晩御飯 |
 
 ### Animal
-| Icon | English | Kana   | Kanji |
-|------|---------|--------|-------|
-| 🥩   | meat    | にく   | 肉    |
-| 🐟   | fish    | さかな | 魚    |
-| 🥚   | egg     | たまご | 卵    |
+| Icon | English    | Kana   | Kanji |
+|------|------------|--------|-------|
+| 🥩   | meat       | にく   | 肉    |
+| 🐟   | fish       | さかな | 魚    |
+| 🥚   | egg        | たまご | 卵    |
+|      | tuna belly | トロ   |       |
 
 ### Fruits
 | Icon | English | Kana     | Kanji |

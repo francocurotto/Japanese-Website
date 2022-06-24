@@ -22,6 +22,11 @@ draft: true
 | curfew   | もんげん | 門限  |
 | lateness | ちこく   | 遅刻  |
 
+### Divisions
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| part    | ぶぶん | 部分  |
+
 ### Movement
 | English | Kana | Kanji |
 |---------|------|-------|

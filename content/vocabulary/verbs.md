@@ -110,6 +110,7 @@ draft: true
 | settle down   | おさまる | 収まる |
 | get wet       | ぬれる   | 濡れる |
 | catch a cold  | ひく     | 引く   |
+| be surprised  | おどろく | 驚く   |
 
 ### Accidents
 | English        | Kana       | Kanji    |
@@ -159,6 +160,9 @@ draft: true
 | rain                | ふる       | 降る       |
 | press               | おす       | 押す       |
 | be lit              | つく       | 点く       |
+| give (giver)        | あげる     | 上げる     |
+| give (receiver)     | くれる     | 呉れる     |
+| offer               | さしあげる | 差し上げる |
 
 ### Auxiliary
 | English | Kana     | Kanji  |

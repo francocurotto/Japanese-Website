@@ -29,6 +29,7 @@ draft: true
 | beyond     | いじょう | 以上   |
 | always     | いたうも | 何時も |
 | just now   | つい     |        |
+| afterwards | あとで   | 後で   |
 
 ### Quantity
 | English  | Kana     | Kanji |

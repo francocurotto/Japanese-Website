@@ -36,6 +36,7 @@ draft: true
 |------|---------|--------|-------|
 | 🐟   | fish    | さかな | 魚    |
 | 🦐   | shrimp  | えび   | 海老  |
+|      | tuna    | マグロ |       |
 
 ### Animal Parts
 | English | Kana | Kanji |

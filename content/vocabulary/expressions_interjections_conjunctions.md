@@ -5,30 +5,30 @@ draft: true
 ---
 
 ### Interjections
-| English             | Kana             | Kanji        |
-|---------------------|------------------|--------------|
-| yes                 | はい             |              |
-| no                  | いいえ           |              |
-| good morning        | おはよう         | お早う       |
-| good day            | こんにちは       | 今日は       |
-| good evening        | こんばんは       | 今晩は       |
-| goodbye             | さようなら       |              |
-| thank you           | ありがとう       | 有難う       |
-| please/by all means | どうぞ           |              |
-| you are welcome     | どういたしまして |              |
-| I'm home            | ただいま         |              |
-| welcome back        | おかえりなさい   | お帰りなさい |
-| welcome             | いらっしゃい     |              |
-| let me see          | ええと           |              |
-| look!               | ほら             |              |
-| that is right       | ええ             |              |
-| really?             | へえ             |              |
-| huh?                | あれ             |              |
-| um                  | あのう           |              |
-| hey                 | なあ             |              |
-| hello (on phone)    | もしもし         |              |
-| hey!                | おい             |              |
-| welcome             | ようこそ         |              |
+| English          | Kana             | Kanji        |
+|------------------|------------------|--------------|
+| yes              | はい             |              |
+| no               | いいえ           |              |
+| good morning     | おはよう         | お早う       |
+| good day         | こんにちは       | 今日は       |
+| good evening     | こんばんは       | 今晩は       |
+| goodbye          | さようなら       |              |
+| thank you        | ありがとう       | 有難う       |
+| by all means     | どうぞ           |              |
+| you are welcome  | どういたしまして |              |
+| I'm home         | ただいま         |              |
+| welcome back     | おかえりなさい   | お帰りなさい |
+| welcome          | いらっしゃい     |              |
+| let me see       | ええと           |              |
+| look!            | ほら             |              |
+| that is right    | ええ             |              |
+| really?          | へえ             |              |
+| huh?             | あれ             |              |
+| um               | あのう           |              |
+| hey              | なあ             |              |
+| hello (on phone) | もしもし         |              |
+| hey!             | おい             |              |
+| welcome          | ようこそ         |              |
 
 ### Expressions
 | English                   | Kana                     | Kanji                |
@@ -42,8 +42,8 @@ draft: true
 | pardon for leaving first  | おさきにしつれいします   | お先に失礼します     |
 | good work                 | おつかれさまでした       | お疲れ様でした       |
 | best regards              | どうぞよろしく           | どうぞ夜露死苦       |
-| let's eat!                | いただきます             | 頂きます             |
-| thank you for the meal    | ごちそうさま             | ご馳走様             |
+| thank you for the food    | いただきます             | 頂きます             |
+| that was a delicious meal | ごちそうさまでした       | ご馳走様でした       |
 | may I come in?            | ごめんください           | ご免ください         |
 | excuse me for distubing   | おじゃまします           | お邪魔します         |
 | once more, please         | もういちどおねがいします | もう一度お願いします |
