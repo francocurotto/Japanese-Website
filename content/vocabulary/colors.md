@@ -5,6 +5,7 @@ draft: true
 ---
 | Icon                             | English | Kana         | Kanji       |
 |----------------------------------|---------|--------------|-------------|
+|                                  | color   | いろ         | 色         |
 | {{<color red   >}}██{{</color>}} | red     | あか         | 赤         |
 | {{<color orange>}}██{{</color>}} | orange  | オランジいろ | オランジ色 |
 | {{<color yellow>}}██{{</color>}} | yellow  | きいろ       | 黄色       |

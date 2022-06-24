@@ -32,6 +32,11 @@ draft: true
 |---------|------|-------|
 | shaking | ゆれ | 揺れ  |
 
+### Senses
+| English | Kana   | Kanji |
+|---------|--------|-------|
+| aroma   | かおり | 香り  |
+
 ### Teaching and Learning
 | English | Kana       | Kanji |
 |---------|------------|-------|
