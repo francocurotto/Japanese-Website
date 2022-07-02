@@ -68,6 +68,7 @@ draft: true
 | bad at       | にがて       | 苦手   |
 | unbelievable | たいへん     | 大変   |
 | cannot       | だめ         |        |
+| fun          | たのしい     | 楽しい |
 
 ## Appareance
 | English  | Kana       | Kanji  |

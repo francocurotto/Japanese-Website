@@ -5,9 +5,11 @@ draft: true
 ---
 
 ### Emotions
-| Icon | English | Kana     | Kanji  |
-|------|---------|----------|--------|
-| 😀   | happy   | うれしい | 嬉しい |
+| Icon | English  | Kana     | Kanji  |
+|------|----------|----------|--------|
+| 😀   | happy    | うれしい | 嬉しい |
+| 😁   | cheerful | あかるい | 明るい |
+|      | lonely   | さびしい | 寂しい |
 
 ### Feeling Concepts
 | English   | Kana       | Kanji  |

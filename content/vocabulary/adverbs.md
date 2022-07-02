@@ -34,7 +34,7 @@ draft: true
 ### Quantity
 | English  | Kana     | Kanji |
 |----------|----------|-------|
-| all      | ざんぶ   | 全部  |
+| all      | ぜんぶ   | 全部  |
 | full     | いっぱい | 一杯  |
 | little   | すこし   | 少し  |
 | more     | もっと   |       |

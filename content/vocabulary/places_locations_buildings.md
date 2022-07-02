@@ -25,6 +25,7 @@ draft: true
 | 🛣️   | street            | とおり         | 通り     |
 |      | book store        | ほんや         | 本屋     |
 | 🏣   | post office       | ゆうびんきょく | 郵便局   |
+|      | university        | だいがく       | 大学     |
 
 ### House Rooms
 | English  | Kana       | Kanji  |
