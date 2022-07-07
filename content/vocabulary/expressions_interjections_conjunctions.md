@@ -54,7 +54,6 @@ draft: true
 | what's that?              | なんて                   | 何て                 |
 | oh well                   | そうねえ                 |                      |
 | welcome to the shop       | いらっしゃいます         |                      |
-| how about                 | どう                     |                      |
 | not really                | それほどでも             |                      |
 | must not do               | いけません               | 行けません           |
 | have to do                | なければなりません       |                      |

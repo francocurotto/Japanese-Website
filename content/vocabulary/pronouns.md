@@ -52,6 +52,7 @@ draft: true
 | where?        | どこ   |       |
 | which way?    | どちら |       |
 | why?          | なぜ   | 何故  |
+| how?          | どう           |
 | how many?     | いくつ | 幾つ  |
 | how old?      | いくつ | 幾つ  |
 | how much?     | いくら | 幾ら  |

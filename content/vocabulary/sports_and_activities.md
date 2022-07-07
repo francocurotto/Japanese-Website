@@ -14,3 +14,8 @@ draft: true
 | stroll        | さんぽ   | 散歩  |
 | excercise     | うんどう | 運動  |
 
+### Traveling
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| trip    | りょこう | 旅行  |
+
