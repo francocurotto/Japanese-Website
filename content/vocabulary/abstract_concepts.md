@@ -12,6 +12,7 @@ draft: true
 | right    | みぎ   | 右    |
 | left     | ひだり | 左    |
 | way      | みち   | 道    |
+| corner   | かど   | 角    |
 
 ### Temporal
 | English  | Kana     | Kanji |

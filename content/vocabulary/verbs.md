@@ -23,6 +23,7 @@ draft: true
 | go around | めぐる | めぐる |
 | go up     | あがる | 上がる |
 | run away  | にげる | 逃げる |
+| turn      | まがる | 曲がる |
 
 ### Senses and Communication
 | English | Kana   | Kanji  |
@@ -77,7 +78,6 @@ draft: true
 | calm down     | おちつく   | 落ち着く   |
 | persevere     | がんばる   | 頑張る     |
 | do one's best | がんばる   | 頑張る     |
-| scold         | しかる     | 叱る       |
 
 ### Artistic
 | English        | Kana   | Kanji |
@@ -85,10 +85,12 @@ draft: true
 | sing           | うたう | 歌う  |
 | take a picture | とる   | 撮る  |
 
-### Colaborative
-| English | Kana     | Kanji  |
-|---------|----------|--------|
-| help    | たすける | 助ける |
+### Social
+| English | Kana       | Kanji  |
+|---------|------------|--------|
+| help    | たすける   | 助ける |
+| scold   | しかる     | 叱る   |
+| obey    | かしこまる | 畏まる |
 
 ### Passive
 | English       | Kana     | Kanji  |

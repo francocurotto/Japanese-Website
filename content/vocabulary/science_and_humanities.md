@@ -20,6 +20,7 @@ draft: true
 | history         | れきし     | 歴史  |
 | truth           | ほんと     | 本当  |
 | marriage        | けっこん   | 結婚  |
+| citizen         | しみん     | 市民  |
 
 ### Maths and Quantities
 | English          | Kana     | Kanji |
