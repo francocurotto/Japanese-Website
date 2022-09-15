@@ -18,6 +18,7 @@ draft: true
 - [Computer Obaachan](computer_obaachan)
 - [Macaroni](macaroni)
 - [Magic of Love](magic_of_love)
+- [Fushizen na Girl](fushizen_na_girl)
 
 ### Anime
 - [Hacking to the Gate - Steins;Gate](hacking_to_the_gate)
