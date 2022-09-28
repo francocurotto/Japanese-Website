@@ -23,10 +23,11 @@ draft: true
 | curfew   | もんげん | 門限  |
 | lateness | ちこく   | 遅刻  |
 
-### Divisions
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| part    | ぶぶん | 部分  |
+### Quantities
+| English  | Kana     | Kanji |
+|----------|----------|-------|
+| part     | ぶぶん   | 部分  |
+| moderate | ほどほど | 程々  |
 
 ### Movement
 | English | Kana | Kanji |
@@ -39,11 +40,13 @@ draft: true
 | aroma   | かおり | 香り  |
 
 ### Teaching and Learning
-| English | Kana       | Kanji |
-|---------|------------|-------|
-| lesson  | じゅぎょう | 授業  |
-| mark    | てん       | 点    |
-| study   | べんきょう | 勉強  |
+| English      | Kana       | Kanji |
+|--------------|------------|-------|
+| lesson       | じゅぎょう | 授業  |
+| mark         | てん       | 点    |
+| study        | べんきょう | 勉強  |
+| question     | しつもん   | 質問  |
+| consultation | そうだん   | 相談  |
 
 ### Preferences
 | English        | Kana     | Kanji  |
@@ -55,6 +58,7 @@ draft: true
 |------|----------|----------------|--------|
 | 🌐   | Internet | インターネット |        |
 | 😀   | emoji    | えもじ         | 絵文字 |
+| 📧   | email    | メール         |        |
 
 ### Preffixing and Suffixing
 | English      | Kana   | Kanji |

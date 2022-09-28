@@ -12,15 +12,18 @@ draft: true
 |      | lonely   | さびしい | 寂しい |
 
 ### Feeling Concepts
-| English   | Kana       | Kanji  |
-|-----------|------------|--------|
-| wish      | ねがい     | 願い   |
-| love      | あい       | 愛     |
-| love      | こい       | 愛     |
-| thought   | おもい     | 思い   |
-| curiosity | こうきしん | 好奇心 |
-| worry     | しんぱい   | 心配   |
-| promise   | やくそく   | 約束   |
+| English     | Kana       | Kanji  |
+|-------------|------------|--------|
+| feeling     | きぶん     | 気分   |
+| wish        | ねがい     | 願い   |
+| love        | あい       | 愛     |
+| love        | こい       | 愛     |
+| thought     | おもい     | 思い   |
+| curiosity   | こうきしん | 好奇心 |
+| worry       | しんぱい   | 心配   |
+| promise     | やくそく   | 約束   |
+| peace       | わらく     | 和楽   |
+| expectation | きたい     | 期待   |
 
 ### Feeling Adverbs
 | English      | Kana     | Kanji |

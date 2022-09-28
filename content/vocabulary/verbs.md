@@ -26,17 +26,21 @@ draft: true
 | turn      | まがる | 曲がる |
 
 ### Senses and Communication
-| English | Kana   | Kanji  |
-|---------|--------|--------|
-| see     | みる   | 見る   |
-| listen  | きく   | 聞く   |
-| ask     | きく   | 聞く   |
-| say     | いう   | 言う   |
-| talk    | はなす | 話す   |
-| read    | よむ   | 読む   |
-| write   | かく   | 書く   |
-| touch   | ふれる | 触れる |
-| be seen | みえる | 見える |
+| English  | Kana     | Kanji    |
+|----------|----------|----------|
+| see      | みる     | 見る     |
+| listen   | きく     | 聞く     |
+| ask      | きく     | 聞く     |
+| say      | いう     | 言う     |
+| talk     | はなす   | 話す     |
+| tell     | きける   | 聞ける   |
+| read     | よむ     | 読む     |
+| write    | かく     | 書く     |
+| touch    | ふれる   | 触れる   |
+| be seen  | みえる   | 見える   |
+| discover | みつける | 見つける |
+| notice   | きづく   | 気づく   |
+| type     | うつ     | うつ     |
 
 ### Food and Drinks
 | English     | Kana     | Kanji  |
@@ -78,6 +82,7 @@ draft: true
 | calm down     | おちつく   | 落ち着く   |
 | persevere     | がんばる   | 頑張る     |
 | do one's best | がんばる   | 頑張る     |
+| bewilder      | まどわす   | 惑わす     |
 
 ### Artistic
 | English        | Kana   | Kanji |
@@ -122,6 +127,11 @@ draft: true
 | break          | わる       | 割る     |
 | break          | やぶる     | 破る     |
 
+### Perjuicioso
+| English | Kana       | Kanji    |
+|---------|------------|----------|
+| torment | くるしめる | 苦しめる |
+
 ### Time Related
 | English    | Kana     | Kanji    |
 |------------|----------|----------|
@@ -151,6 +161,7 @@ draft: true
 | open (3D)           | ひらく     | 開く       |
 | open (figurative)   | ひらける   | 開ける     |
 | close               | しめる     | 閉める     |
+| close               | しまう     | 了う       |
 | be needed           | いる       | 要る       |
 | surround            | かこむ     | 囲む       |
 | gather              | あつまる   | 集まる     |

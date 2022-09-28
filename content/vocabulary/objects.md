@@ -18,6 +18,7 @@ draft: true
 | 🪑   | chair   | いす     | 椅子  |
 |      | shelf   | たな     | 棚    |
 | 🚪   | door    | とびら   | 扉    |
+| 🪟   | window  | まど     | 窓    |
 
 ### Kitchen and Dining Room
 | Icon | English        | Kana         | Kanji      |
@@ -101,6 +102,12 @@ draft: true
 | 💳   | credit card | クレジットカード |       |
 
 ### Tools
-| Icon | English | Kana     | Kanji |
-|------|---------|----------|-------|
-|      | stairs  | かいだん | 階段  |
+| Icon | English  | Kana     | Kanji |
+|------|----------|----------|-------|
+|      | stairs   | かいだん | 階段  |
+| 🌂   | umbrella | かさ     | 傘    |
+
+### Beauty
+| Icon | English | Kana   | Kanji |
+|------|---------|--------|-------|
+| 💄   | make-up | メイク |       |

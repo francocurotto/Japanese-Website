@@ -57,6 +57,7 @@ draft: true
 | not really                | それほどでも             |                      |
 | must not do               | いけません               | 行けません           |
 | have to do                | なければなりません       |                      |
+| right?                    | でしょう                 |                      |
 
 ### Conjunctions
 | English    | Kana     |

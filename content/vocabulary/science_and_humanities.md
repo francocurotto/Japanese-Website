@@ -18,7 +18,7 @@ draft: true
 | mankind         | にんげん   | 人間  |
 | freedom         | じゆう     | 自由  |
 | history         | れきし     | 歴史  |
-| truth           | ほんと     | 本当  |
+| truth           | ほんとう   | 本当  |
 | marriage        | けっこん   | 結婚  |
 | citizen         | しみん     | 市民  |
 

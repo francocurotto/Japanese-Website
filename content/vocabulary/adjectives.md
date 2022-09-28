@@ -71,17 +71,18 @@ draft: true
 | fun          | たのしい     | 楽しい |
 
 ## Appareance
-| English  | Kana       | Kanji  |
-|----------|------------|--------|
-| pretty   | きれい     | 綺麗   |
-| ugly     | わるい     | 悪い   |
-| new      | あたらしい | 新しい |
-| old      | ふるい     | 古い   |
-| well-lit | あかるい   | 明るい |
-| dark     | くらい     | 暗い   |
-| clean    | せいけつ   | 清潔   |
-| dirty    | きたない   | 汚い   |
-| cute     | かわいい   | 可愛い |
+| English   | Kana       | Kanji  |
+|-----------|------------|--------|
+| pretty    | きれい     | 綺麗   |
+| ugly      | わるい     | 悪い   |
+| new       | あたらしい | 新しい |
+| old       | ふるい     | 古い   |
+| well-lit  | あかるい   | 明るい |
+| dark      | くらい     | 暗い   |
+| clean     | せいけつ   | 清潔   |
+| dirty     | きたない   | 汚い   |
+| cute      | かわいい   | 可愛い |
+| unnatural | ふしぜん   | 不自然 |
 
 ### Congnitive
 | English     | Kana       | Kanji  |
@@ -120,12 +121,14 @@ draft: true
 | early   | はやい | 早い  |
 | slow    | おそい | 遅い  |
 | late    | おそい | 遅い  |
+| sudden  | きゅう | 急    |
 
 ### Knowledge
 | English       | Kana           | Kanji        |
 |---------------|----------------|--------------|
 | unknown       | しらない       | 知らない     |
 | unexpected    | おもいがけない | 思いがけない |
+| unexpected    | いがい         | 意外         |
 | famous        | ゆうめい       | 有名         |
 | knowledgeable | くわしい       | 詳しい       |
 

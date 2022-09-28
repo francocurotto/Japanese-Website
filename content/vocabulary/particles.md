@@ -23,3 +23,7 @@ draft: true
 | かも     | indicates uncertainty in sentence (may, maybe)             |
 | ながら   | while, all, as                                             |
 | より     | than, indicates comparison                                 |
+| かな     | I wonder, is it?                                           |
+| って     | you said                                                   |
+| けど     | but                                                        |
+| だけ     | only, simply                                               |
