@@ -34,13 +34,14 @@ draft: true
 |      | hair    | かみ | 髪    |
 
 ### Medicine
-| English       | Kana       | Kanji |
-|---------------|------------|-------|
-| health        | けんこう   | 健康  |
-| diagnosis     | しんだん   | 診断  |
-| height (body) | しんちょう | 身長  |
-| weight (body) | たいじゅう | 体重  |
-| cold          | かぜ       | 風邪  |
-| cough         | せき       | 咳    |
-| fever         | ねつ       | 熱    |
-| runny nose    | はなみず   | 鼻水  |
+| English            | Kana       | Kanji |
+|--------------------|------------|-------|
+| health             | けんこう   | 健康  |
+| diagnosis          | しんだん   | 診断  |
+| height (body)      | しんちょう | 身長  |
+| weight (body)      | たいじゅう | 体重  |
+| cold               | かぜ       | 風邪  |
+| cough              | せき       | 咳    |
+| fever              | ねつ       | 熱    |
+| runny nose         | はなみず   | 鼻水  |
+| physical condition | たいちょう | 体調  |
