@@ -4,10 +4,11 @@ date: 2022-06-05T17:00:23-04:00
 draft: true
 ---
 ### Linguistics
-| English | Kana   | Kanji |
-|---------|--------|-------|
-| name    | なまえ | 名前  |
-| meaning | いみ   | 意味  |
+| English          | Kana   | Kanji |
+|------------------|--------|-------|
+| name             | なまえ | 名前  |
+| meaning          | いみ   | 意味  |
+| punctuation mark | てん   | 点    |
 
 ### Humanity
 | English         | Kana       | Kanji |
@@ -32,21 +33,18 @@ draft: true
 | everything       | すべて   | 全て  |
 | extent           | ほど     | 程    |
 | same             | おなじ   | 同じ  |
+| degree           | ど       | 度    |
 
 ### Shapes and Figures
 | English       | Kana     | Kanji  |
 |---------------|----------|--------|
 | shape         | かたち   | 形     |
-| circle        | まる     | ○     |
+| circle        | まる     | ○      |
 | circumference | まわり   | 周り   |
 | triangle      | さんかく | 三角   |
 | square        | しかくい | 四角い |
 
-### Medicine
-| English       | Kana       | Kanji |
-|---------------|------------|-------|
-| health        | けんこう   | 健康  |
-| diagnosis     | しんだん   | 診断  |
-| height (body) | しんちょう | 身長  |
-| weight (body) | たいじゅう | 体重  |
-| cold          | かぜ       | 風邪  |
+### Physics
+| English | Kana | Kanji |
+|---------|------|-------|
+| heat    | ねつ | 熱    |

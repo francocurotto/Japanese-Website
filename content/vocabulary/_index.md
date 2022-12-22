@@ -21,7 +21,7 @@ draft: true
 - [🍎Food and Drinks](food_and_drinks)
 - [👪People and Relationships](people_and_relationships)
 - [🧑‍💼Professions](professions)
-- [👁️Body Parts](body_parts)
+- [👁️Body and Medicine](body_and_medicine)
 - [📅Date and Time](date_and_time)
 - [🇯🇵Countries, Cities, Continents](countries_cities_continents)
 - [🏠Places, Locations, Buildings](places_locations_buildings)

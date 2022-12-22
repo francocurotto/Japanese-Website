@@ -41,6 +41,7 @@ draft: true
 | discover | みつける | 見つける |
 | notice   | きづく   | 気づく   |
 | type     | うつ     | うつ     |
+| show     | みせる   | 見せる   |
 
 ### Food and Drinks
 | English     | Kana     | Kanji  |
@@ -73,6 +74,7 @@ draft: true
 ### Congnitive
 | English       | Kana       | Kanji      |
 |---------------|------------|------------|
+| think         | おもう     | 思う       |
 | understand    | わかる     | 分かる     |
 | teach         | おしえる   | 教える     |
 | memorize      | おぼえる   | 覚える     |

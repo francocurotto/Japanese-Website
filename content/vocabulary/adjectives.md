@@ -35,6 +35,7 @@ draft: true
 ### Senses
 | English | Kana       | Kanji    |
 |---------|------------|----------|
+| painful | いたい     | 痛い     |
 | soft    | やわらかい | 柔らかい |
 
 ### Preference
@@ -83,6 +84,7 @@ draft: true
 | dirty     | きたない   | 汚い   |
 | cute      | かわいい   | 可愛い |
 | unnatural | ふしぜん   | 不自然 |
+| beautiful | うつくしい | 美しい |
 
 ### Congnitive
 | English     | Kana       | Kanji  |
