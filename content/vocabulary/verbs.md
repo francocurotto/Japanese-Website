@@ -98,6 +98,7 @@ draft: true
 | help    | たすける   | 助ける |
 | scold   | しかる     | 叱る   |
 | obey    | かしこまる | 畏まる |
+| meet    | あう       | 合う   |
 
 ### Passive
 | English       | Kana     | Kanji  |

@@ -26,6 +26,7 @@ draft: true
 |      | book store        | ほんや         | 本屋     |
 | 🏣   | post office       | ゆうびんきょく | 郵便局   |
 |      | university        | だいがく       | 大学     |
+|      | academy           | がくえん       | 学園     |
 
 ### House Rooms
 | English  | Kana       | Kanji  |
