@@ -19,6 +19,10 @@ draft: true
 - [Macaroni](macaroni)
 - [Magic of Love](magic_of_love)
 - [Fushizen na Girl](fushizen_na_girl)
+- [One Room Disco](one_room_disco)
+
+### TWICE
+- [One More Time](one_more_time)
 
 ### Anime
 - [Hacking to the Gate - Steins;Gate](hacking_to_the_gate)
