@@ -13,3 +13,5 @@ draft: true
 | goverment worker | こうむいん   | 公務員 |
 | house wife       | しゅふ       | 主婦   |
 | engineer         | エンジニア   |        |
+| doctor           | いしゃ       | 医者   |
+| lawyer           | べんごし     | 弁護士 |

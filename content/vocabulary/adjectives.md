@@ -72,24 +72,26 @@ draft: true
 | fun          | たのしい     | 楽しい |
 
 ## Appareance
-| English   | Kana       | Kanji  |
-|-----------|------------|--------|
-| pretty    | きれい     | 綺麗   |
-| ugly      | わるい     | 悪い   |
-| new       | あたらしい | 新しい |
-| old       | ふるい     | 古い   |
-| well-lit  | あかるい   | 明るい |
-| dark      | くらい     | 暗い   |
-| clean     | せいけつ   | 清潔   |
-| dirty     | きたない   | 汚い   |
-| cute      | かわいい   | 可愛い |
-| unnatural | ふしぜん   | 不自然 |
-| beautiful | うつくしい | 美しい |
+| English      | Kana       | Kanji    |
+|--------------|------------|----------|
+| pretty       | きれい     | 綺麗     |
+| ugly         | わるい     | 悪い     |
+| new          | あたらしい | 新しい   |
+| old          | ふるい     | 古い     |
+| well-lit     | あかるい   | 明るい   |
+| dark         | くらい     | 暗い     |
+| clean        | せいけつ   | 清潔     |
+| dirty        | きたない   | 汚い     |
+| cute         | かわいい   | 可愛い   |
+| unnatural    | ふしぜん   | 不自然   |
+| beautiful    | うつくしい | 美しい   |
+| good-looking | かっこいい | 格好いい |
 
 ### Congnitive
 | English     | Kana       | Kanji  |
 |-------------|------------|--------|
 | interesting | おもしろい | 面白い |
+| kind        | やさしい   | 優しい |
 
 ### Health
 | English | Kana   | Kanji |
