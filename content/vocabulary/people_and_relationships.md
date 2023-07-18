@@ -9,6 +9,7 @@ draft: true
 | person      | ひと     | 人    |
 | everyone    | みんな   | 皆    |
 | all members | ぜんいん | 全員  |
+| man         | だんせい | 男性  |
 
 ### Family Non-Formal
 | English         | Kana       | Kanji  |

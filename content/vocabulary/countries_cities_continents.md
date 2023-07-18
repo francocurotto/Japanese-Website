@@ -25,6 +25,7 @@ draft: true
 ### Cities
 | English  | Kana       | Kanji |
 |----------|------------|-------|
+| city     | とし       | 都市  |
 | Tokyo    | とうきょう | 東京  |
 | Kyoto    | きょうと   | 京都  |
 | Osaka    | おおさか   | 大阪  |
