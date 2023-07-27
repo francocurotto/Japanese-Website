@@ -13,6 +13,7 @@ draft: true
 | 🏍️   | motorcycle     | オートバイ |        |
 | 🚲   | bicyle         | じてんしゃ | 自転車 |
 | 🚕   | taxi           | タクシー   |        |
+| 🚌   | bus            | バス       |        |
 | ✈️    | plane          | ひこうき   | 飛行機 |
 | 🚢   | ship           | ふね       | 船     |
 

@@ -23,6 +23,7 @@ draft: true
 |      | art museum        | びじゅつかん   | 美術館   |
 |      | road              | みち           | 道       |
 | 🛣️   | street            | とおり         | 通り     |
+| 🚏   | bus stop          | バスけい       | バス停   |
 |      | book store        | ほんや         | 本屋     |
 | 🏣   | post office       | ゆうびんきょく | 郵便局   |
 |      | university        | だいがく       | 大学     |
