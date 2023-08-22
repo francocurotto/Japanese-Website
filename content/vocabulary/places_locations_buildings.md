@@ -28,6 +28,7 @@ draft: true
 | 🏣   | post office       | ゆうびんきょく | 郵便局   |
 |      | university        | だいがく       | 大学     |
 |      | academy           | がくえん       | 学園     |
+|      | airport           | くうこう       | 空港     |
 
 ### House Rooms
 | English  | Kana       | Kanji  |

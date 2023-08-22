@@ -33,6 +33,7 @@ draft: true
 |------|---------|----------|-------|
 | 🚽   | toilet  | トイレ   |       |      
 | 🚿   | shower  | シャワー |       |
+| 🧼   | soap    | せっけん | 石鹸  |
 
 ### Electronics
 | Icon | English    | Kana     | Kanji |

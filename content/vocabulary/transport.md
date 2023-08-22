@@ -23,3 +23,8 @@ draft: true
 |      | road    | みち     | 道    |
 | 🛣️   | street  | とおり   | 通り  |
 | 🚦   | signal  | しんごう | 信号  |
+
+### Transportation Places
+| English   | Kana       | Kanji |
+|-----------|------------|-------|
+| departure | しゅっぱつ | 出発  |

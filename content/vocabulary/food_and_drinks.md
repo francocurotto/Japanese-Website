@@ -27,10 +27,11 @@ draft: true
 |      | tuna belly | トロ   |       |
 
 ### Fruits
-| Icon | English | Kana     | Kanji |
-|------|---------|----------|-------|
-|      | fruit   | くだもの | 果物  |
-| 🍎   | apple   | りんご   | 林檎  |
+| Icon | English | Kana       | Kanji  |
+|------|---------|------------|--------|
+|      | fruit   | くだもの   | 果物   |
+| 🍎   | apple   | りんご     | 林檎   |
+| 🍒   | cherry  | さくらんぼ | 桜んぼ |
 
 ### Vegetables
 | Icon | English            | Kana     | Kanji |
