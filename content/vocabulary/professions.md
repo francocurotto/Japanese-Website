@@ -15,3 +15,4 @@ draft: true
 | engineer         | エンジニア   |        |
 | doctor           | いしゃ       | 医者   |
 | lawyer           | べんごし     | 弁護士 |
+| queen            | じょおう     | 女王   |

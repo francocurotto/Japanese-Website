@@ -88,10 +88,11 @@ draft: true
 | cool      | かっこいい | 格好いい |
 
 ### Congnitive
-| English     | Kana       | Kanji  |
-|-------------|------------|--------|
-| interesting | おもしろい | 面白い |
-| kind        | やさしい   | 優しい |
+| English     | Kana       | Kanji    |
+|-------------|------------|----------|
+| interesting | おもしろい | 面白い   |
+| kind        | やさしい   | 優しい   |
+| crazy       | おかしい   | 可笑しい |
 
 ### Health
 | English | Kana   | Kanji |

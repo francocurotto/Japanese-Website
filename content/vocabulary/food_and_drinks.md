@@ -78,6 +78,7 @@ draft: true
 |      | miso soup | みそしる     | 味噌汁 |
 
 ### Condiments
-| English | Kana     |
-|---------|----------|
-| spice   | スパイス |
+| English | Kana     | Kanji |
+|---------|----------|-------|
+| sugar   | さとう   | 砂糖  |
+| spice   | スパイス |       |
