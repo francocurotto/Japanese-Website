@@ -19,11 +19,12 @@ draft: true
 | cloudy  | くもり | 曇り  |
 
 ### Celestial Objects
-| Icon | English | Kana | Kanji |
-|------|---------|------|-------|
-| ☀️    | sun     | ひ   | 日    |
-| 🌙   | moon    | つき | 月    |
-| ⭐   | star    | ほし | 星    |
+| Icon | English  | Kana     | Kanji  |
+|------|----------|----------|--------|
+| ☀️    | sun      | ひ       | 日     |
+| 🌙   | moon     | つき     | 月     |
+| ⭐   | star     | ほし     | 星     |
+| 🌕   | new moon | みかづき | 三日月 |
 
 ### Planets
 | Icon | English | Kana         | Kanji  |
