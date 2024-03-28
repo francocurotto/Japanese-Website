@@ -53,6 +53,7 @@ draft: true
 | 🧢   | hat     | ぼうし | 帽子  |
 | 🧥   | coat    | コート |       |
 | 👟   | shoe    | くつ   |       |
+|      | happi   | はっぴ | 法被  |
 
 ### Office
 | Icon | English       | Kana     | Kanji |
@@ -94,6 +95,11 @@ draft: true
 | 🎫   | ticket   | きっぷ   | 切符   |
 |      | souvenir | おみやげ | お土産 |
 | 🗺️   | map      | ちず     | 地図   |
+
+### Outdoors
+| Icon | English   | Kana     | Kanji |
+|------|-----------|----------|-------|
+|      | signboard | かんばん | 看板  |
 
 ### Money
 | Icon | English     | Kana             | Kanji |

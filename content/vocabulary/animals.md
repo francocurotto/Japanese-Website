@@ -21,8 +21,10 @@ draft: true
 | 🐘   | elephant | ぞう     | 象    |
 | 🦁   | lion     | ライオン |       |
 | 🐯   | tiger    | とら     | 虎    |
+| 🐒   | monkey   | さる     | 猿    |
 | 🐼   | panda    | パンダ   |       |
 | 🐨   | koala    | コアラ   |       |
+| 🐪   | camel    | らくだ   | 駱駝  |
 
 ### Birds
 | Icon | English | Kana     | Kanji |
@@ -37,6 +39,11 @@ draft: true
 | 🐟   | fish    | さかな | 魚    |
 | 🦐   | shrimp  | えび   | 海老  |
 |      | tuna    | マグロ |       |
+
+### Reptiles
+| Icon | English  | Kana         | Kanji |
+|------|----------|--------------|-------|
+| 🦕   | dinosaur | きょうりゅう | 恐竜  |
 
 ### Animal Parts
 | English | Kana | Kanji |

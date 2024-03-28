@@ -53,6 +53,7 @@ draft: true
 | English | Kana     | Kanji |
 |---------|----------|-------|
 | friend  | ともだち | 友達  |
+| guest   | きゃく   | 客    |
 
 ### Person Description
 | English          | Kana       | Kanji      |

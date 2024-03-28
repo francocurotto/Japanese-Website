@@ -26,18 +26,17 @@ draft: true
 | 🥚   | egg        | たまご | 卵    |
 |      | tuna belly | トロ   |       |
 
-### Fruits
-| Icon | English | Kana       | Kanji  |
-|------|---------|------------|--------|
-|      | fruit   | くだもの   | 果物   |
-| 🍎   | apple   | りんご     | 林檎   |
-| 🍒   | cherry  | さくらんぼ | 桜んぼ |
-
-### Vegetables
-| Icon | English            | Kana     | Kanji |
-|------|--------------------|----------|-------|
-|      | vegetables         | やさい   | 野菜  |
-|      | fermented soybeans | なっとう | 納豆  |
+### Fruits and Vegetables
+| Icon | English            | Kana       | Kanji  |
+|------|--------------------|------------|--------|
+|      | fruit              | くだもの   | 果物   |
+|      | vegetables         | やさい     | 野菜   |
+| 🍎   | apple              | りんご     | 林檎   |
+| 🍒   | cherry             | さくらんぼ | 桜んぼ |
+|      | fermented soybeans | なっとう   | 納豆   |
+| 🥒   | cucumber           | きゅうり   | 胡瓜   |
+| 🍊   | mandarin           | みかん     | 蜜柑   |
+| 🍉   | watermelon         | すいか     | 西瓜   |
 
 ### Prepared
 | Icon | English        | Kana           | Kanji  |
@@ -57,10 +56,15 @@ draft: true
 | 🍟   | fried potatoes | フライドポテト |        |
 | 🍕   | pizza          | ピザ           |        |
 | 🥗   | salad          | サラダ         |        |
-| 🎂   | cake           | ケーキ         |        |
-|      | cream puff     | シュークリーム |        |
-| 🍦   | ice cream      | アイスクリーム |        |
 |      | rice porridge  | おかゆ         | お粥   |
+
+### Sweets
+| Icon | English    | Kana           | Kanji |
+|------|------------|----------------|-------|
+| 🎂   | cake       | ケーキ         |       |
+|      | cream puff | シュークリーム |       |
+| 🍦   | ice cream  | アイスクリーム |       |
+| 🍬   | Candy      | あめ           | 飴    |
 
 ### Drinks
 | Icon | English   | Kana         | Kanji  |

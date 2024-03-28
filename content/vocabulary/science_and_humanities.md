@@ -45,6 +45,7 @@ draft: true
 | square        | しかくい | 四角い |
 
 ### Physics
-| English | Kana | Kanji |
-|---------|------|-------|
-| heat    | ねつ | 熱    |
+| English     | Kana   | Kanji |
+|-------------|--------|-------|
+| heat        | ねつ   | 熱    |
+| radio waves | でんぱ | 電波  |
