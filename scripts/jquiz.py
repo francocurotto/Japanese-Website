@@ -188,10 +188,10 @@ def goto_next():
     set_newitem()
     
 def set_restext_correct():
-    restext.set_text(("correct", "CORRECT!"))
+    restext.set_text(("correct", "CORRECT! 😁"))
 
 def set_restext_incorrect():
-    restext.set_text(("incorrect", "INCORRECT :("))
+    restext.set_text(("incorrect", "INCORRECT 😔"))
 
 def set_restext_next():
     string = quizitem[0] + ": " + ", ".join(quizitem[1])
